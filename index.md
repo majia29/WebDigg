@@ -1,11 +1,13 @@
 
 **[2019-05]**
 
++ [PyTorch大更新！谷歌出手帮助开发，正式支持TensorBoard  附5大开源项目](1905-pytorch_da_geng_xin_gu_ge_chu_shou_bang_zhu_kai_fa_zheng_shi_zhi_chi_tensorboard_fu_5_da_kai_yuan_xiang_mu) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/nLe4EPg_y6hX4TrYvTsgmw)</sub>
 + [PyTorch大更新！谷歌出手帮助开发，正式支持TensorBoard | 附5大开源项目](1905-pytorch_da_geng_xin_gu_ge_chu_shou_bang_zhu_kai_fa_zheng_shi_zhi_chi_tensorboard_fu_5_da_kai_yuan_xiang_mu) <sub>[\[微信公众号\]](https://mp.weixin.qq.com/)</sub>
 + [数理史上的绝妙证明：准晶是高维晶体的投影](1905-shu_li_shi_shang_de_jue_miao_zheng_ming_zhun_jing_shi_gao_wei_jing_ti_de_tou_ying)
 
 **[2019-04]**
 
++ [AutoML：机器学习的下一波浪潮](1904-automl_ji_qi_xue_xi_de_xia_yi_bo_lang_chao) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/9reoHwOPE3H4ZBqNTimvfg)</sub>
 + [上海久耶基于HBase实时数仓探索实践](1904-shang_hai_jiu_ye_ji_yu_hbase_shi_shi_shu_cang_tan_suo_shi_jian)
 + [如何从零开始搭建 CI/CD 流水线](1904-ru_he_cong_ling_kai_shi_da_jian_ci_cd_liu_shui_xian)
 + [AutoML：机器学习的下一波浪潮](1904-automl_ji_qi_xue_xi_de_xia_yi_bo_lang_chao)

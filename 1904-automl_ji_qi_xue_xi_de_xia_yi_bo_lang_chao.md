@@ -3,7 +3,7 @@
 > 原创：  
 > AI前线小组 译  
 > 作者: AI前线  
-> 发布日期: 2019-04-28  
+> 发布日期: 2019-04-29  
 
 ![image](images/1904-automljqxxdxyblc-0.jpeg)
  作者 | Parul Pandey  译者 | 杨雷  编辑 | Natalie **AI 前线导读：** 人工智能和机器学习仍然是一个进入门槛较高的领域，需要专业的知识和资源，很少有公司可以自己承担。—— 李飞飞
@@ -85,14 +85,15 @@ MLBox 的主程序包包含 3 个子包，用于自动执行以下任务：
 安装
 
 目前，MLBox 仅兼容 Linux，很快就会支持 Windows 和 MacOS。
-[code]
+
+```
 #gcc
 sudo apt-get install build-essential
 
 #cmake
 pip install cmake
 pip install mlbox
-[/code]
+```
 
 演示
 
@@ -115,18 +116,20 @@ Auto-sklearn 在中小型数据集上表现良好，但它还无法在大型数�
 安装
 
 Auto-sklearn 目前仅适用于 Linux 系统的机器。
-[code]
+
+```
 #dependencies
 curl https://raw.githubusercontent.com/automl/auto-sklearn/master/requirements.txt | xargs -n 1 -L 1 pip install
 
 #auto-sklearn
 pip install auto-sklearn
-[/code]
+```
 
 演示
 
 以下示例显示如何使用 Auto-Sklearn 拟合简单回归模型。
-[code]
+
+```
 import sklearn.model_selection
 import sklearn.datasets
 import sklearn.metrics
@@ -154,7 +157,7 @@ print("R2 score:", sklearn.metrics.r2_score(y_test, predictions))
 
 if __name__ == '__main__':
 main()
-[/code]
+```
 
 资源：https://automl.github.io/auto-sklearn/stable/examples/example\_regression.html\#sphx-glr-examples-example-regression-py
 
@@ -171,9 +174,10 @@ TPOT 自动化的机器学习过程
 TPOT 无法自动处理自然语言输入。此外，它还无法处理分类字符串，在作为数据传入之前，这些字符串必须进行整数编码。
 
 安装
-[code]
+
+```
 pip install tpot
-[/code]
+```
 
 有关详细说明，请访问 TPOT 安装说明。
 
@@ -206,7 +210,8 @@ H2O 自动化了一些最复杂的数据科学和机器学习工作，例如特�
 演示
 
 以下是一个 Python 示例，展示了 H2OAutoML 类的基本用法：
-[code]
+
+```
 import h2o
 from h2o.automl import H2OAutoML
 
@@ -271,7 +276,7 @@ preds = aml.predict(test)
 
 ### or:
 preds = aml.leader.predict(test)
-[/code]
+```
 
 资源：http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html
 
@@ -294,14 +299,16 @@ Auto-Keras 的趋势是通过使用自动 神经架构搜索（NAS）算法简�
 安装
 
 安装 部分也很简单：
-[code]
+
+```
 pip install autokeras #only comptible with Python 3.7
-[/code]
+```
 
 演示
 
 以下是 MNIST 数据集上 Auto-Keras 库的演示：
-[code]
+
+```
 from keras.datasets import mnist
 from autokeras import ImageClassifier
 from autokeras.constant import Constant
@@ -316,7 +323,7 @@ clf.final_fit(x_train, y_train, x_test, y_test, retrain=True)
 y = clf.evaluate(x_test, y_test)
 
 print(y * 100)
-[/code]
+```
 
 资源：https://github.com/keras-team/autokeras/blob/master/examples/a\_simple\_example/mnist.py
 
@@ -349,19 +356,21 @@ TransmogrifAI 是  Salesforce 的一个开源自动化机器学习库。该公�
 安装
 
 先决条件是需要安装 Java 和 Spark：
-[code]
+
+```
 ###Install JAVA 1.8
 ###Get Spark 2.3.x
 git clone https://github.com/salesforce/TransmogrifAI.git
 cd TransmogrifAI && ./gradlew compileTestScala installDist
-[/code]
+```
 
 阅读文档（https://docs.transmogrif.ai/en/stable/installation/index.html\#installation ），获取完整的安装说明。
 
 演示
 
 用 TransmogrifAI 预测泰坦尼克号幸存者，在 https://transmogrif.ai/ 查看整个示例。
-[code]
+
+```
 import com.salesforce.op._
 import com.salesforce.op.readers._
 import com.salesforce.op.features._
@@ -392,7 +401,7 @@ val (pred, raw, prob) = BinaryClassificationModelSelector().setInput(survived, c
 val model = new OpWorkflow().setInputDataset(passengersData).setResultFeatures(pred).train()
 
 println("Model summary:\n" + model.summaryPretty())
-[/code]
+```
 
 AutoML 的未来
 
@@ -433,6 +442,6 @@ QCon北京限额免费福利➡️算法和人工智能应用实践专场
 
 * * *
 
-![image](images/1904-automljqxxdxyblc-15.jpeg)
+![image](images/1904-automljqxxdxyblc-15.gif)
 
 **你也「在看」吗？** **👇**
