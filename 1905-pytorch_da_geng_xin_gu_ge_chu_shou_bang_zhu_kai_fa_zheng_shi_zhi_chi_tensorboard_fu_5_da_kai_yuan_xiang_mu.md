@@ -137,25 +137,3 @@ Facebook首席AI科学家Yann LeCun说，把“自监督”说成“无监督”
 ![image](images/1905-pytorchdgxggcsbzkfzszctensorboardf5dkyxm-9.jpeg)
 
 自监督学习在自然语言处理方面取得了巨大成功。在LeCun看来，在图像和视频上使用这项技术未来几年ML和AI的最大挑战。
-
-— **完** —
-
-**小程序|get更多AI资讯与资源**
-
-![image](images/1905-pytorchdgxggcsbzkfzszctensorboardf5dkyxm-10.png) 量子位+ AI进阶必备神器 
-![image](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEUAAAB4it11h9x2h9x2h9x2htx8j+R8i+B1h9x2h9x3h92Snv91htt2h9x1h9x4h9x1h9x1h9x2idx1h9t2h9t1htt1h9x1h9x1htx2h9x1h912h9x4h913iN17juOOjuN1iNx2h9t4h958i+B1htvejBiPAAAAJHRSTlMALPLcxKcVEOXXUgXtspU498sx69DPu5+Yc2JeRDwbCYuIRiGBtoolAAAA3ElEQVQoz62S1xKDIBBFWYiFYImm2DWF///G7DJEROOb58U79zi4O8iOo8zuCRfV8EdFgbYE49qFQs8ksJInajOA1wWfYvLcGSueU/oUGBtPpti09uNS68KTMcrQ5jce4kmN/HKn9XVPAo702JEdx9hTUrWUqVrI3KwUmM1NhIWMKdwiGvpGMWZOAj1PZuzAxHwhVSplrajoseBnbyDHAwvrtvKKhdqTtFBkL8wO5ijcsS3G1JMNvQ5mdW7fc0x0+ZcnlJlZiflAomdEyFaM7qeK2JahEjy5ZyU7jC/q/Rz/DgqEuAAAAABJRU5ErkJggg==)
-小程序
-
-**加入社群**
-
-量子位AI社群开始招募啦，量子位社群分：AI讨论群、AI+行业群、AI技术群；
-
-欢迎对AI感兴趣的同学，在量子位公众号（QbitAI）对话界面回复关键字“微信群”，获取入群方式。（技术群与AI+行业群需经过审核，审核较严，敬请谅解）
-
-![image](images/1905-pytorchdgxggcsbzkfzszctensorboardf5dkyxm-12.jpeg)
-
-**量子位  **QbitAI · 头条号签约作者
-
-վ'ᴗ' ի 追踪AI技术和产品新动态
-
-喜欢就点「在看」吧 \!

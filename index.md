@@ -1,11 +1,17 @@
 
 **[2019-05]**
 
++ [“石黑双语”是怎样炼成的？ ——双语版石黑一雄作品编辑札记](1905-shi_hei_shuang_yu_shi_zen_yang_lian_cheng_de_shuang_yu_ban_shi_hei_yi_xiong_zuo_pin_bian_ji_zha_ji) <sub>[\[weibo.com\]](https://weibo.com/ttarticle/p/show?id=2309404369260976721002)</sub>
 + [数理史上的绝妙证明：准晶是高维晶体的投影](1905-shu_li_shi_shang_de_jue_miao_zheng_ming_zhun_jing_shi_gao_wei_jing_ti_de_tou_ying) <sub>[\[weibo.com\]](https://weibo.com/ttarticle/p/show?id=2309404367784715906919)</sub>
 + [PyTorch大更新！谷歌出手帮助开发，正式支持TensorBoard  附5大开源项目](1905-pytorch_da_geng_xin_gu_ge_chu_shou_bang_zhu_kai_fa_zheng_shi_zhi_chi_tensorboard_fu_5_da_kai_yuan_xiang_mu) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/nLe4EPg_y6hX4TrYvTsgmw)</sub>
 
 **[2019-04]**
 
++ [九年积累！Alibaba Cloud Linux 2终于开源](1904-jiu_nian_ji_lei_alibaba_cloud_linux_2_zhong_yu_kai_yuan) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/IijmcHedT*1qCFRIe3fZ)</sub>
++ [阿里云PB级Kubernetes日志平台建设实践](1904-a_li_yun_pb_ji_kubernetes_ri_zhi_ping_tai_jian_she_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/7642QHo6vmZvQxFw9*k3)</sub>
++ [软件开发宣言：请保持简洁](1904-ruan_jian_kai_fa_xuan_yan_qing_bao_chi_jian_jie) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/0IVSLVsv5NXqX9*LE39x)</sub>
++ [AutoML：机器学习的下一波浪潮](1904-automl_ji_qi_xue_xi_de_xia_yi_bo_lang_chao) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/9reoHwOPE3H4ZBqNTimvfg)</sub>
++ [是时候放弃TensorFlow集群，拥抱Horovod了](1904-shi_shi_hou_fang_qi_tensorflow_ji_qun_yong_bao_horovod_le) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496242&idx=1&sn=98652c78b44244de7091719fe7e03f91&chksm=fbea4bfdcc9dc2eb5aba051ecdc16c99d8f8e2a2cd994fa7496185276bcb5c505a22f1e008df&token=1202881616&lang=zh_CN#rd)</sub>
 + [如何从零开始搭建 CI/CD 流水线](1904-ru_he_cong_ling_kai_shi_da_jian_ci_cd_liu_shui_xian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/WHt0wFMDRrBU-dtkh1Xp)</sub>
 + [上海久耶基于HBase实时数仓探索实践](1904-shang_hai_jiu_ye_ji_yu_hbase_shi_shi_shu_cang_tan_suo_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/L6yfEtYlMNAl5p_DmDgL)</sub>
 + [这一天还是来了：亚马逊利用AI监控员工工作效率，并生成解雇指令](1904-zhe_yi_tian_huan_shi_lai_le_ya_ma_xun_li_yong_ai_jian_kong_yuan_gong_gong_zuo_xiao_lv_bing_sheng_cheng_jie_gu_zhi_ling) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/xrSSD-y84PAbD3fopEFa)</sub>
@@ -15,7 +21,6 @@
 + [谷歌、阿里等10大深度学习CTR模型最全演化图谱](1904-gu_ge_a_li_deng_10_da_shen_du_xue_xi_ctr_mo_xing_zui_quan_yan_hua_tu_pu) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/TySwhPNlckijh8Q_vdyO)</sub>
 + [Jeff Dean点赞共识论文：一种通用的分布式一致性方案](1904-jeff_dean_dian_zan_gong_shi_lun_wen_yi_zhong_tong_yong_de_fen_bu_shi_yi_zhi_xing_fang_an) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/Ub2b0ZL_3fc59W3QwCda)</sub>
 + [裁员过后，找不到工作的程序员们](1904-cai_yuan_guo_hou_zhao_bu_dao_gong_zuo_de_cheng_xu_yuan_men) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/9s0Bh758zMV-Gh791JI8)</sub>
-+ [AutoML：机器学习的下一波浪潮](1904-automl_ji_qi_xue_xi_de_xia_yi_bo_lang_chao) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/9reoHwOPE3H4ZBqNTimvfg)</sub>
 
 **[2019-03]**
 
