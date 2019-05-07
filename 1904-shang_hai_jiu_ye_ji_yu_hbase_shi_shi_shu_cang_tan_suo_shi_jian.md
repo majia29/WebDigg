@@ -32,7 +32,7 @@
 
 基于这四点主要特性需求，选择了 Maxwell，没有选择当前其他开源产品。
 
-![image](images/1904-shjyjyhbasesssctssj-3.jpeg)
+![image](images/1904-shjyjyhbasesssctssj-3.png)
 
 接下来讲一下为什么选择 HBase 而不选择其他大数据组件？
 

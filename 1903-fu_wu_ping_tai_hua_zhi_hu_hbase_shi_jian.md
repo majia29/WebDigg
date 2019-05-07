@@ -118,323 +118,82 @@ Master 组件的功能主要是管理 HBase 集群，Thriftserver 组件主要�
 基础镜像基于 cdh5.5.0-hbase1.0.0 构建
 
 复制代码
-[code]
-<table>
-<tr>
-<td>
 
-</td>
-<td>
-
+```
 ### Example for hbase dockerfile
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 ### install cdh5.5.0-hbase1.0.0
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 ADD hdfs-site.xml /usr/lib/hbase/conf/
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 ADD core-site.xml /usr/lib/hbase/conf/
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 ADD env-init.py /usr/lib/hbase/bin/
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 ENV JAVA_HOME /usr/lib/jvm/java-8-oracle
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 ENV HBASE_HOME /usr/lib/hbase
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 ENV HADOOP_PREFIX /usr/lib/hadoop
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 ADD env-init.py /usr/lib/hbase/bin/
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 ADD hadoop_xml_conf.sh /usr/lib/hbase/bin/
-
-</td></tr></table>
-[/code]
+```
 
 * 固定的环境变量，如 JDK\_HOME, HBASE\_HOME, 都通过 ENV 注入到容器镜像中 ;
 * 与 HDFS 相关的环境变量，如 hdfs-site.xml 和 core-site.xml 预先加入 Docker 镜像中，构建的过程中就放入了 HBase 的相关目录中，用以确保 HBase 服务能够通过对应配置访问到 HDFS;
 * 与 HBase 相关的配置信息, 如组件启动依赖的 Zookeeper 集群地址，HDFS 数据目录路径, 堆内存以及 GC 参数等，这些配置都需要根据传入 Kubas Service 的信息进行对应变量的修改, 一个典型的传入参数示例:
 
 复制代码
-[code]
-<table>
-<tr>
-<td>
 
-</td>
-<td>
-
+```
 REQUEST_DATA = {
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "name": 'test-cluster',
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "rootdir": "hdfs://namenode01:8020/tmp/hbase/test-cluster",
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "zkparent": "/test-cluster",
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "zkhost": "zookeeper01,zookeeper02,zookeeper03",
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "zkport": 2181,
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "regionserver_num": '3',
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "codecs": "snappy",
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "client_type": "java",
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "cpu": '1',
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "memory": '30',
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "status": "running",
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 }
-
-</td></tr></table>
-[/code]
+```
 
 通过上面的参数 Kubas Service 启动 Docker 时，在启动命令中利用 hadoop\_xml\_conf.sh 和 [env-init.py](http://env-init.py) 修改 hbase-site.xml 和 [hbase-env.sh](http://hbase-env.sh) 文件来完成最后的配置注入，如下所示:
 
 复制代码
-[code]
-<table>
-<tr>
-<td>
 
-</td>
-<td>
-
+```
 source /usr/lib/hbase/bin/hadoop_xml_conf.sh
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 && put_config --file /etc/hbase/conf/hbase-site.xml --property hbase.regionserver.codecs --value snappy
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 && put_config --file /etc/hbase/conf/hbase-site.xml --property zookeeper.znode.parent --value /test-cluster
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 && put_config --file /etc/hbase/conf/hbase-site.xml --property hbase.rootdir --value hdfs://namenode01:8020/tmp/hbase/test-cluster
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 && put_config --file /etc/hbase/conf/hbase-site.xml --property hbase.zookeeper.quorum --value zookeeper01,zookeeper02,zookeeper03
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 && put_config --file /etc/hbase/conf/hbase-site.xml --property hbase.zookeeper.property.clientPort --value 2181
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 && service hbase-regionserver start && tail -f /var/log/hbase/hbase-hbase-regionserver.log
-
-</td></tr></table>
-[/code]
+```
 
 ##### 网络通信
 
@@ -498,383 +257,100 @@ ConfigMap 存档
 在引入了 ConfigMap 功能之后，之前创建集群的请求信息也随之改变.
 
 复制代码
-[code]
-<table>
-<tr>
-<td>
 
-</td>
-<td>
-
+```
 RequestData
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 {
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "name": "performance-test-rmwl",
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "namespace": "online",
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "app": "kubas",
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "config_template": "online-example-base.v1",
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "status": "Ready",
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "properties": {
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "hbase.regionserver.codecs": "snappy",
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "hbase.rootdir": "hdfs://zhihu-example-online:8020/user/online-tsn/performance-test-rmwl",
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "hbase.zookeeper.property.clientPort": "2181",
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "hbase.zookeeper.quorum": "zookeeper01,zookeeper02,zookeeper03",
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "zookeeper.znode.parent": "/performance-test-rmwl"
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 },
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "client_type": "java",
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "cluster_uid": "k8s-example-hbase---performance-test-rmwl---example"
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 }
-
-</td></tr></table>
-[/code]
+```
 
 其中 config\_template 指定了该集群使用的配置信息模板，之后所有和该 HBase 集群有关的组件配置都由该配置模板渲染出具体配置.
 
 config\_template 中还预先约定了 HBase 组件的基础运行配置信息，如组件类型，使用的启动命令，采用的镜像文件，初始的副本数等.
 
 复制代码
-[code]
-<table>
-<tr>
-<td>
 
-</td>
-<td>
-
+```
 servers:
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 {
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "master": {
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "servertype": "master",
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "command": "service hbase-master start && tail -f /var/log/hbase/hbase-hbase-master.log",
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "replicas": 1,
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "image": "dockerimage.zhihu.example/apps/example-master:v1.1",
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "requests": {
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "cpu": "500m",
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "memory": "5Gi"
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 },
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 "limits": {
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 "cpu": "4000m"
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 }
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 },
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 }
-
-</td></tr></table>
-[/code]
+```
 
 Docker 镜像文件配合 ConfigMap 功能，在预先约定的路径方式存放配置文件信息，同时在真正的 HBase 配置路径中加入软链文件.
 
 复制代码
-[code]
-<table>
-<tr>
-<td>
 
-</td>
-<td>
-
+```
 RUN mkdir -p /data/hbase/hbase-site
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 RUN mv /etc/hbase/conf/hbase-site.xml /data/hbase/hbase-site/hbase-site.xml
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 RUN ln -s /data/hbase/hbase-site/hbase-site.xml /etc/hbase/conf/hbase-site.xml
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
 
 RUN mkdir -p /data/hbase/hbase-env
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 RUN mv /etc/hbase/conf/hbase-env.sh /data/hbase/hbase-env/hbase-env.sh
 
-</td></tr>
-<tr>
-<td>
-
-</td>
-<td>
-
 RUN ln -s /data/hbase/hbase-env/hbase-env.sh /etc/hbase/conf/hbase-env.sh
-
-</td></tr></table>
-[/code]
+```
 
 ##### 构建流程
 
