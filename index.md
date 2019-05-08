@@ -1,12 +1,20 @@
 
 **[2019-05]**
 
++ [金融风控反欺诈之图算法](1905-jin_rong_feng_kong_fan_qi_zha_zhi_tu_suan_fa) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/C99whYfeGILp1W*M75cl)</sub>
++ [Twitter 宣布抛弃 Mesos，全面转向Kubernetes](1905-twitter_xuan_bu_pao_qi_mesos_quan_mian_zhuan_xiang) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/672*aX6aQ1FB0QT1RRAM)</sub>
++ [深度神经网络是否夸张地过拟合了？](1905-shen_du_shen_jing_wang_luo_shi_fou_kua_zhang_di_guo_ni_he_le) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/Q9Ib8t-VNqeho4xZuQrd)</sub>
++ [百度智能监控场景下的HBase实践](1905-bai_du_zhi_neng_jian_kong_chang_jing_xia_de_hbase_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/cFqcz5q*Amg68Bs9iPtC)</sub>
++ [贾扬清推荐：阿里开源轻量级深度学习框架 MNN，侧重推理加速和优化](1905-jia_yang_qing_tui_jian_a_li_kai_yuan_qing_liang_ji_shen_du_xue_xi_kuang_jia_mnn_ce_zhong_tui_li_jia_su_he_you_hua) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/HNQ6GdN9ESikbTquttBEVg)</sub>
++ [没有领域和算法限制，联邦学习是打破数据孤岛的利器](1905-mei_you_ling_yu_he_suan_fa_xian_zhi_lian_bang_xue_xi_shi_da_po_shu_ju_gu_dao_de_li_qi) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496352&idx=1&sn=24c942d2aee080086d4fad4571480d01&chksm=fbea4b6fcc9dc279cb03a5e01a74d451e4a0bc7da3a6c321a469243822979bdaf644e7f01596&token=1767065417&lang=zh_CN#rd)</sub>
++ [如何找到相似Graph？DeepMind提出超越GNN的图匹配网络](1905-ru_he_zhao_dao_xiang_si_graph_deepmind_ti_chu_chao_yue_gnn_de_tu_pi_pei_wang_luo) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/i4_7K0g4ANMP7ai-5wgFDQ)</sub>
 + [“石黑双语”是怎样炼成的？ ——双语版石黑一雄作品编辑札记](1905-shi_hei_shuang_yu_shi_zen_yang_lian_cheng_de_shuang_yu_ban_shi_hei_yi_xiong_zuo_pin_bian_ji_zha_ji) <sub>[\[weibo.com\]](https://weibo.com/ttarticle/p/show?id=2309404369260976721002)</sub>
 + [数理史上的绝妙证明：准晶是高维晶体的投影](1905-shu_li_shi_shang_de_jue_miao_zheng_ming_zhun_jing_shi_gao_wei_jing_ti_de_tou_ying) <sub>[\[weibo.com\]](https://weibo.com/ttarticle/p/show?id=2309404367784715906919)</sub>
 + [PyTorch大更新！谷歌出手帮助开发，正式支持TensorBoard  附5大开源项目](1905-pytorch_da_geng_xin_gu_ge_chu_shou_bang_zhu_kai_fa_zheng_shi_zhi_chi_tensorboard_fu_5_da_kai_yuan_xiang_mu) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/nLe4EPg_y6hX4TrYvTsgmw)</sub>
 
 **[2019-04]**
 
++ [许式伟：毕业 2 年成为首席架构师，我的技术学习方法论  极客时间](1904-xu_shi_wei_bi_ye_2_nian_cheng_wei_shou_xi_jia_gou_shi_wo_de_ji_zhu_xue_xi_fang_fa_lun_ji_ke_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/mOs0B4*SHGFuaYopZUZu)</sub>
 + [九年积累！Alibaba Cloud Linux 2终于开源](1904-jiu_nian_ji_lei_alibaba_cloud_linux_2_zhong_yu_kai_yuan) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/IijmcHedT*1qCFRIe3fZ)</sub>
 + [阿里云PB级Kubernetes日志平台建设实践](1904-a_li_yun_pb_ji_kubernetes_ri_zhi_ping_tai_jian_she_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/7642QHo6vmZvQxFw9*k3)</sub>
 + [软件开发宣言：请保持简洁](1904-ruan_jian_kai_fa_xuan_yan_qing_bao_chi_jian_jie) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/0IVSLVsv5NXqX9*LE39x)</sub>
@@ -25,3 +33,11 @@
 **[2019-03]**
 
 + [服务平台化，知乎 HBase 实践](1903-fu_wu_ping_tai_hua_zhi_hu_hbase_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/oZCcFAC7J4-01yFTG5r3)</sub>
+
+**[2017-11]**
+
++ [百度大规模时序数据存储（二） 存储选型及数据模型设计](1711-bai_du_da_gui_mo_shi_xu_shu_ju_cun_chu_er_cun_chu_xuan_xing_ji_shu_ju_mo_xing_she_ji) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzUyMzA3MTY1NA==&mid=2247484040&idx=1&sn=82012419d6d4a0f65054378c755f1b82&chksm=f9c37b41ceb4f257e0b38e7f5a7672fd540502dfc1db5da3fa2c99de9e2961fe3bf8da92be31&scene=21#wechat_redirect)</sub>
+
+**[2017-10]**
+
++ [百度大规模时序数据存储（一） 监控场景的时序数据](1710-bai_du_da_gui_mo_shi_xu_shu_ju_cun_chu_yi_jian_kong_chang_jing_de_shi_xu_shu_ju) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzUyMzA3MTY1NA==&mid=2247484010&idx=1&sn=89d0e9c957e86ff93c99688f11e0b819&chksm=f9c37ba3ceb4f2b549a0b59c67a74f0d6aebcf22ae8ca83451b6a25d0ec8073bd286d050ae39&scene=21#wechat_redirect)</sub>

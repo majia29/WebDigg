@@ -106,5 +106,3 @@ DIEN 的全称为 Deep Interest Evolution Network，它不仅是对 DIN 的进�
 ### 作者介绍
 
 王喆，毕业于清华大学计算机系，现在美国最大的 smartTV 公司 Roku 任 senior machine learning engineer，曾任 hulu senior research SDE，7 年计算广告、推荐系统领域业界经验，相关专利 3 项，论文 7 篇，《机器学习实践指南》、《百面机器学习》作者之一。知乎专栏 / 微信公众号：王喆的机器学习笔记。
-
-![image](images/1904-ggald10dsdxxctrmxzqyhtp-13.png)
