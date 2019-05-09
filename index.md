@@ -1,6 +1,7 @@
 
 **[2019-05]**
 
++ [DeepCTR：易用可扩展的深度学习点击率预测算法库](1905-deepctr_yi_yong_ke_kuo_zhan_de_shen_du_xue_xi_dian_ji_lv_yu_ce_suan_fa_ku) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/iDt28zXQuKqBfG*wCWfc)</sub>
 + [金融风控反欺诈之图算法](1905-jin_rong_feng_kong_fan_qi_zha_zhi_tu_suan_fa) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/C99whYfeGILp1W*M75cl)</sub>
 + [Twitter 宣布抛弃 Mesos，全面转向Kubernetes](1905-twitter_xuan_bu_pao_qi_mesos_quan_mian_zhuan_xiang) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/672*aX6aQ1FB0QT1RRAM)</sub>
 + [深度神经网络是否夸张地过拟合了？](1905-shen_du_shen_jing_wang_luo_shi_fou_kua_zhang_di_guo_ni_he_le) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/Q9Ib8t-VNqeho4xZuQrd)</sub>
@@ -14,6 +15,7 @@
 
 **[2019-04]**
 
++ [编程神器！Facebook推出代码智能搜索与推荐工具Aroma](1904-bian_cheng_shen_qi_facebook_tui_chu_dai_ma_zhi_neng_sou_suo_yu_tui_jian_gong_ju) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/k7sH5ppY38qLf_oXMDZ7)</sub>
 + [许式伟：毕业 2 年成为首席架构师，我的技术学习方法论  极客时间](1904-xu_shi_wei_bi_ye_2_nian_cheng_wei_shou_xi_jia_gou_shi_wo_de_ji_zhu_xue_xi_fang_fa_lun_ji_ke_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/mOs0B4*SHGFuaYopZUZu)</sub>
 + [九年积累！Alibaba Cloud Linux 2终于开源](1904-jiu_nian_ji_lei_alibaba_cloud_linux_2_zhong_yu_kai_yuan) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/IijmcHedT*1qCFRIe3fZ)</sub>
 + [阿里云PB级Kubernetes日志平台建设实践](1904-a_li_yun_pb_ji_kubernetes_ri_zhi_ping_tai_jian_she_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/7642QHo6vmZvQxFw9*k3)</sub>
