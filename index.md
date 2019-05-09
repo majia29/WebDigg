@@ -1,6 +1,7 @@
 
 **[2019-05]**
 
++ [Druid SQL 和 Security 在美团点评的实践](1905-druid_sql_he_security_zai_mei_tuan_dian_ping_de_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/jNfLK_YC6PT5NPCr2X6W)</sub>
 + [别了，Linux的魔法时代！](1905-bie_le_linux_de_mo_fa_shi_dai) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/9sD8Be8qLRprYZLBO*Dp)</sub>
 + [DeepCTR：易用可扩展的深度学习点击率预测算法库](1905-deepctr_yi_yong_ke_kuo_zhan_de_shen_du_xue_xi_dian_ji_lv_yu_ce_suan_fa_ku) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/iDt28zXQuKqBfG*wCWfc)</sub>
 + [金融风控反欺诈之图算法](1905-jin_rong_feng_kong_fan_qi_zha_zhi_tu_suan_fa) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/C99whYfeGILp1W*M75cl)</sub>
