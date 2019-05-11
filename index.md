@@ -38,6 +38,7 @@
 
 **[2019-03]**
 
++ [可逆ResNet：极致的暴力美学](1903-ke_ni_resnet_ji_zhi_de_bao_li_mei_xue) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247495880&idx=1&sn=e3a960836797c7dd4eb2dbb9b9a0b9e7&chksm=96ea2f48a19da65eea9cc157f2110a6856985d322d872c6679a8dd0807c9bb10f85c4d3c3f7d&scene=21#wechat_redirect)</sub>
 + [服务平台化，知乎 HBase 实践](1903-fu_wu_ping_tai_hua_zhi_hu_hbase_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/oZCcFAC7J4-01yFTG5r3)</sub>
 
 **[2017-11]**
