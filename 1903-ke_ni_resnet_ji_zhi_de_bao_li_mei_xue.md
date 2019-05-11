@@ -19,18 +19,13 @@
 
 为什么一个模型可以可以用“暴力”来形容呢？当然是因为它确实非常暴力： **它综合了很多数学技巧，活生生地（在一定约束下）把常规的 ResNet 模型搞成了可逆的！**
 
-**
-**
-
 ![image](images/1903-knresnetjzdblmx-1.jpeg)
 
-**▲** ** ** 标准ResNet与可逆ResNet对比图。可逆ResNet允许信息无损可逆流动，而标准ResNet在某处则存在“坍缩”现象。
+**▲** 标准ResNet与可逆ResNet对比图。可逆ResNet允许信息无损可逆流动，而标准ResNet在某处则存在“坍缩”现象。
 
 模型出自  _ **Invertible Residual Networks**_ ，之前在[机器之心也报导过](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756763&idx=3&sn=f7868fa0d2eab102aadebf794a6ecf73&scene=21#wechat_redirect)。在这篇文章中，我们来简单欣赏一下它的原理和内容。
 
 ![image](images/1903-knresnetjzdblmx-2.jpeg)
-
-![image](images/1903-knresnetjzdblmx-3.jpeg)
 
 ### 可逆模型的点滴
 
@@ -315,47 +310,3 @@ ResNet 模型的基本模块就是：
 * [细水长flow之f-VAEs：Glow与VAEs的联姻](http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247491695&idx=1&sn=21c5ffecfd6ef87cd4f1f754795d2d63&chksm=96ea3fefa19db6f92fe093e914ac517bd118e80e94ae61b581079023c4d29cedaaa559cb376e&scene=21#wechat_redirect)
 
 * [深度学习中的Lipschitz约束：泛化与生成模型](http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247492180&idx=1&sn=3ea92a3a9f1306efde89ce1777b80da6&chksm=96ea3dd4a19db4c20dcbc9627b0eb307672b4d61008a93c42814fa6728ca7b6f7c293cff1d80&scene=21#wechat_redirect)
-
-**
-![image](images/1903-knresnetjzdblmx-41.gif)
-** **\#** **投 稿 通 道 \#**
-
-**  让你的论文被更多人看到 **
-
-如何才能让更多的优质内容以更短路径到达读者群体，缩短读者寻找优质内容的成本呢？  **答案就是：你不认识的人。**
-
-总有一些你不认识的人，知道你想知道的东西。PaperWeekly 或许可以成为一座桥梁，促使不同背景、不同方向的学者和学术灵感相互碰撞，迸发出更多的可能性。
-
-PaperWeekly 鼓励高校实验室或个人，在我们的平台上分享各类优质内容，可以是 **最新论文解读** ，也可以是 **学习心得** 或 **技术干货** 。我们的目的只有一个，让知识真正流动起来。
-
-📝  **来稿标准：**
-
-• 稿件确系个人 **原创作品** ，来稿需注明作者个人信息（姓名+学校/工作单位+学历/职位+研究方向）
-
-• 如果文章并非首发，请在投稿时提醒并附上所有已发布链接
-
-• PaperWeekly 默认每篇文章都是首发，均会添加“原创”标志
-
-**📬 投稿邮箱：**
-
-• 投稿邮箱：hr@paperweekly.site
-
-• 所有文章配图，请单独在附件中发送
-
-• 请留下即时联系方式（微信或手机），以便我们在编辑发布时和作者沟通
-
-🔍
-
-现在，在 **「知乎」** 也能找到我们了
-
-进入知乎首页搜索 **「PaperWeekly」**
-
-点击 **「关注」** 订阅我们的专栏吧
-
-**关于PaperWeekly**
-
-PaperWeekly 是一个推荐、解读、讨论、报道人工智能前沿论文成果的学术平台。如果你研究或从事 AI 领域，欢迎在公众号后台点击 **「交流群」** ，小助手将把你带入 PaperWeekly 的交流群里。
-
-![image](images/1903-knresnetjzdblmx-42.gif)
-
-▽ 点击 | 阅读原文 | 查看作者博客
