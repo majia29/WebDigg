@@ -1,6 +1,7 @@
 
 **[2019-05]**
 
++ [这六个真实软件开发中的算法问题，你都能解决吗？极客时间](1905-zhe_liu_ge_zhen_shi_ruan_jian_kai_fa_zhong_de_suan_fa_wen_ti_ni_du_neng_jie_jue_ma_ji_ke_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/hqgQHz6DSYZNBS7B*93E)</sub>
 + [Nacos注册中心的设计原理详解](1905-nacos_zhu_ce_zhong_xin_de_she_ji_yuan_li_xiang_jie) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/B*6vyMIKao9vAKIsJYpE)</sub>
 + [让用户喜欢上广告：信息流技术背后的爱奇艺风格](1905-rang_yong_hu_xi_huan_shang_guang_gao_xin_xi_liu_ji_zhu_bei_hou_de_ai_qi_yi_feng_ge) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/e8QvqLk*PfOxS6NcNzNm)</sub>
 + [大数据分析常用去重算法分析](1905-da_shu_ju_fen_xi_chang_yong_qu_zhong_suan_fa_fen_xi) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/j3b2Eoz_V7Wzm27odwXX)</sub>
