@@ -1,6 +1,7 @@
 
 **[2019-05]**
 
++ [OPPO数据中台之基石：基于Flink SQL构建实数据仓库](1905-oppo_shu_ju_zhong_tai_zhi_ji_shi_ji_yu_flink_sql_gou_jian_shi_shu_ju_cang_ku) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496453&idx=1&sn=99f9e3b6b1fc6afd5259f1bf87f8a6d0&chksm=fbea4acacc9dc3dc7125230b7893c2b5060615c5db5869861e11d50d1b47cb4aefb7b75d7e55&token=268987635&lang=zh_CN#rd)</sub>
 + [这六个真实软件开发中的算法问题，你都能解决吗？极客时间](1905-zhe_liu_ge_zhen_shi_ruan_jian_kai_fa_zhong_de_suan_fa_wen_ti_ni_du_neng_jie_jue_ma_ji_ke_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/hqgQHz6DSYZNBS7B*93E)</sub>
 + [Nacos注册中心的设计原理详解](1905-nacos_zhu_ce_zhong_xin_de_she_ji_yuan_li_xiang_jie) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/B*6vyMIKao9vAKIsJYpE)</sub>
 + [让用户喜欢上广告：信息流技术背后的爱奇艺风格](1905-rang_yong_hu_xi_huan_shang_guang_gao_xin_xi_liu_ji_zhu_bei_hou_de_ai_qi_yi_feng_ge) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/e8QvqLk*PfOxS6NcNzNm)</sub>
