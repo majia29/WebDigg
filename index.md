@@ -46,6 +46,10 @@
 + [可逆ResNet：极致的暴力美学](1903-ke_ni_resnet_ji_zhi_de_bao_li_mei_xue) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247495880&idx=1&sn=e3a960836797c7dd4eb2dbb9b9a0b9e7&chksm=96ea2f48a19da65eea9cc157f2110a6856985d322d872c6679a8dd0807c9bb10f85c4d3c3f7d&scene=21#wechat_redirect)</sub>
 + [服务平台化，知乎 HBase 实践](1903-fu_wu_ping_tai_hua_zhi_hu_hbase_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/oZCcFAC7J4-01yFTG5r3)</sub>
 
+**[2019-01]**
+
++ [重读Youtube深度学习推荐系统论文，字字珠玑，惊为神文](1901-zhong_du_youtube_shen_du_xue_xi_tui_jian_xi_tong_lun_wen_zi_zi_zhu_ji_liang_wei_shen_wen) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/2Th2PO4rC-r4LOU46uYDjg)</sub>
+
 **[2017-11]**
 
 + [百度大规模时序数据存储（二） 存储选型及数据模型设计](1711-bai_du_da_gui_mo_shi_xu_shu_ju_cun_chu_er_cun_chu_xuan_xing_ji_shu_ju_mo_xing_she_ji) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzUyMzA3MTY1NA==&mid=2247484040&idx=1&sn=82012419d6d4a0f65054378c755f1b82&chksm=f9c37b41ceb4f257e0b38e7f5a7672fd540502dfc1db5da3fa2c99de9e2961fe3bf8da92be31&scene=21#wechat_redirect)</sub>
