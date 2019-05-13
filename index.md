@@ -23,6 +23,7 @@
 
 **[2019-04]**
 
++ [谷歌、阿里等10大深度学习CTR模型最全演化图谱](1904-gu_ge_a_li_deng_10_da_shen_du_xue_xi_ctr_mo_xing_zui_quan_yan_hua_tu_pu) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/TySwhPNlckijh8Q_vdyO)</sub>
 + [bilibili 缓存解决方案（一）： overlord-platform介绍](1904-bilibili_huan_cun_jie_jue_fang_an_yi_overlord_platform_jie_shao) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/Xq1kyp8_7Ke47Zkr4Ak1)</sub>
 + [小样本学习（Few-shot Learning）综述](1904-xiao_yang_ben_xue_xi_few_shot_learning_zong_shu) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247496040&idx=1&sn=ebea875571ccc80a70a3166f62b9640b&chksm=96ea2ee8a19da7fe9bf3d9cbf15c3a2fc6e3ca898e48a2d01207a7cdc2cd046c4087eda27637&scene=21#wechat_redirect)</sub>
 + [编程神器！Facebook推出代码智能搜索与推荐工具Aroma](1904-bian_cheng_shen_qi_facebook_tui_chu_dai_ma_zhi_neng_sou_suo_yu_tui_jian_gong_ju) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/k7sH5ppY38qLf_oXMDZ7)</sub>
@@ -38,7 +39,6 @@
 + [分类模型与排序模型在推荐系统中的异同分析](1904-fen_lei_mo_xing_yu_pai_xu_mo_xing_zai_tui_jian_xi_tong_zhong_de_yi_tong_fen_xi) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/DoVO*r6qxUL7AALtZ3Fr)</sub>
 + [老板总有新主意：我是怎么拖垮一家价值十亿美元大数据公司的](1904-lao_ban_zong_you_xin_zhu_yi_wo_shi_zen_me_tuo_kua_yi_jia_jia_zhi_shi_yi_mei_yuan_da_shu_ju_gong_si_de) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/1tcSBGsKCdly-RhAJzWK)</sub>
 + [左耳朵耗子：996不是福气，努力也未必成功](1904-zuo_er_duo_hao_zi_996_bu_shi_fu_qi_nu_li_ye_wei_bi_cheng_gong) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/OyOHLPyzGO*wOzQvtBNr)</sub>
-+ [谷歌、阿里等10大深度学习CTR模型最全演化图谱](1904-gu_ge_a_li_deng_10_da_shen_du_xue_xi_ctr_mo_xing_zui_quan_yan_hua_tu_pu) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/TySwhPNlckijh8Q_vdyO)</sub>
 + [Jeff Dean点赞共识论文：一种通用的分布式一致性方案](1904-jeff_dean_dian_zan_gong_shi_lun_wen_yi_zhong_tong_yong_de_fen_bu_shi_yi_zhi_xing_fang_an) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/Ub2b0ZL_3fc59W3QwCda)</sub>
 + [裁员过后，找不到工作的程序员们](1904-cai_yuan_guo_hou_zhao_bu_dao_gong_zuo_de_cheng_xu_yuan_men) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/9s0Bh758zMV-Gh791JI8)</sub>
 
