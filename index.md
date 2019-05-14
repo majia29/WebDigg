@@ -1,6 +1,7 @@
 
 **[2019-05]**
 
++ [理论优美的深度信念网络，Hinton老爷子北大最新演讲](1905-li_lun_you_mei_de_shen_du_xin_nian_wang_luo_hinton_lao_ye_zi_bei_da_zui_xin_yan_jiang) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/c1ySihhEG75tV1pfTvK6gg)</sub>
 + [解读Airbnb的个性化搜索排序算法](1905-jie_du_airbnb_de_ge_xing_hua_sou_suo_pai_xu_suan_fa) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/oOQfV35x9IJgE0y_ecjntA)</sub>
 + [OPPO数据中台之基石：基于Flink SQL构建实数据仓库](1905-oppo_shu_ju_zhong_tai_zhi_ji_shi_ji_yu_flink_sql_gou_jian_shi_shu_ju_cang_ku) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496453&idx=1&sn=99f9e3b6b1fc6afd5259f1bf87f8a6d0&chksm=fbea4acacc9dc3dc7125230b7893c2b5060615c5db5869861e11d50d1b47cb4aefb7b75d7e55&token=268987635&lang=zh_CN#rd)</sub>
 + [这六个真实软件开发中的算法问题，你都能解决吗？极客时间](1905-zhe_liu_ge_zhen_shi_ruan_jian_kai_fa_zhong_de_suan_fa_wen_ti_ni_du_neng_jie_jue_ma_ji_ke_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/hqgQHz6DSYZNBS7B*93E)</sub>
@@ -48,6 +49,10 @@
 + [深度学习CTR预估模型凭什么成为互联网增长的关键？](1903-shen_du_xue_xi_ctr_yu_gu_mo_xing_ping_shi_me_cheng_wei_hu_lian_wang_zeng_chang_de_guan_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/3WK8*7x0avuuh3CJK6Pw)</sub>
 + [可逆ResNet：极致的暴力美学](1903-ke_ni_resnet_ji_zhi_de_bao_li_mei_xue) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247495880&idx=1&sn=e3a960836797c7dd4eb2dbb9b9a0b9e7&chksm=96ea2f48a19da65eea9cc157f2110a6856985d322d872c6679a8dd0807c9bb10f85c4d3c3f7d&scene=21#wechat_redirect)</sub>
 + [服务平台化，知乎 HBase 实践](1903-fu_wu_ping_tai_hua_zhi_hu_hbase_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/oZCcFAC7J4-01yFTG5r3)</sub>
+
+**[2019-02]**
+
++ [GAN模式崩溃的理论解释](1902-gan_mo_shi_beng_kui_de_li_lun_jie_shi) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/ecqPzcSa75U9n4BcvnNJ_Q)</sub>
 
 **[2019-01]**
 
