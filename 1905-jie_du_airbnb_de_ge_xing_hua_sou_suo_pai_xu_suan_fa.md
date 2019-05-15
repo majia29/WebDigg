@@ -145,10 +145,4 @@ Online A/B test，相似房源推荐业务，CTR获得了21%的相对提升，�
 
 本文为SIGAI原创
 
-如需转载，欢迎发消息到本订号
-
-![image](images/1905-jdairbnbdgxhsspxsf-10.jpeg)
-
 全文PDF见http://www.tensorinfinity.com/paper\_153.html
-
-记得点击右下角“在看”哟

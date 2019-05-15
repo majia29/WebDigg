@@ -199,11 +199,3 @@ Brenier势能函数是蒙日-安培方程的解，其光滑性是一个错综复
 References
 
 1\. Na Lei, Yang Guo, Dongsheng An, Xin Qi, Zhongxuan Luo, Shing-Tung Yau, Xianfeng Gu. "Mode Collapse and Regularity of Optimal Transportation Maps", ArXiv:1902.02934
-
-* * *
-
-**请长按下方二维码，选择** **“识别图中二维码”** ， **即可** **关注。**
-
-![image](images/1902-ganmsbkdlljs-76.jpeg)
-
-【老顾谈几何】邀请国内国际著名纯粹数学家，应用数学家，理论物理学家和计算机科学家，讲授现代拓扑和几何的理论，算法和应用。

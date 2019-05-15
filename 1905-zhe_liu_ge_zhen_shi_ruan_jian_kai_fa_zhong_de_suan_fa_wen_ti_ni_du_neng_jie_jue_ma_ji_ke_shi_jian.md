@@ -113,7 +113,3 @@
 
 [18 | 散列表（上）：Word 文档中的单词拼写检查功能是如何实现的？](https://time.geekbang.org/column/article/64233)
 [19 | 散列表（中）：如何打造一个工业级水平的散列表？](https://time.geekbang.org/column/article/64586)
-
-这六个实际软件开发中的问题，你是否都能顺利解决呢？欢迎订阅我的专栏[《数据结构和算法之美》](https://time.geekbang.org/column/intro/126?utm_term=zeusDGYJ4&utm_source=website&utm_medium=infoq&utm_campaign=126-end&utm_content=textlink0510)，专门为工程师量身打造的算法私教课，这些问题的答案都在里面。在专栏中，我不仅深入浅出、全面细致地讲解每一种数据结构和算法的特点、适合解决的问题、应用场景，还列举了大量类似上面这六个案例的真实软件开发场景，真枪实弹地给你展示数据结构和算法是如何应用到实际的软件开发中的。让你不仅仅学会、学懂，还能真的学有所用。
-
-[50000+ 程序员的算法课堂，戳此试看 >>>](https://time.geekbang.org/column/intro/126?utm_term=zeusDGYJ4&utm_source=website&utm_medium=infoq&utm_campaign=126-end&utm_content=textlink0510)

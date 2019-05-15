@@ -122,7 +122,3 @@ Youtube Ranking Model
 *  **Recommender System Paper List** ：https://github.com/wzhe06/Reco-papers
 
 *  **推荐系统中的注意力机制——阿里深度兴趣网络（DIN）** ：https://zhuanlan.zhihu.com/p/51623339
-
-![image](images/1901-zdyoutubesdxxtjxtlwzzzjlwsw-4.jpeg)
-
-**喜欢这篇文章吗？记得点一下「好看」再走👇**

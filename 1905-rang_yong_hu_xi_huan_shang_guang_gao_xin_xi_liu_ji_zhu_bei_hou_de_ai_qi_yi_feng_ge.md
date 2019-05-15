@@ -86,5 +86,3 @@ OCPX 采用精准的点击率和转化率预估算法，可帮助广告主在获
 ### 嘉宾介绍
 
 [刘国辉](https://2019.qconguangzhou.com/presentation/1656?utm_source=infoq&utm_medium=web&utm_campaign=lgh)，爱奇艺智能广告部算法总监，硕士毕业于复旦大学。2015 年加入爱奇艺，负责广告算法团队的技术管理和研发工作，带领团队运用 AI 技术提升流量变现效率和效果，主导并搭建了爱奇艺智能广告算法引擎。
-
-5 月 25-28 日，QCon 全球软件开发大会广州站，刘国辉老师将会现场进行【[爱奇艺信息流广告的排序算法演进](https://2019.qconguangzhou.com/presentation/1656?utm_source=infoq&utm_medium=web&utm_campaign=lgh)】相关内容的分享，通过简要介绍爱奇艺信息流广告的排序算法演进过程，为现场观众讲解如何运用个性化推荐技术打造智能广告算法引擎。

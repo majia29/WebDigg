@@ -107,5 +107,3 @@ ElasticSearch 在滴滴有着非常丰富的应用场景：
 **张亮，滴滴出行高级专家工程师**
 
 曾任华为南研所网盘研发工程师；2014 年 4 月至今任职滴滴出行大数据架构部高级专家工程师。在滴滴任职 5 年，经历从无到有组建团队，主持构建过任务调度系统、业务监控系统、链路跟踪与诊断系统、数据同步中心等架构设计与研发工作，目前在负责数据通道、kafka 服务、数据检索的引擎建设工作，具有丰富的高并发、高吞吐场景的架构设计与研发经验。
-
-另外，张亮将在 5 月 27-28 日[的 QCon 全球软件开发大会（广州站）](https://2019.qconguangzhou.com/schedule?utm_source=infoq&utm_medium=web&utm_campaign=zhangliang)上分享「[PB 级数据检索平台 | ElasticSearch 在滴滴的实践](https://2019.qconguangzhou.com/presentation/1472?utm_source=infoq&utm_medium=web&utm_campaign=zhangliang)」，会有更多干货内容，感兴趣的同学可以到现场与张亮老师面对面交流。目前，大会倒计时 10 天，[日程](https://2019.qconguangzhou.com/schedule?utm_source=infoq&utm_medium=web&utm_campaign=zhangliang)已经上线，所剩席位已经不多，想参与的小伙伴抓紧时间抢票锁定席位啦！有任何购票问题，欢迎咨询票务小助手鱼丸：13269078023（微信同号）。

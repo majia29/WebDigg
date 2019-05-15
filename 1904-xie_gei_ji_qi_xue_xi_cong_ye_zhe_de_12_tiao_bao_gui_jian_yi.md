@@ -163,5 +163,3 @@
 原文链接：
 
 <https://towardsml.com/2019/04/09/12-key-lessons-from-ml-researchers-and-practitioners/>
-
-![image](images/1904-xgjqxxcyzd12tbgjy-12.png)

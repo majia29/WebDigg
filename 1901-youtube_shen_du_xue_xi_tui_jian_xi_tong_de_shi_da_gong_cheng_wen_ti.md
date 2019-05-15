@@ -130,32 +130,7 @@ https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/
 
 这里是 王喆的机器学习笔记 的第三篇文章，水平有限，不对之处欢迎吐槽、拍砖。下一篇文章我们一起讨论一下Airbnb的搜索推荐系统和embedding方法，如果大家有兴趣欢迎点赞鼓励。
 
-** ** ** **
-![image](images/1901-youtubesdxxtjxtdsdgcwt-4.gif)
-****
-
 **END**
-
-**
-**
-
-**
-**
-
-**
-**
-
-**
-**
-
-**
-**
-
-**
-**
-
-**
-**
 
 往期回顾
 
@@ -169,23 +144,3 @@ https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/
 
 【5】 [GAN--提升GAN训练的技巧汇总](http://mp.weixin.qq.com/s?__biz=MzUyMjE2MTE0Mw==&mid=2247487298&idx=1&sn=15ee936369ec1ea329fda7ebd0aaa7de&chksm=f9d151dacea6d8cc80ec3f1de7b4de9da5c801dcdc9abad577032e83213798447a9aea007361&scene=21#wechat_redirect)
 
-** ******
-
-**机器学习算法工程师**
-
-* * *
-
-一个用心的公众号
-
-![image](images/1901-youtubesdxxtjxtdsdgcwt-5.jpeg)
-
-长按，识别，加关注
-
-进群，学习，得帮助
-
-你的关注，我们的热度，
-
-我们一定给你学习最大的帮助
-
-![image](images/1901-youtubesdxxtjxtdsdgcwt-6.jpeg)
-你点的每个赞，我都认真当成了喜欢

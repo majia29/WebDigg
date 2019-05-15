@@ -106,8 +106,4 @@
 
 在金山，以首席架构师的身份主导了 WPS Office 2005 的架构设计和开发。在创立金山实验室后，作为技术总监主导分布式存储开发。后加入盛大创新院，推出了“盛大网盘”和“盛大云”。2011 年，我成为一名创业者，建立了七牛，专注企业级存储服务。
 
-在我目前的职业生涯中，前后大概做过十几次的架构类的演讲，但这些零星的演讲，对于[传递架构设计思维](https://time.geekbang.org/column/intro/166?utm_term=zeusAE9U2&utm_source=website&utm_medium=infoq&utm_campaign=166-presell&utm_content=article0422)来说，远远不够。
-
-[这个专栏](https://time.geekbang.org/column/intro/166?utm_term=zeusAE9U2&utm_source=website&utm_medium=infoq&utm_campaign=166-presell&utm_content=article0422) **，是我第一次完整、系统地分享自己的架构经验和思考，我会将近 20 年的经验毫无保留地分享给你，相信你一定能够学有所得。**
-
 注释：本文部分内容首发于由独立媒体人 Gracia 创立和维护的技术人攻略访谈。
