@@ -1,6 +1,7 @@
 
 **[2019-05]**
 
++ [阿里巴巴 Kubernetes 集群问题排查思路和方法](1905-a_li_ba_ba_kubernetes_ji_qun_wen_ti_pai_cha_si_lu_he_fang_fa) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/t_ZQeWjJLGWGT8BmmiU4)</sub>
 + [滴滴基于 ElasticSearch 的一站式搜索中台实践](1905-di_di_ji_yu_elasticsearch_de_yi_zhan_shi_sou_suo_zhong_tai_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/ug*cbrk9303MiNZPrSEO)</sub>
 + [理论优美的深度信念网络，Hinton老爷子北大最新演讲](1905-li_lun_you_mei_de_shen_du_xin_nian_wang_luo_hinton_lao_ye_zi_bei_da_zui_xin_yan_jiang) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/c1ySihhEG75tV1pfTvK6gg)</sub>
 + [解读Airbnb的个性化搜索排序算法](1905-jie_du_airbnb_de_ge_xing_hua_sou_suo_pai_xu_suan_fa) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/oOQfV35x9IJgE0y_ecjntA)</sub>
