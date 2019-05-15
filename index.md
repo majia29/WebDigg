@@ -1,6 +1,7 @@
 
 **[2019-05]**
 
++ [谷歌在微服务上的坑和教训](1905-gu_ge_zai_wei_fu_wu_shang_de_keng_he_jiao_xun) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/L*bT1UfuVoj1I6NRNM3U)</sub>
 + [阿里巴巴 Kubernetes 集群问题排查思路和方法](1905-a_li_ba_ba_kubernetes_ji_qun_wen_ti_pai_cha_si_lu_he_fang_fa) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/t_ZQeWjJLGWGT8BmmiU4)</sub>
 + [滴滴基于 ElasticSearch 的一站式搜索中台实践](1905-di_di_ji_yu_elasticsearch_de_yi_zhan_shi_sou_suo_zhong_tai_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/ug*cbrk9303MiNZPrSEO)</sub>
 + [理论优美的深度信念网络，Hinton老爷子北大最新演讲](1905-li_lun_you_mei_de_shen_du_xin_nian_wang_luo_hinton_lao_ye_zi_bei_da_zui_xin_yan_jiang) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/c1ySihhEG75tV1pfTvK6gg)</sub>
