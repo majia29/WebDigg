@@ -59,6 +59,10 @@
 + [YouTube深度学习推荐系统的十大工程问题](1901-youtube_shen_du_xue_xi_tui_jian_xi_tong_de_shi_da_gong_cheng_wen_ti) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/mcf3Aoub6VbNwtA-Izsdbg)</sub>
 + [重读Youtube深度学习推荐系统论文，字字珠玑，惊为神文](1901-zhong_du_youtube_shen_du_xue_xi_tui_jian_xi_tong_lun_wen_zi_zi_zhu_ji_liang_wei_shen_wen) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/2Th2PO4rC-r4LOU46uYDjg)</sub>
 
+**[2018-12]**
+
++ [滴滴Elasticsearch多集群架构实践](1812-di_di_elasticsearch_duo_ji_qun_jia_gou_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/SbfS6uOcF_gW6FEpQlLK)</sub>
+
 **[2017-11]**
 
 + [百度大规模时序数据存储（二） 存储选型及数据模型设计](1711-bai_du_da_gui_mo_shi_xu_shu_ju_cun_chu_er_cun_chu_xuan_xing_ji_shu_ju_mo_xing_she_ji) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzUyMzA3MTY1NA==&mid=2247484040&idx=1&sn=82012419d6d4a0f65054378c755f1b82&chksm=f9c37b41ceb4f257e0b38e7f5a7672fd540502dfc1db5da3fa2c99de9e2961fe3bf8da92be31&scene=21#wechat_redirect)</sub>
