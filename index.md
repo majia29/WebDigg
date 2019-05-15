@@ -1,6 +1,7 @@
 
 **[2019-05]**
 
++ [滴滴基于 ElasticSearch 的一站式搜索中台实践](1905-di_di_ji_yu_elasticsearch_de_yi_zhan_shi_sou_suo_zhong_tai_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/ug*cbrk9303MiNZPrSEO)</sub>
 + [理论优美的深度信念网络，Hinton老爷子北大最新演讲](1905-li_lun_you_mei_de_shen_du_xin_nian_wang_luo_hinton_lao_ye_zi_bei_da_zui_xin_yan_jiang) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/c1ySihhEG75tV1pfTvK6gg)</sub>
 + [解读Airbnb的个性化搜索排序算法](1905-jie_du_airbnb_de_ge_xing_hua_sou_suo_pai_xu_suan_fa) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/oOQfV35x9IJgE0y_ecjntA)</sub>
 + [OPPO数据中台之基石：基于Flink SQL构建实数据仓库](1905-oppo_shu_ju_zhong_tai_zhi_ji_shi_ji_yu_flink_sql_gou_jian_shi_shu_ju_cang_ku) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496453&idx=1&sn=99f9e3b6b1fc6afd5259f1bf87f8a6d0&chksm=fbea4acacc9dc3dc7125230b7893c2b5060615c5db5869861e11d50d1b47cb4aefb7b75d7e55&token=268987635&lang=zh_CN#rd)</sub>
