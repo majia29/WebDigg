@@ -51,6 +51,7 @@
 
 **[2019-03]**
 
++ [历史上的三次从美国涌入加拿大的难民潮](1903-li_shi_shang_de_san_ci_cong_mei_guo_yong_ru_jia_na_da_de_nan_min_chao) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/wIhRiTcfFwUByYkrn9PjKg)</sub>
 + [深度学习CTR预估模型凭什么成为互联网增长的关键？](1903-shen_du_xue_xi_ctr_yu_gu_mo_xing_ping_shi_me_cheng_wei_hu_lian_wang_zeng_chang_de_guan_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/3WK8*7x0avuuh3CJK6Pw)</sub>
 + [可逆ResNet：极致的暴力美学](1903-ke_ni_resnet_ji_zhi_de_bao_li_mei_xue) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247495880&idx=1&sn=e3a960836797c7dd4eb2dbb9b9a0b9e7&chksm=96ea2f48a19da65eea9cc157f2110a6856985d322d872c6679a8dd0807c9bb10f85c4d3c3f7d&scene=21#wechat_redirect)</sub>
 + [服务平台化，知乎 HBase 实践](1903-fu_wu_ping_tai_hua_zhi_hu_hbase_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/oZCcFAC7J4-01yFTG5r3)</sub>
