@@ -1,6 +1,7 @@
 
 **[2019-05]**
 
++ [Apache 基金会与 GitHub 均受美国出口法律约束，这对开发者有何影响？](1905-apache_ji_jin_hui_yu_github_jun_shou_mei_guo_chu_kou_fa_lv_yue_shu_zhe_dui_kai_fa_zhe_you_he_ying_xiang) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/KMl2EO*PSMxIkVREiYvC)</sub>
 + [快手万亿级别Kafka集群应用实践与技术演进之路](1905-kuai_shou_wan_yi_ji_bie_kafka_ji_qun_ying_yong_shi_jian_yu_ji_zhu_yan_jin_zhi_lu) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496484&idx=1&sn=4238cc7f88860559861178a083e5b475&chksm=fbea4aebcc9dc3fdb370a413e38daace82cbfb431108b1348bd20b13dc896c31eff39978a525&token=48952229&lang=zh_CN#rd)</sub>
 + [Facebook开源 F14：更快速、更节省内存的哈希表](1905-facebook_kai_yuan_f14_geng_kuai_su_geng_jie_sheng_nei_cun_de_ha_xi_biao) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/OTu5FfqDdfjdrO_NOuh0)</sub>
 + [LinkedIn招聘之搜索和推荐系统背后的AI](1905-linkedin_zhao_pin_zhi_sou_suo_he_tui_jian_xi_tong_bei_hou_de) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/Qz1o7-WmVWkj5uPIsGVa)</sub>

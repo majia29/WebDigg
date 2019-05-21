@@ -228,26 +228,3 @@ Metric 采集线程则周期性采集磁盘 metric 等信息，并给限速决�
 总  结
 
 以上就是我今天所要分享的全部内容。简单回顾下，本次分享第一部分介绍了快手 Kafka 使用场景。第二部分，我重点介绍了快手 Kafka 的 5 点重要改进，分别是：平滑扩容、Mirror 集群化、资源隔离、cache 改造以及消费智能限速。并分别介绍了每个改进的缘由、改进思路以及改进后的效果。最后，介绍了快手在 Kafka 系统上的后续计划。非常感谢大家！
-
-##### 今日荐文
-
-点击下方图片即可阅读
-
-[
-![image](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496472&idx=1&sn=04518d7a94300b7b2d12fc399abc24f4&chksm=fbea4ad7cc9dc3c1d0a939e9601ff4b8d4dec37ba283d7bf12652e873f51391223767c959d73&token=48952229&lang=zh_CN&scene=21#wechat_redirect)
-
-华为发布业界首款AI-Native数据库，挑动了谁的神经？
-
-* * *
-
-福利推荐
-
-在即将到来的 GMTC 全球大前端技术大会上，来自 Intel 的张敏老师会带来关于《WebNN - 将硬件加速的深度学习带入开放式 Web 平台》的精彩分享。本次分享将以目前 Web 平台深度学习框架的性能分析为起点，详细介绍 Intel Web 团队对 WebNN 的原理和实现，以及带来的真实的性能提高等内容。
-
-了解更多 GMTC 全球大前端技术大会的精彩议题，欢迎点击“阅读原文”查看完整日程。目前大会 9 折优惠报名中，购票欢迎联系票务小姐姐：18514549229（同微信）
-
-![image](images/1905-kswyjbkafkajqyysjyjzyjzl-24.jpeg)
-
-![image](images/1905-kswyjbkafkajqyysjyjzyjzl-25.jpeg)
-
-**你也「在看」吗？** 👇
