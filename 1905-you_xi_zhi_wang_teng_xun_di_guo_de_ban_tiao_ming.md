@@ -332,7 +332,7 @@ QQ炫舞也不是我们做的，它是一次并购案的产物，对方是北京
 
 直到一场新时代的革命，突然来临。而革命即暴动，也是一个阶级推翻另一个阶级的暴烈行动。
 
-![image](images/1905-yxzwtxdgdbtm-10.jpeg)
+![image](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
 **中国第一款吃鸡游戏——西山居开发的《小米枪战》也同样采用虚幻4引擎**
 
