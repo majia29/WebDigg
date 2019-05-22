@@ -1,6 +1,7 @@
 
 **[2019-05]**
 
++ [对话腾讯CSIG总裁汤道生：腾讯不想变成一家有十万销售的集成公司_36氪](1905-dui_hua_teng_xun_csig_zong_cai_tang_dao_sheng_teng_xun_bu_xiang_bian_cheng_yi_jia_you_shi_wan_xiao_shou_de_ji_cheng_gong_si_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5207465)</sub>
 + [游戏之王：腾讯帝国的半条命](1905-you_xi_zhi_wang_teng_xun_di_guo_de_ban_tiao_ming) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzI0MDUzNTk2OQ==&mid=2247484719&idx=1&sn=55b49f6d1e4f5bc1656eaef9bffbd93c&chksm=e91815e1de6f9cf7a6f279a96b38e333e43c8aaeec4b57ba8f1eb5c609b2c367039c210e399d&token=731389046&lang=zh_CN#rd)</sub>
 + [Apache 基金会与 GitHub 均受美国出口法律约束，这对开发者有何影响？](1905-apache_ji_jin_hui_yu_github_jun_shou_mei_guo_chu_kou_fa_lv_yue_shu_zhe_dui_kai_fa_zhe_you_he_ying_xiang) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/KMl2EO*PSMxIkVREiYvC)</sub>
 + [快手万亿级别Kafka集群应用实践与技术演进之路](1905-kuai_shou_wan_yi_ji_bie_kafka_ji_qun_ying_yong_shi_jian_yu_ji_zhu_yan_jin_zhi_lu) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496484&idx=1&sn=4238cc7f88860559861178a083e5b475&chksm=fbea4aebcc9dc3fdb370a413e38daace82cbfb431108b1348bd20b13dc896c31eff39978a525&token=48952229&lang=zh_CN#rd)</sub>

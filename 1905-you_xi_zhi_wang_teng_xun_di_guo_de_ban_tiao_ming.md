@@ -785,28 +785,3 @@ _
 _
 
 _本文基于新闻专业主义和保护受访者角度考虑而全部采用匿名方式处理。内容均为采访录音素材整理而成，_ _部分内容为隐性采访。_
-
-_
-_
-
-![image](images/1905-yxzwtxdgdbtm-26.jpeg)
-
-关注朱思码记  \(ID:zhusimaji88\)
-
-▼ 商业调查系列▼
-
-[战投之王：](http://mp.weixin.qq.com/s?__biz=MzI0MDUzNTk2OQ==&mid=2247484660&idx=1&sn=b7a80b5fa4759b94267f1b29da40ce54&chksm=e918143ade6f9d2c99568e8cbadc9e01d22e58ae44bdb6ced9556930b8a5a19786211b63779a&scene=21#wechat_redirect)[蔡崇信、刘炽平和刘德的精密战争](http://mp.weixin.qq.com/s?__biz=MzI0MDUzNTk2OQ==&mid=2247484660&idx=1&sn=b7a80b5fa4759b94267f1b29da40ce54&chksm=e918143ade6f9d2c99568e8cbadc9e01d22e58ae44bdb6ced9556930b8a5a19786211b63779a&scene=21#wechat_redirect)
-
-[上海不相信互联网](http://mp.weixin.qq.com/s?__biz=MzI0MDUzNTk2OQ==&mid=2247484327&idx=1&sn=d2ecdbb650ae2f84deeb149fdda2ad50&chksm=e9181369de6f9a7f3ba5ba1b1754f89ac3bf36605bc050c9fedeb6124ead7142c36372b987bb&scene=21#wechat_redirect)
-
-[拼多多，上市前的180天](http://mp.weixin.qq.com/s?__biz=MzI0MDUzNTk2OQ==&mid=2247484291&idx=1&sn=dbd45719e8b0a8c44933e4dd4840f87e&chksm=e918134dde6f9a5b234983ddd5213cf100fccbae2c9f166be50ba3800b672a209af65a233f91&scene=21#wechat_redirect)
-
-[华强北矿难调查](http://mp.weixin.qq.com/s?__biz=MzI0MDUzNTk2OQ==&mid=2247484176&idx=1&sn=fd66e9507dc28baefcd9e68b6c3ac2b3&chksm=e91813dede6f9ac8d1a80634794fc30ff8fbbdf106511dea1d25c3f71e2c62e8b9d8bf99a13c&scene=21#wechat_redirect)
-
-[淘宝网宣战拼多多，谁抄了阿里巴巴的后路？](http://mp.weixin.qq.com/s?__biz=MzI0MDUzNTk2OQ==&mid=2247484058&idx=1&sn=785c2274e2297bb0b70a78736abf8b95&chksm=e9181254de6f9b4278b13278e4517e4b302aa4a65d3686decedbf7ba878312f8c2fd6ae4328b&scene=21#wechat_redirect)
-
-[创业坟场](http://mp.weixin.qq.com/s?__biz=MzI0MDUzNTk2OQ==&mid=2247483906&idx=1&sn=7a2f19a26a9c18a4f9527b4b00f4248d&chksm=e91812ccde6f9bdaff53ec22dcd745f115fcf60e00dfe4ba60b681b65478fdf8adfc48d2eb8f&scene=21#wechat_redirect)
-
-「限时推广」
-
-![image](images/1905-yxzwtxdgdbtm-27.jpeg)
