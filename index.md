@@ -36,6 +36,7 @@
 
 **[2019-04]**
 
++ [盘点前深度学习时代阿里、谷歌、Facebook的CTR预估模型](1904-pan_dian_qian_shen_du_xue_xi_shi_dai_a_li_gu_ge_facebook_de_ctr_yu_gu_mo_xing) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/Q8Cv-4vq6jD8974w9MxJ)</sub>
 + [写给机器学习从业者的12条宝贵建议](1904-xie_gei_ji_qi_xue_xi_cong_ye_zhe_de_12_tiao_bao_gui_jian_yi) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/NLTXhVkMTSlsGK_dkXgh)</sub>
 + [谷歌、阿里等10大深度学习CTR模型最全演化图谱](1904-gu_ge_a_li_deng_10_da_shen_du_xue_xi_ctr_mo_xing_zui_quan_yan_hua_tu_pu) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/TySwhPNlckijh8Q_vdyO)</sub>
 + [bilibili 缓存解决方案（一）： overlord-platform介绍](1904-bilibili_huan_cun_jie_jue_fang_an_yi_overlord_platform_jie_shao) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/Xq1kyp8_7Ke47Zkr4Ak1)</sub>
