@@ -1,4 +1,8 @@
 
+**[2019-06]**
+
++ [下一代AI系统基石：知识图谱将何去何从？](1906-xia_yi_dai_ai_xi_tong_ji_shi_zhi_shi_tu_pu_jiang_he_qu_he_cong) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496786&idx=1&sn=556215673468cd3286ba24f16f8c28ca&chksm=fbea4d9dcc9dc48b73cce159412c3ab2da9a2c2953f8c795c221f911d5f47b103378bb12b2e0&token=1884371941&lang=zh_CN#rd)</sub>
+
 **[2019-05]**
 
 + [Segment放弃了微服务](1905-segment_fang_qi_le_wei_fu_wu) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/v3VjP*BYtY3qhD3438ay)</sub>
