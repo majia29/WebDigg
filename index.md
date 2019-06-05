@@ -1,6 +1,7 @@
 
 **[2019-06]**
 
++ [芯片江湖往事：15年前，耗资40亿美元的自主可控CPU奇幻冒险_36氪](1906-xin_pian_jiang_hu_wang_shi_15_nian_qian_hao_zi_40_yi_mei_yuan_de_zi_zhu_ke_kong_cpu_qi_huan_mao_xian_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5212642)</sub>
 + [融资生存手册：这两个问题，即使投资人问了你也不要回答_36氪](1906-rong_zi_sheng_cun_shou_ce_zhe_liang_ge_wen_ti_ji_shi_tou_zi_ren_wen_le_ni_ye_bu_yao_hui_da_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5196068)</sub>
 + [下一代AI系统基石：知识图谱将何去何从？](1906-xia_yi_dai_ai_xi_tong_ji_shi_zhi_shi_tu_pu_jiang_he_qu_he_cong) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496786&idx=1&sn=556215673468cd3286ba24f16f8c28ca&chksm=fbea4d9dcc9dc48b73cce159412c3ab2da9a2c2953f8c795c221f911d5f47b103378bb12b2e0&token=1884371941&lang=zh_CN#rd)</sub>
 
