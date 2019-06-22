@@ -1,6 +1,7 @@
 
 **[2019-06]**
 
++ [当你打开天猫的那一刻，推荐系统做了哪些工作？](1906-dang_ni_da_kai_tian_mao_de_na_yi_ke_tui_jian_xi_tong_zuo_le_na_xie_gong_zuo) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/jb3_dHJgRcroN174UCV6)</sub>
 + [理解Word Embedding，全面拥抱ELMO](1906-li_jie_word_embedding_quan_mian_yong_bao) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/B8-BMA1BUfuh5MxQ687T)</sub>
 + [知乎千万级高性能长连接网关揭秘](1906-zhi_hu_qian_wan_ji_gao_xing_neng_chang_lian_jie_wang_guan_jie_mi) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/UXrU4hr_mlMX3q84MB9M)</sub>
 + [最快开源OLAP引擎！ClickHouse在头条的技术演进](1906-zui_kuai_kai_yuan_olap_yin_qing_clickhouse_zai_tou_tiao_de_ji_zhu_yan_jin) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/NTwo*yR2ujwLMP8WCXOE)</sub>
