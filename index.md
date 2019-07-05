@@ -1,6 +1,7 @@
 
 **[2019-06]**
 
++ [系统架构系列（一）：如何用公式定义该概念？](1906-xi_tong_jia_gou_xi_lie_yi_ru_he_yong_gong_shi_ding_yi_gai_gai_nian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/fwhQ-dIN2xTUH6zNLYZp)</sub>
 + [系统架构系列(二)：应对这一概念的方法](1906-xi_tong_jia_gou_xi_lie_er_ying_dui_zhe_yi_gai_nian_de_fang_fa) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/NON4ahRV9pC3Feoc0-VC)</sub>
 + [系统架构系列(三)：业务架构实战上篇](1906-xi_tong_jia_gou_xi_lie_san_ye_wu_jia_gou_shi_zhan_shang_pian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/G*DTr9RmIyh0hR59ZTug)</sub>
 + [系统架构系列（四）：业务架构实战下篇](1906-xi_tong_jia_gou_xi_lie_si_ye_wu_jia_gou_shi_zhan_xia_pian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/Uk2eGlWfHNaYjRc8*XLy)</sub>
