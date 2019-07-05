@@ -1,6 +1,7 @@
 
 **[2019-06]**
 
++ [系统架构系列(三)：业务架构实战上篇](1906-xi_tong_jia_gou_xi_lie_san_ye_wu_jia_gou_shi_zhan_shang_pian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/G*DTr9RmIyh0hR59ZTug)</sub>
 + [系统架构系列（四）：业务架构实战下篇](1906-xi_tong_jia_gou_xi_lie_si_ye_wu_jia_gou_shi_zhan_xia_pian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/Uk2eGlWfHNaYjRc8*XLy)</sub>
 + [如何基于Flink+TensorFlow打造实时智能异常检测平台？只看这一篇就够了](1906-ru_he_ji_yu_flink_tensorflow_da_zao_shi_shi_zhi_neng_yi_chang_jian_ce_ping_tai_zhi_kan_zhe_yi_pian_jiu_gou_le) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/lKsHvKjbIyBJ5OmCl2fIvg)</sub>
 + [AI首次实现秒级“自主判案”！阿里达摩院颠覆性研究成果技术解读](1906-ai_shou_ci_shi_xian_miao_ji_zi_zhu_pan_an_a_li_da_mo_yuan_dian_fu_xing_yan_jiu_cheng_guo_ji_zhu_jie_du) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/o_a9KfddhoB3DKDAIT7xsQ)</sub>
