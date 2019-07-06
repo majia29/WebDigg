@@ -1,6 +1,7 @@
 
 **[2019-06]**
 
++ [加缪：艺术家和他的时代](1906-jia_mou_yi_zhu_jia_he_ta_de_shi_dai) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzIzOTA3NjExMw==&mid=2649850971&idx=1&sn=b9affdc3841a83884a032f83313ec987&chksm=f12ab225c65d3b332cb3b70e974b3958f2ca382d321cf4a6d121e708545df53093f299900a4e&mpshare=1&scene=2&srcid=0614hn4Q7p3CPu2ER1QO4hUe&from=timeline&ascene=2&devicetype=android-28&version=2700043c&nettype=WIFI&abtest_cookie=BQABAAoACwASABMAFQAGACOXHgBWmR4AvZkeANyZHgD3mR4ACZoeAAAA&lang=zh_CN&pass_ticket=W0Hr54MRflhNwBsZZIQted9oDB9WNRDSAWqXX4IK6a5nPalnrvcLW11ET6qAkC7Q&wx_header=1)</sub>
 + [系统架构系列（一）：如何用公式定义该概念？](1906-xi_tong_jia_gou_xi_lie_yi_ru_he_yong_gong_shi_ding_yi_gai_gai_nian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/fwhQ-dIN2xTUH6zNLYZp)</sub>
 + [系统架构系列(二)：应对这一概念的方法](1906-xi_tong_jia_gou_xi_lie_er_ying_dui_zhe_yi_gai_nian_de_fang_fa) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/NON4ahRV9pC3Feoc0-VC)</sub>
 + [系统架构系列(三)：业务架构实战上篇](1906-xi_tong_jia_gou_xi_lie_san_ye_wu_jia_gou_shi_zhan_shang_pian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/G*DTr9RmIyh0hR59ZTug)</sub>
