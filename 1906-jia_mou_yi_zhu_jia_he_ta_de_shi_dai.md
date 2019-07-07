@@ -8,13 +8,9 @@
 
 ![image](images/1906-jmyzjhtdsd-0.jpeg)
 
-**
-**
 
 **艺术家和他的时代**
 
-**
-**
 
 文｜加缪
 
@@ -94,27 +90,4 @@
 
 [我因孱弱而梦想着美德 ——加缪和他的《反抗者》](http://mp.weixin.qq.com/s?__biz=MzIzOTA3NjExMw==&mid=401076031&idx=1&sn=9e158846410f0446eb020bf7dbdc7ba1&chksm=7b3cd9414c4b50576dbd301b920db6a031798818fe15468ad52887c1b773fa9ee3208a17e9a5&scene=21#wechat_redirect)
 
-* * *
 
-**
-![image](images/1906-jmyzjhtdsd-1.gif)
-**
-
-**｜｜｜** **燃读荐书**
-
-**
-**
-
-广告
-
-### 加缪全集\(礼盒装）（全六册\)
-
-作者：阿尔贝?加缪
-
-当当
-
-* * *
-
-![image](images/1906-jmyzjhtdsd-2.jpeg)
-
-![image](images/1906-jmyzjhtdsd-3.jpeg)
