@@ -169,25 +169,3 @@ RALM 实现了可实时扩展用户的 look-alike 算法，它通过 User Repres
 
 https://zhuanlan.zhihu.com/p/71951411
 
-##### 今日荐文
-
-点击下方图片即可阅读
-
-[
-![image](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247497185&idx=1&sn=0a16a495aa385eb5fa1e8de77b2203cd&chksm=fbea4c2ecc9dc5388896af9229166f8a681fc62e3a673efdf57f2b669fc4b68f67111b47e3a0&token=218876594&lang=zh_CN&scene=21#wechat_redirect)
-
-机器学习陷入困境！谷歌大脑专家发文吐槽AI工程现状
-
-* * *
-
-福利推荐
-
-如何利用 AI 快速改造传统业务逻辑？如何利用 TensorFlow 探索大规模机器学习？云原生的架构设计又有哪些秘诀？
-
-7 月 12 日 18:30-21:10，来自 Google 的技术专家将与你相约深圳 Google Cloud 技术之夜，近距离触摸 AI 与云原生的技术未来，【扫描下方二维码】或【点击阅读原文】即可免费报名参加！
-
-![image](images/1907-kyktjmxjmwxtdtcsslookalikesfjjtjxtdyxwt-13.jpeg)
-
-![image](images/1907-kyktjmxjmwxtdtcsslookalikesfjjtjxtdyxwt-14.jpeg)
-
-**你也「在看」吗？** 👇

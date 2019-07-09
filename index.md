@@ -1,6 +1,7 @@
 
 **[2019-07]**
 
++ [阿里首次将用户手势数据用于电商场景！淘宝提出用户实时意图预测算法DIPN，效果秒杀传统模型](1907-a_li_shou_ci_jiang_yong_hu_shou_shi_shu_ju_yong_yu_dian_shang_chang_jing_tao_bao_ti_chu_yong_hu_shi_shi_yi_tu_yu_ce_suan_fa_dipn_xiao_guo_miao_sha_chuan_tong_mo_xing) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247497227&idx=1&sn=3d8011722db0f45068c31842ec45df39&chksm=fbea4fc4cc9dc6d24f80a457ce6b55600f592e0408dc87ede84f6476b7c21c2686e905206960&token=1589441133&lang=zh_CN#rd)</sub>
 + [“看一看”推荐模型揭秘！微信团队提出实时Look-alike算法，解决推荐系统多样性问题](1907-kan_yi_kan_tui_jian_mo_xing_jie_mi_wei_xin_tuan_dui_ti_chu_shi_shi_look_alike_suan_fa_jie_jue_tui_jian_xi_tong_duo_yang_xing_wen_ti) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/I5LG_u1_pcY9_tUCAxATGA)</sub>
 
 **[2019-06]**
