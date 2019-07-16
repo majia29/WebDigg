@@ -185,26 +185,3 @@ DIPN 模型会通过 AliNN 转换，最终部署在 walle 平台上，并且借�
 【1】Peter Romov and Evgeny Sokolov. 2015. RecSys Challenge 2015: EnsembleLearning with Categorical Features. In RecSys ’15 Challenge. Article 1, 4 pages.
 
 【2】Humphrey Sheil, Omer Rana, and Ronan Reilly. 2018. Predicting purchasingintent: Automatic Feature Learning using Recurrent Neural Networks. CoRRabs/1807.08207 \(2018\).
-
-##### 今日荐文
-
-点击下方图片即可阅读
-
-[
-![image](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247497200&idx=1&sn=c3376c6b1714316360dbf46185c8919a&chksm=fbea4c3fcc9dc52957902ce7fafba5cc53c068f75cdf018d39ef7dd72e8844a2c606eca075e8&token=1782052707&lang=zh_CN&scene=21#wechat_redirect)
-
-“看一看”推荐模型揭秘！微信团队提出实时Look-alike算法，解决推荐系统多样性问题
-
-* * *
-
-福利推荐
-
-Elasticsearch 是一款功能强大的开源分布式搜索与数据分析引擎。eBay 资深技术专家阮一鸣，使用 Elasticsearch 最新 7.1 版本讲解，带你快速构建分布式搜索和分析引擎。
-
-《Elasticsearch 核心技术与实战》上线仅 2 周，订阅 10300+，1000 分钟视频课，仅售￥129。扫描二维码或点击“阅读原文”立即订阅。
-
-![image](images/1907-alscjyhsssjyydscjtbtcyhssytycsfdipnxgmsctmx-16.jpeg)
-
-![image](images/1907-alscjyhsssjyydscjtbtcyhssytycsfdipnxgmsctmx-17.jpeg)
-
-**你也「在看」吗？** 👇
