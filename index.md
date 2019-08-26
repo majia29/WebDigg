@@ -1,4 +1,8 @@
 
+**[2019-08]**
+
++ [我的一年中台实战录](1908-wo_de_yi_nian_zhong_tai_shi_zhan_lu) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/SPMJvk_Jv1vCnSGA86RX_Q)</sub>
+
 **[2019-07]**
 
 + [基于深度学习的推荐系统效果遭质疑，它真的有带来实质性进展吗？](1907-ji_yu_shen_du_xue_xi_de_tui_jian_xi_tong_xiao_guo_zao_zhi_yi_ta_zhen_de_you_dai_lai_shi_zhi_xing_jin_zhan_ma) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/Rjkevi51uCd-9fsIyJoC0Q)</sub>
