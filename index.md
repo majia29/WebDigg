@@ -1,6 +1,7 @@
 
 **[2019-08]**
 
++ [潮起潮落，看SaaS如何理性突围？_36氪](1908-chao_qi_chao_luo_kan_saas_ru_he_li_xing_tu_wei_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5239797)</sub>
 + [我的一年中台实战录](1908-wo_de_yi_nian_zhong_tai_shi_zhan_lu) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/SPMJvk_Jv1vCnSGA86RX_Q)</sub>
 
 **[2019-07]**
