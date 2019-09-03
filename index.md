@@ -1,4 +1,8 @@
 
+**[2019-09]**
+
++ [网易杭研中台实践：建中台有可行方法论吗？](1909-wang_yi_hang_yan_zhong_tai_shi_jian_jian_zhong_tai_you_ke_xing_fang_fa_lun_ma) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/qTvj6MmrRRaLOjtyqc25XA)</sub>
+
 **[2019-08]**
 
 + [SaaS创业是做功能，还是做服务？_36氪](1908-saas_chuang_ye_shi_zuo_gong_neng_huan_shi_zuo_fu_wu_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5239891)</sub>
