@@ -94,25 +94,3 @@
 
 https://www.infoq.cn/article/DKOKJiD3i7rV1HjxXZqy
 
-活动推荐
-
-美团外卖日单量超过 3000W，拥有近百万骑手数量，是全球最大的即时配送网络。与大多数互联网企业线上业务为主的模式不同，配送系统需要在现实世界中的真实环境和真实场景中“运行”，最大的挑战是需要对骑手所在的环境和场景做到实时感知、准确理解和最优决策，这也是近几年行业经常说的“数字化”和“智能化”技术。
-
-结合机器学习、时空间大数据、AIoT 相关技术，他们在“物理世界数字化和智能化”这方面做了很多探索和尝试，本次 AICon 北京 2019 上我们邀请到了美团点评算法通道主席 & 美团配送 AI 方向负责人何仁清老师，带来相关内容分享，大家可以扫描下方二维码或者点击“阅读原文”查看详情。
-
-![image](images/1909-wyhyztsjjztykxfflm-1.jpeg)
-
-##### 今日荐文
-
-点击下方图片即可阅读
-
-[
-![image](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247497939&idx=1&sn=b186c870ddaaa0c3699813a8f556bf13&chksm=fbea411ccc9dc80ab51a49a4cd1f57f8720cbbe0daf38910187cda3f2b95e4c855fd4eec943d&token=159876850&lang=zh_CN&scene=21#wechat_redirect)
-
-AI正在吞噬软件世界
-
-* * *
-
-![image](images/1909-wyhyztsjjztykxfflm-3.jpeg)
-
-**你也「在看」吗？** ****👇
