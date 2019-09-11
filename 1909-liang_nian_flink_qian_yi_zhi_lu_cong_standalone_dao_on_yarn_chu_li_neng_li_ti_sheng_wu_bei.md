@@ -293,24 +293,3 @@ Flink 在 2016 年时仅为星星之火，而只用短短两年的时间就成�
 作者简介
 
 **肖强** ：TalkingData 资深工程师，TalkingData 统计分析产品 App Analytics 和 Game Analytics 技术负责人。硕士毕业于北京航空航天大学，主要从事大数据平台开发，对流式计算和分布式存储有一定研究。
-
-活动推荐
-
-ArchSummit 全球架构师峰会北京站 2019 不仅涵盖了“提升效率的 AIOps”、“反应式架构”、“质量保障体系建设”等火热专题，更有“实时计算的平台化实践”、“大前端趋势”等热门专题。更多技术亮点请【扫码】或点击【阅读原文】了解详细信息。7 折限时直降 2640 元！了解详情请联系票务经理灰灰：15600537884 ，微信同号。
-
-![image](images/1909-lnflinkqyzlcstandalonedonyarnclnltswb-13.jpeg)
-
-##### 今日荐文
-
-点击下方图片即可阅读
-
-[
-![image](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247497953&idx=1&sn=6a8a1d70cc9f9b835062756d521f92e1&chksm=fbea412ecc9dc8380774944b00df8e95823eb075ea17428d07a7f41d17950b2d7e87f844ffc9&token=1057777716&lang=zh_CN&scene=21#wechat_redirect)
-
-AI一句话骗走24万美元！开源模型要背锅？
-
-* * *
-
-![image](images/1909-lnflinkqyzlcstandalonedonyarnclnltswb-15.jpeg)
-
-**你也「在看」吗？** ****👇

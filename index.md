@@ -1,6 +1,7 @@
 
 **[2019-09]**
 
++ [如何做到长时间（4 个小时以上）精神专注？_36氪](1909-ru_he_zuo_dao_chang_shi_jian_4_ge_xiao_shi_yi_shang_jing_shen_zhuan_zhu_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5245443)</sub>
 + [两年Flink迁移之路：从standalone到on yarn，处理能力提升五倍](1909-liang_nian_flink_qian_yi_zhi_lu_cong_standalone_dao_on_yarn_chu_li_neng_li_ti_sheng_wu_bei) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/wQm3LftjU0blTD3NBhB0Sw)</sub>
 + [再坚持一下，你的奶茶店马上破产_36氪](1909-zai_jian_chi_yi_xia_ni_de_nai_cha_dian_ma_shang_po_chan_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5243386)</sub>
 + [网易杭研中台实践：建中台有可行方法论吗？](1909-wang_yi_hang_yan_zhong_tai_shi_jian_jian_zhong_tai_you_ke_xing_fang_fa_lun_ma) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/qTvj6MmrRRaLOjtyqc25XA)</sub>
