@@ -64,32 +64,3 @@ Hadoop 让人们了解到大数据中蕴藏的无限可能，但同时也提醒�
 **原文链接：** ****
 
 https://architecht.io/what-happened-to-hadoop-211aa52a297
-
-> #####  今日荐文
-
-点击下方图片即可阅读
-
-[
-![image](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247498109&idx=1&sn=a54c2f5dd79cf836ad4bfb77caaed1c3&chksm=fbea40b2cc9dc9a4a575e6beed734a460775e632785448717727133f2e0934d1b950855eb674&token=996296733&lang=zh_CN&scene=21#wechat_redirect)
-
-为什么已有Spark和Dask，阿里还要开源自研分布式科学计算引擎Mars？
-
-* * *
-
-活动推荐 AICon 全球人工智能与机器学习技术大会将于 11 月在北京举行，这里不仅有硅谷、BAT、独角兽们的 AI 技术案例解析，还有颜水成、贾扬清、崔宝秋等大咖现场经验分享。部分议题抢先看：
-
-* 微软小冰：人格化对话机器人的构建及在语音场景当中的实践
-* 阿里巴巴：智能家装设计中的 3D 算法应用实践
-* 蚂蚁金服：AI 赋能普惠金融的探索与实践
-* 腾讯：腾讯云知识图谱技术与应用实践之路
-* 美团：刻画物理世界的 AI 技术和应用
-* 滴滴：滴滴搜索系统的深度学习演进之路
-* 360：360 金融的 AI 实践之旅
-
-![image](images/1909-hadoopzsmyrhdyjznzszgqyitsj-2.jpeg)
-
-* * *
-
-![image](images/1909-hadoopzsmyrhdyjznzszgqyitsj-3.gif)
-
-**你也「在看」吗？** ****👇

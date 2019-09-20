@@ -1,6 +1,7 @@
 
 **[2019-09]**
 
++ [让客户忍不住买买买的假期营销活动，都满足这3点_36氪](1909-rang_ke_hu_ren_bu_zhu_mai_mai_mai_de_jia_qi_ying_xiao_huo_dong_du_man_zu_zhe_3_dian_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5248250)</sub>
 + [Hadoop之殇：没有任何单一技术能重塑整个企业IT世界](1909-hadoop_zhi_shang_mei_you_ren_he_dan_yi_ji_zhu_neng_zhong_su_zheng_ge_qi_ye_it_shi_jie) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/D8dfQh8v6clme-2u7v3QEA)</sub>
 + [为什么说中餐是个被诅咒的行业？_36氪](1909-wei_shi_me_shuo_zhong_can_shi_ge_bei_zu_zhou_de_xing_ye_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5246071)</sub>
 + [神策数据CEO桑文锋：从单品到矩阵，神策的“数据便利店”开张了_36氪](1909-shen_ce_shu_ju_ceo_sang_wen_feng_cong_dan_pin_dao_ju_zhen_shen_ce_de_shu_ju_bian_li_dian_kai_zhang_le_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5244967)</sub>
