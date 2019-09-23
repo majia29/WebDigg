@@ -1,6 +1,7 @@
 
 **[2019-09]**
 
++ [Elasticsearch高并发写入优化的开源协同经历-InfoQ](1909-elasticsearch_gao_bing_fa_xie_ru_you_hua_de_kai_yuan_xie_tong_jing_li) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/HAdBrlW6FAO0FmshXKpZ)</sub>
 + [每个程序员都应该了解的学习资料、代码技巧-InfoQ](1909-mei_ge_cheng_xu_yuan_du_ying_gai_le_jie_de_xue_xi_zi_liao_dai_ma_ji_qiao) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/DN33KP6pV05Av9NzCjfX)</sub>
 + [亚马逊 CTO 的“中台论”](1909-ya_ma_xun_cto_de_zhong_tai_lun) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019484&idx=2&sn=3249264feb2d02f1bc69c7ad9ed3cec0)</sub>
 + [让客户忍不住买买买的假期营销活动，都满足这3点_36氪](1909-rang_ke_hu_ren_bu_zhu_mai_mai_mai_de_jia_qi_ying_xiao_huo_dong_du_man_zu_zhe_3_dian_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5248250)</sub>

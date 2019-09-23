@@ -5,8 +5,6 @@
 
 ![image](images/1909-mgcxydygljdxxzldmjq-0.jpeg)
 
-![image](images/1909-mgcxydygljdxxzldmjq-0.jpeg)
-
 在开发者学习成长的路上，一位好导师的存在可以让人做到事半功倍。技术博主左耳朵耗子总结了他觉得有价值的一些学习资料与代码技巧，分享给 InfoQ 的读者朋友。它们分别是：
 
 * Stack Overflow 上开出来的一个经典书书单；
