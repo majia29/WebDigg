@@ -4,8 +4,6 @@
 > 发布: InfoQ  
 > 发布日期: 2019-09-16  
 
-![image](images/1909-ymxctodztl-0.gif)
-
 作者丨Werner Vogels
 
 译者丨核子可乐
@@ -124,10 +122,3 @@
 
 https://www.allthingsdistributed.com/2019/08/modern-applications-at-aws.html
 
-* * *
-
-![image](images/1909-ymxctodztl-2.jpeg)
-
-![image](images/1909-ymxctodztl-3.gif)
-
-**点个在看少个 bug** 👇
