@@ -197,38 +197,3 @@ https://keystone-enclave.org/files/keystone-risc-v-summit.pdf
 \[2\] 图片来源：
 
 [https://mp.weixin.qq.com/s/ZUscn47mxD3WqIJbN9mNAA](https://mp.weixin.qq.com/s?__biz=MjM5MTE0Mjg2Mw==&mid=2651860109&idx=1&sn=3dbd2a0198c404ecfc9a5c7c3c808e28&scene=21#wechat_redirect)
-
-活动推荐
-
-AICon 全球人工智能与机器学习技术大会将于 11 月在北京举行，这里不仅有硅谷、BAT、独角兽们的 AI 技术案例解析，还有颜水成、贾扬清、崔宝秋等大咖现场经验分享。部分议题抢先看：
-
-微软小冰：人格化对话机器人的构建及在语音场景当中的实践
-
-阿里巴巴：智能家装设计中的 3D 算法应用实践
-
-蚂蚁金服：AI 赋能普惠金融的探索与实践
-
-腾讯：腾讯云知识图谱技术与应用实践之路
-
-美团：刻画物理世界的 AI 技术和应用
-
-滴滴：滴滴搜索系统的深度学习演进之路
-
-360：360 金融的 AI 实践之旅
-
-![image](images/1909-xydhttpsmyjftcxxkxzjj-10.jpeg)
-
-##### 今日荐文
-
-点击下方图片即可阅读
-
-[
-![image](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247498216&idx=1&sn=7e8c0b987f5947c57751f8c24e7733e3&chksm=fbea4027cc9dc931ccb3be2b7af25820a21894279ae4ebf8fa00ef568a542192d40311de045b&token=1101901249&lang=zh_CN&scene=21#wechat_redirect)
-
-飞天AI平台重磅发布！阿里拥抱AI这五年
-
-* * *
-
-![image](images/1909-xydhttpsmyjftcxxkxzjj-12.jpeg)
-
-**你也「在看」吗？** ****👇
