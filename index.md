@@ -1,4 +1,8 @@
 
+**[2019-10]**
+
++ [Julia、Delta Lake榜上有名！2019年最佳开源软件奖公布](1910-julia_delta_lake_bang_shang_you_ming_2019_nian_zui_jia_kai_yuan_ruan_jian_jiang_gong_bu) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/USuik1YQTbm_zDe0PMO1Cg)</sub>
+
 **[2019-09]**
 
 + [下一代HTTPS：蚂蚁金服推出新型可信中间件SOFAEnclave](1909-xia_yi_dai_https_ma_yi_jin_fu_tui_chu_xin_xing_ke_xin_zhong_jian_jian) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/yPEDNdWALeDXdi2AY4DWoA)</sub>
