@@ -30,6 +30,7 @@
 
 **[2019-07]**
 
++ [提升60%基础资源利用率！中国联通的容器化大数据平台实践](1907-ti_sheng_60_ji_chu_zi_yuan_li_yong_lv_zhong_guo_lian_tong_de_rong_qi_hua_da_shu_ju_ping_tai_shi_jian) <sub>[\[segmentfault.com\]](https://segmentfault.com/a/1190000019662812)</sub>
 + [基于深度学习的推荐系统效果遭质疑，它真的有带来实质性进展吗？](1907-ji_yu_shen_du_xue_xi_de_tui_jian_xi_tong_xiao_guo_zao_zhi_yi_ta_zhen_de_you_dai_lai_shi_zhi_xing_jin_zhan_ma) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/Rjkevi51uCd-9fsIyJoC0Q)</sub>
 + [日均处理万亿数据！Flink在快手的应用实践与技术演进之路](1907-ri_jun_chu_li_wan_yi_shu_ju_flink_zai_kuai_shou_de_ying_yong_shi_jian_yu_ji_zhu_yan_jin_zhi_lu) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/BghNofoU6cPRn7XfdHR83w)</sub>
 + [阿里首次将用户手势数据用于电商场景！淘宝提出用户实时意图预测算法DIPN，效果秒杀传统模型](1907-a_li_shou_ci_jiang_yong_hu_shou_shi_shu_ju_yong_yu_dian_shang_chang_jing_tao_bao_ti_chu_yong_hu_shi_shi_yi_tu_yu_ce_suan_fa_dipn_xiao_guo_miao_sha_chuan_tong_mo_xing) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247497227&idx=1&sn=3d8011722db0f45068c31842ec45df39&chksm=fbea4fc4cc9dc6d24f80a457ce6b55600f592e0408dc87ede84f6476b7c21c2686e905206960&token=1589441133&lang=zh_CN#rd)</sub>
@@ -140,7 +141,3 @@
 
 + [No.21 别人家的元数据系统是怎么设计的](1710-no_21_bie_ren_jia_de_yuan_shu_ju_xi_tong_shi_zen_me_she_ji_de) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/opgLE993iXVgk02Cvk9Kow)</sub>
 + [百度大规模时序数据存储（一） 监控场景的时序数据](1710-bai_du_da_gui_mo_shi_xu_shu_ju_cun_chu_yi_jian_kong_chang_jing_de_shi_xu_shu_ju) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzUyMzA3MTY1NA==&mid=2247484010&idx=1&sn=89d0e9c957e86ff93c99688f11e0b819&chksm=f9c37ba3ceb4f2b549a0b59c67a74f0d6aebcf22ae8ca83451b6a25d0ec8073bd286d050ae39&scene=21#wechat_redirect)</sub>
-
-**[ -]**
-
-+ [提升60%基础资源利用率！中国联通的容器化大数据平台实践 - Rancher - SegmentFault 思否](-ti_sheng_60_ji_chu_zi_yuan_li_yong_lv_zhong_guo_lian_tong_de_rong_qi_hua_da_shu_ju_ping_tai_shi_jian_rancher_segmentfault_si_fou) <sub>[\[segmentfault.com\]](https://segmentfault.com/a/1190000019662812)</sub>
