@@ -7,6 +7,7 @@
 
 **[2019-09]**
 
++ [是时候考虑让Spark运行在K8s上了-InfoQ](1909-shi_shi_hou_kao_lv_rang_spark_yun_xing_zai_k8s_shang_le) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/BTDV0pODQBgMLmPfRu8M)</sub>
 + [下一代HTTPS：蚂蚁金服推出新型可信中间件SOFAEnclave](1909-xia_yi_dai_https_ma_yi_jin_fu_tui_chu_xin_xing_ke_xin_zhong_jian_jian) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/yPEDNdWALeDXdi2AY4DWoA)</sub>
 + [Anthos深度分析，看懂谷歌云的三级火箭-InfoQ](1909-anthos_shen_du_fen_xi_kan_dong_gu_ge_yun_de_san_ji_huo_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/mQEDIb2eTtkRPXtsUJdm)</sub>
 + [Elasticsearch高并发写入优化的开源协同经历-InfoQ](1909-elasticsearch_gao_bing_fa_xie_ru_you_hua_de_kai_yuan_xie_tong_jing_li) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/HAdBrlW6FAO0FmshXKpZ)</sub>
