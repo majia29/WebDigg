@@ -1,6 +1,7 @@
 
 **[2019-10]**
 
++ [我从高级软件工程师身上学到的那些经验与教训-InfoQ](1910-wo_cong_gao_ji_ruan_jian_gong_cheng_shi_shen_shang_xue_dao_de_na_xie_jing_yan_yu_jiao_xun) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/BJEejiFAe6giebc14tep)</sub>
 + [Julia、Delta Lake榜上有名！2019年最佳开源软件奖公布](1910-julia_delta_lake_bang_shang_you_ming_2019_nian_zui_jia_kai_yuan_ruan_jian_jiang_gong_bu) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/USuik1YQTbm_zDe0PMO1Cg)</sub>
 
 **[2019-09]**

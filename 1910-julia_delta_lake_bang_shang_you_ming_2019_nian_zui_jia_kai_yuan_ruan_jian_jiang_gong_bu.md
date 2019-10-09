@@ -13,8 +13,6 @@
 
 近日，2019 年 InfoWorld Bossie 榜单正式公布，在今年的获奖名单中，大家不仅能够找到全球最出色的开源软件，它们同时也代表着目前软件行业的最高水准。
 
-**更多优质内容请关注微信公众号“AI 前线”（ID：ai-front）**
-
 ![image](images/1910-juliadeltalakebsym2019nzjkyrjjgb-1.jpeg)
 
 **BPF Compiler Collection**
@@ -24,8 +22,6 @@
 BPF Compiler Collection 以高效观察作为设计的核心目标，这套集合包含由 Python 或 Lua 语言创建并运行的一组 eBPF 代码编译器工具。该项目中还提供大量示例程序，可面向代码内存分配以及 HTTP 数据包等任务运行跟踪及全域筛选。
 
 Netflix 公司主内核性能工程师 Brendan Gregg 的新书《BPF 性能工具（BPF Performance Tools）》即将出版，相信届时又将掀起新一波 eBPF 人气飙升。因此，推荐大家在这波浪潮来临之前抢先一步学习了解。
-
-![image](images/1910-juliadeltalakebsym2019nzjkyrjjgb-1.jpeg)
 
 **Wasmer**
 
@@ -268,30 +264,3 @@ Databricks 公司于今年早些时候对 [Delta Lake](https://mp.weixin.qq.com/
 原文链接：
 
 https://www.infoworld.com/article/3444198/the-best-open-source-software-of-2019.html
-
-福利推荐
-
-Delta Lake 到底怎么样？我们把 Databricks 公司的一线开发人员请来亲自给你讲！
-
-![image](images/1910-juliadeltalakebsym2019nzjkyrjjgb-26.jpeg)
-
-今年 10 月，Apache Spark 项目管理委员会成员、Databricks Engineering Manager 李潇将在 QCon 全球软件开发大会（上海站）2019“大数据分析的支撑技术”专题分享 Delta Lake 在生产环境的实战情况、在 Spark 3.0 的使用以及未来项目规划。
-
-更多最新实战案例，请点击「阅读原文」或识别二维码来 QCon 上海 2019 查看。大会 报名倒计时，团购享优惠，有任何问题欢迎联系票务小姐姐 Ring：17310043226（微信同号）
-
-![image](images/1910-juliadeltalakebsym2019nzjkyrjjgb-27.jpeg)
-
-##### 今日荐文
-
-点击下方图片即可阅读
-
-[
-![image](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247498317&idx=1&sn=8cb97cbe81303a92f75caf7e9329faed&chksm=fbea4382cc9dca94c39a2aeb0326464d6452316c8bc49f5994770c193547706c3c365d4f4c2f&token=442577231&lang=zh_CN&scene=21#wechat_redirect)
-
-从ACM班到AWS，硅谷华人AI大神李沐的开挂人生
-
-* * *
-
-![image](images/1910-juliadeltalakebsym2019nzjkyrjjgb-29.jpeg)
-
-**你也「在看」吗？** ****👇
