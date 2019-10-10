@@ -1,6 +1,7 @@
 
 **[2019-10]**
 
++ [腾讯成本优化黑科技：整机CPU利用率最高提升至90%](1910-teng_xun_cheng_ben_you_hua_hei_ke_ji_zheng_ji_cpu_li_yong_lv_zui_gao_ti_sheng_zhi_90) <sub>[\[cloud.tencent.com\]](https://cloud.tencent.com/developer/article/1518060)</sub>
 + [蔡徐坤出道的男团黯然退场、经纪公司开始重估，限定团还能走多久？_36氪](1910-cai_xu_kun_chu_dao_de_nan_tuan_an_ran_tui_chang_jing_ji_gong_si_kai_shi_zhong_gu_xian_ding_tuan_huan_neng_zou_duo_jiu_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5253269)</sub>
 + [我从高级软件工程师身上学到的那些经验与教训-InfoQ](1910-wo_cong_gao_ji_ruan_jian_gong_cheng_shi_shen_shang_xue_dao_de_na_xie_jing_yan_yu_jiao_xun) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/BJEejiFAe6giebc14tep)</sub>
 + [Julia、Delta Lake榜上有名！2019年最佳开源软件奖公布](1910-julia_delta_lake_bang_shang_you_ming_2019_nian_zui_jia_kai_yuan_ruan_jian_jiang_gong_bu) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/USuik1YQTbm_zDe0PMO1Cg)</sub>
