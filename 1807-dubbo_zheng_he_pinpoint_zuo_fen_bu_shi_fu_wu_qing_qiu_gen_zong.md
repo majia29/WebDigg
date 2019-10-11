@@ -187,16 +187,16 @@ java -javaagent:/opt/pinpoint-bootstrap-1.7.3.jar -Dpinpoint.agentId=dubbo-consu
 **首页**
 ![image](images/1807-dubbozhpinpointzfbsfwqqgz-0.png)
 **指定时间点的，选中区域的请求明细**
-![image](https://static.segmentfault.com/v-5d8c9d24/global/img/squares.svg)
+![image](images/1807-dubbozhpinpointzfbsfwqqgz-1.png)
 ![image](images/1807-dubbozhpinpointzfbsfwqqgz-2.png)
 **请求响应明细和系统拓扑**
-![image](https://static.segmentfault.com/v-5d8c9d24/global/img/squares.svg)
-**视图中定位瓶颈和失败点**
-![image](https://static.segmentfault.com/v-5d8c9d24/global/img/squares.svg)
 ![image](images/1807-dubbozhpinpointzfbsfwqqgz-3.png)
+**视图中定位瓶颈和失败点**
+![image](images/1807-dubbozhpinpointzfbsfwqqgz-4.png)
+![image](images/1807-dubbozhpinpointzfbsfwqqgz-5.png)
 **消费者机器的， CPU使用率，内存/垃圾回收，TPS，和JVM参数**
-![image](https://static.segmentfault.com/v-5d8c9d24/global/img/squares.svg)
-![image](https://static.segmentfault.com/v-5d8c9d24/global/img/squares.svg)
+![image](images/1807-dubbozhpinpointzfbsfwqqgz-6.png)
+![image](images/1807-dubbozhpinpointzfbsfwqqgz-7.png)
 
 参考：
 
@@ -211,4 +211,4 @@ java -javaagent:/opt/pinpoint-bootstrap-1.7.3.jar -Dpinpoint.agentId=dubbo-consu
 * 版权归作者所有，转载请注明出处
 * Wechat：关注公众号，搜云库，专注于开发技术的研究与知识分享
 
-![image](https://static.segmentfault.com/v-5d8c9d24/global/img/squares.svg)
+![image](images/1807-dubbozhpinpointzfbsfwqqgz-8.png)
