@@ -3,7 +3,7 @@
 > 作者: 极光推送  
 > 发布日期: 2017-12-06  
 
-![image](/img/bVZMyj?w=444&h=250)
+![image](images/1712-ytensorflowzzqnzh-0.gif)
 '
 
 > 简评：TensorFlow 是个机器学习的开源库。这篇文章中原作者 [Nick Bourdakos](https://medium.freecodecamp.org/@nickbourdakos?source=post_header_lockup) 将用 TensorFlow 来训练识别自定义模型，并给出了详细的过程（星战迷 = =|| ）。
@@ -12,7 +12,7 @@
 
 下面的图片都使用了相同的 [Watson 视觉识别](https://www.ibm.com/watson/services/visual-recognition/)默认分类器标签。第一个已经通过对象识别模型处理过了。
 
-![image](/img/bVZMzb?w=700&h=280)
+![image](images/1712-ytensorflowzzqnzh-1.png)
 
 对象识别可以远远超过视觉识别本身。但如果你想要进行对象识别，你就要亲自动手。
 
@@ -20,7 +20,7 @@
 
 为了让你方便使用，我放上了一个 COCO 模型可以识别的完整对象列表：
 
-![image](/img/bVZMzA?w=700&h=679)
+![image](images/1712-ytensorflowzzqnzh-2.png)
 
 如果你想要识别一些标志或者不在上面这个表里的东西，你就需要构建自己的对象识别器。而我现在希望可以识别千年隼号和一些钛战机，这显然是个极其重要且没有现成模型的用例。
 
@@ -249,35 +249,35 @@ Nimbix 给开发者提供了一个 10 小时免费体验 PowerAI 平台的体验
 
 从搜索 PowerAI Notebooks 开始：
 
-![image](/img/bVZMD6?w=700&h=438)
+![image](images/1712-ytensorflowzzqnzh-3.png)
 
 点中它，然后选择 TensorFlow。
 
-![image](/img/bVZMFR?w=700&h=438)
+![image](images/1712-ytensorflowzzqnzh-4.png)
 
 选择机器类型为：32 线程 POWER8，128G RAM， 1 \* P100 GPU w/NVLink（np8g1）。
 
-![image](/img/bVZMFS?w=700&h=438)
+![image](images/1712-ytensorflowzzqnzh-5.png)
 
 开始后，下面的工作台就会出现。当服务器状态变成运行时，服务器就准备好了。
 
-![image](/img/bVZMF2?w=700&h=438)
+![image](images/1712-ytensorflowzzqnzh-6.png)
 
 点击 click to show 得到密码。然后点击 click here to connect 启动笔记本。
 
 登录使用 nimbix 的账户和密码。
 
-![image](/img/bVZMF4?w=700&h=186)
+![image](images/1712-ytensorflowzzqnzh-7.png)
 
 **开始训练**
 
 通过点击 New 下拉菜单，选择 Terminal 打开一个新的终端。
 
-![image](/img/bVZMGV?w=700&h=214)
+![image](images/1712-ytensorflowzzqnzh-8.png)
 
 下面这个界面，你应该很熟悉了：
 
-![image](/img/bVZMGW?w=700&h=438)
+![image](images/1712-ytensorflowzzqnzh-9.png)
 
 提示：终端在 Safari 上可能有问题。
 
@@ -337,7 +337,7 @@ python object_detection/train.py \
 
 提示： 你一次只能下载一个。
 
-![image](/img/bVZMHs?w=700&h=438)
+![image](images/1712-ytensorflowzzqnzh-10.png)
 
 提示：确保在完成后点击红色电源按钮，否则计时将不会停止。
 
@@ -378,7 +378,7 @@ python object\_detection/object\_detection\_runner.py
 
 以下是我们在“星球大战：原力觉醒”这个片段中的所有帧上运行模型时得到的结果。
 
-![image](/img/bVZMHI?w=695&h=388)
+![image](images/1712-ytensorflowzzqnzh-11.png)
 
 [youtube 视频点此进入](https://youtu.be/xW2hpkoaIiM)
 
