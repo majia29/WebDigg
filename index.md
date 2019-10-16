@@ -1,6 +1,7 @@
 
 **[2019-10]**
 
++ [SaaS创业路线图（三）：创业公司核心营销团队招募_36氪](1910-saas_chuang_ye_lu_xian_tu_san_chuang_ye_gong_si_he_xin_ying_xiao_tuan_dui_zhao_mu_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5138329)</sub>
 + [SaaS创业路线图（四）：产品打磨阶段各个角色怎么配合？_36氪](1910-saas_chuang_ye_lu_xian_tu_si_chan_pin_da_mo_jie_duan_ge_ge_jiao_se_zen_me_pei_he_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5139286)</sub>
 + [SaaS创业路线图（五）：SaaS的销售模式和营销组织演进_36氪](1910-saas_chuang_ye_lu_xian_tu_wu_saas_de_xiao_shou_mo_shi_he_ying_xiao_zu_zhi_yan_jin_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5140391)</sub>
 + [Uber重磅开源Go语言编程规范！内部已使用多年](1910-uber_zhong_bang_kai_yuan_go_yu_yan_bian_cheng_gui_fan_nei_bu_yi_shi_yong_duo_nian) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/J4nYCrnZ0ApdUA4RohZZ7g)</sub>
