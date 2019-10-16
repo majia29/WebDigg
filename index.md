@@ -1,6 +1,7 @@
 
 **[2019-10]**
 
++ [SaaS创业路线图（五）：SaaS的销售模式和营销组织演进_36氪](1910-saas_chuang_ye_lu_xian_tu_wu_saas_de_xiao_shou_mo_shi_he_ying_xiao_zu_zhi_yan_jin_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5140391)</sub>
 + [Uber重磅开源Go语言编程规范！内部已使用多年](1910-uber_zhong_bang_kai_yuan_go_yu_yan_bian_cheng_gui_fan_nei_bu_yi_shi_yong_duo_nian) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/J4nYCrnZ0ApdUA4RohZZ7g)</sub>
 + [AI自动生成新闻评论：微软联合北航提出全新深层模型DeepCom-InfoQ](1910-ai_zi_dong_sheng_cheng_xin_wen_ping_lun_wei_ruan_lian_he_bei_hang_ti_chu_quan_xin_shen_ceng_mo_xing_deepcom) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/CY5ZbVTrlHLPLU83yW4B)</sub>
 + [腾讯成本优化黑科技：整机CPU利用率最高提升至90%](1910-teng_xun_cheng_ben_you_hua_hei_ke_ji_zheng_ji_cpu_li_yong_lv_zui_gao_ti_sheng_zhi_90) <sub>[\[cloud.tencent.com\]](https://cloud.tencent.com/developer/article/1518060)</sub>
