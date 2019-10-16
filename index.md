@@ -1,6 +1,7 @@
 
 **[2019-10]**
 
++ [用财务模型说明：没有优异续费率的SaaS只是个传统生意_36氪](1910-yong_cai_wu_mo_xing_shuo_ming_mei_you_you_yi_xu_fei_lv_de_saas_zhi_shi_ge_chuan_tong_sheng_yi_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5255546)</sub>
 + [SaaS创业路线图（一）：SaaS创业路线全貌_36氪](1910-saas_chuang_ye_lu_xian_tu_yi_saas_chuang_ye_lu_xian_quan_mao_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5136068)</sub>
 + [SaaS创业路线图（二）：一文读懂SaaS创业路线全貌_36氪](1910-saas_chuang_ye_lu_xian_tu_er_yi_wen_du_dong_saas_chuang_ye_lu_xian_quan_mao_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5137220)</sub>
 + [SaaS创业路线图（三）：创业公司核心营销团队招募_36氪](1910-saas_chuang_ye_lu_xian_tu_san_chuang_ye_gong_si_he_xin_ying_xiao_tuan_dui_zhao_mu_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5138329)</sub>
