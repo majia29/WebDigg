@@ -1,6 +1,7 @@
 
 **[2019-10]**
 
++ [最前线  24小时便利店慰藉都市人？日本7-11却说要实行短时营业_36氪](1910-zui_qian_xian_24_xiao_shi_bian_li_dian_wei_jie_du_shi_ren_ri_ben_7_11_que_shuo_yao_shi_xing_duan_shi_ying_ye_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5258315)</sub>
 + [台积电市值超过英特尔，昔日霸主英特尔走到三岔口_36氪](1910-tai_ji_dian_shi_zhi_chao_guo_ying_te_er_xi_ri_ba_zhu_ying_te_er_zou_dao_san_cha_kou_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5258557)</sub>
 + [用财务模型说明：没有优异续费率的SaaS只是个传统生意_36氪](1910-yong_cai_wu_mo_xing_shuo_ming_mei_you_you_yi_xu_fei_lv_de_saas_zhi_shi_ge_chuan_tong_sheng_yi_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5255546)</sub>
 + [SaaS创业路线图（一）：SaaS创业路线全貌_36氪](1910-saas_chuang_ye_lu_xian_tu_yi_saas_chuang_ye_lu_xian_quan_mao_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5136068)</sub>
