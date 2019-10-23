@@ -163,3 +163,7 @@
 
 + [No.21 别人家的元数据系统是怎么设计的](1710-no_21_bie_ren_jia_de_yuan_shu_ju_xi_tong_shi_zen_me_she_ji_de) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/opgLE993iXVgk02Cvk9Kow)</sub>
 + [百度大规模时序数据存储（一） 监控场景的时序数据](1710-bai_du_da_gui_mo_shi_xu_shu_ju_cun_chu_yi_jian_kong_chang_jing_de_shi_xu_shu_ju) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzUyMzA3MTY1NA==&mid=2247484010&idx=1&sn=89d0e9c957e86ff93c99688f11e0b819&chksm=f9c37ba3ceb4f2b549a0b59c67a74f0d6aebcf22ae8ca83451b6a25d0ec8073bd286d050ae39&scene=21#wechat_redirect)</sub>
+
+**[2015-09]**
+
++ [“神策数据”面向中小企业提供私人定制方案，算是条蹊径么？](1509-shen_ce_shu_ju_mian_xiang_zhong_xiao_qi_ye_ti_gong_si_ren_ding_zhi_fang_an_suan_shi_tiao_xi_jing_me) <sub>[\[36kr.com\]](https://36kr.com/p/5037763)</sub>
