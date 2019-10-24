@@ -1,6 +1,7 @@
 
 **[2019-10]**
 
++ [焦点分析丨不甘心给别人当搬运工，“盒马牌”自立门户](1910-jiao_dian_fen_xi_gun_bu_gan_xin_gei_bie_ren_dang_ban_yun_gong_he_ma_pai_zi_li_men_hu) <sub>[\[36kr.com\]](https://36kr.com/p/5258251)</sub>
 + [如何定义 SaaS 内容运营](1910-ru_he_ding_yi_saas_nei_rong_yun_ying) <sub>[\[36kr.com\]](https://36kr.com/p/5255946)</sub>
 + [最前线   24小时便利店慰藉都市人？日本7-11却说要实行短时营业](1910-zui_qian_xian_24_xiao_shi_bian_li_dian_wei_jie_du_shi_ren_ri_ben_7_11_que_shuo_yao_shi_xing_duan_shi_ying_ye) <sub>[\[36kr.com\]](https://36kr.com/p/5258315)</sub>
 + [台积电市值超过英特尔，昔日霸主英特尔走到三岔口_36氪](1910-tai_ji_dian_shi_zhi_chao_guo_ying_te_er_xi_ri_ba_zhu_ying_te_er_zou_dao_san_cha_kou_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5258557)</sub>
