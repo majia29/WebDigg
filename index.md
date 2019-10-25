@@ -1,6 +1,7 @@
 
 **[2019-10]**
 
++ [作为豆瓣头部网红，为什么我在微博上接不到广告？](1910-zuo_wei_dou_ban_tou_bu_wang_hong_wei_shi_me_wo_zai_wei_bo_shang_jie_bu_dao_guang_gao) <sub>[\[36kr.com\]](https://36kr.com/p/5259439)</sub>
 + [Facebook为什么要在澳洲市场隐藏点赞数？](1910-facebook_wei_shi_me_yao_zai_ao_zhou_shi_chang_yin_cang_dian_zan_shu) <sub>[\[36kr.com\]](https://36kr.com/p/5258981)</sub>
 + [焦点分析丨不甘心给别人当搬运工，“盒马牌”自立门户](1910-jiao_dian_fen_xi_gun_bu_gan_xin_gei_bie_ren_dang_ban_yun_gong_he_ma_pai_zi_li_men_hu) <sub>[\[36kr.com\]](https://36kr.com/p/5258251)</sub>
 + [如何定义 SaaS 内容运营](1910-ru_he_ding_yi_saas_nei_rong_yun_ying) <sub>[\[36kr.com\]](https://36kr.com/p/5255946)</sub>
