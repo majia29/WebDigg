@@ -89,32 +89,3 @@
 在我“不惑之年”形成了这些价值观体系，也许未来还会变，也许还不成熟，总之，我不愿跟大多数人一样，因为大多数人都是随遇而安随大流的，因为这样风险最小，而我想走一条属于自己的路，做真正的自己，就像我24岁从银行里出来时想的那样， **我选择对了一个正确的专业（计算机科学），呆在了一个正确的年代（信息化革命），这样的“狗屎运”几百年不遇，如果我还患得患失，那我岂不辜负活在这样一个刺激的时代？！我所要做的就是在这个时代中做有价值的事就好了！这个时代真的是太好了！**
 
 \(全文完\)
-
-![image](images/1902-ttwdsg-1.jpeg) 
-![image](images/1902-ttwdsg-2.jpeg)
-关注CoolShell微信公众账号和微信小程序
-
-**（转载本站文章请注明作者和出处[酷 壳 – CoolShell](https://coolshell.cn/) ，请勿用于任何商业用途）**
-
-——=== **访问[酷壳404页面](http://coolshell.cn/404/) 寻找遗失儿童。** ===——
-
-### 相关文章
-
-* [
-![image](https://coolshell.cn/articles/17583.html)
-* [
-![image](https://coolshell.cn/articles/17497.html)
-* [
-![image](https://coolshell.cn/articles/17446.html)
-* [
-![image](https://coolshell.cn/articles/17459.html)
-* [
-![image](https://coolshell.cn/articles/11629.html)
-* [
-![image](https://coolshell.cn/articles/11928.html)
-
-![好烂啊](images/1902-ttwdsg-9.gif)![有点差](images/1902-ttwdsg-9.gif)![凑合看看](images/1902-ttwdsg-9.gif)![还不错](images/1902-ttwdsg-9.gif)
-![image](images/1902-ttwdsg-10.gif) \( **326** 人打了分，平均分： **4.84** \)
-
-![image](images/1902-ttwdsg-11.gif)
- Loading...
