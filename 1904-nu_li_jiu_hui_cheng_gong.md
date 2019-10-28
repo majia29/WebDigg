@@ -49,32 +49,3 @@
 **我们学计算机当程序员最大的福气不是可以到大公司里加班和996，而是我们生活在了第三次工业革命的信息化时代，这才是最大的福气，所以，我们应该努力地提升自己，而不是把自己当劳动力一样的卖了！在这样的一个时代，你要做的不是通过加班和拼命来跪着挣钱，而是通过技能来躺着挣钱……**
 
 （全文完）
-
-![image](images/1904-nljhcg-2.jpeg) 
-![image](images/1904-nljhcg-3.jpeg)
-关注CoolShell微信公众账号和微信小程序
-
-**（转载本站文章请注明作者和出处[酷 壳 – CoolShell](https://coolshell.cn/) ，请勿用于任何商业用途）**
-
-——=== **访问[酷壳404页面](http://coolshell.cn/404/) 寻找遗失儿童。** ===——
-
-### 相关文章
-
-* [
-![image](https://coolshell.cn/articles/17497.html)
-* [
-![image](https://coolshell.cn/articles/11432.html)
-* [
-![image](https://coolshell.cn/articles/17459.html)
-* [
-![image](https://coolshell.cn/articles/17583.html)
-* [
-![image](https://coolshell.cn/articles/17295.html)
-* [
-![image](https://coolshell.cn/articles/11928.html)
-
-![好烂啊](images/1904-nljhcg-10.gif)![有点差](images/1904-nljhcg-10.gif)![凑合看看](images/1904-nljhcg-10.gif)![还不错](images/1904-nljhcg-10.gif)
-![image](images/1904-nljhcg-11.gif) \( **258** 人打了分，平均分： **4.79** \)
-
-![image](images/1904-nljhcg-12.gif)
- Loading...
