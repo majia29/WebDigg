@@ -142,6 +142,7 @@
 
 **[2019-02]**
 
++ [谈谈我的“三观”](1902-tan_tan_wo_de_san_guan) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/19085.html)</sub>
 + [GAN模式崩溃的理论解释](1902-gan_mo_shi_beng_kui_de_li_lun_jie_shi) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/ecqPzcSa75U9n4BcvnNJ_Q)</sub>
 
 **[2019-01]**

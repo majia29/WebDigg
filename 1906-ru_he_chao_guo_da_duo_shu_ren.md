@@ -104,32 +104,3 @@ P.S. 这篇文章借鉴于《[如何写出无法维护的代码](https://coolshe
 好了，就这么多，如果哪天你变得消极和不自信，你要来读读我的这篇文章，子曰：温故而知新。
 
 （全文完）
-
-![image](images/1906-rhcgddsr-1.jpeg) 
-![image](images/1906-rhcgddsr-2.jpeg)
-关注CoolShell微信公众账号和微信小程序
-
-**（转载本站文章请注明作者和出处[酷 壳 – CoolShell](https://coolshell.cn/) ，请勿用于任何商业用途）**
-
-——=== **访问[酷壳404页面](http://coolshell.cn/404/) 寻找遗失儿童。** ===——
-
-### 相关文章
-
-* [
-![image](https://coolshell.cn/articles/17583.html)
-* [
-![image](https://coolshell.cn/articles/17497.html)
-* [
-![image](https://coolshell.cn/articles/17446.html)
-* [
-![image](https://coolshell.cn/articles/17459.html)
-* [
-![image](https://coolshell.cn/articles/11629.html)
-* [
-![image](https://coolshell.cn/articles/11928.html)
-
-![好烂啊](images/1906-rhcgddsr-9.gif)![有点差](images/1906-rhcgddsr-9.gif)![凑合看看](images/1906-rhcgddsr-9.gif)![还不错](images/1906-rhcgddsr-9.gif)
-![image](images/1906-rhcgddsr-10.gif) \( **244** 人打了分，平均分： **4.68** \)
-
-![image](images/1906-rhcgddsr-11.gif)
- Loading...
