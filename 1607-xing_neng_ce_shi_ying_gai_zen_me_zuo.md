@@ -98,7 +98,7 @@
 ![image](https://coolshell.cn/articles/9703.html)
 
 ![好烂啊](images/1607-xncsygzmz-10.gif)![有点差](images/1607-xncsygzmz-10.gif)![凑合看看](images/1607-xncsygzmz-10.gif)![还不错](images/1607-xncsygzmz-10.gif)
-![image](images/1607-xncsygzmz-11.gif) \( **50** 人打了分，平均分： **4.76** \)
+![image](images/1607-xncsygzmz-11.gif) \( **51** 人打了分，平均分： **4.76** \)
 
 ![image](images/1607-xncsygzmz-12.gif)
  Loading...
