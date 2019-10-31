@@ -154,6 +154,7 @@
 
 **[2018-08]**
 
++ [年轻CEO必备：营销服务部门绩效和提成该如何设计？](1808-nian_qing_ceo_bi_bei_ying_xiao_fu_wu_bu_men_ji_xiao_he_ti_cheng_gai_ru_he_she_ji) <sub>[\[36kr.com\]](https://36kr.com/p/5149324)</sub>
 + [SaaS创业路线图（12）：市场、销售、售后各部门的配合关系如何设计？](1808-saas_chuang_ye_lu_xian_tu_12_shi_chang_xiao_shou_shou_hou_ge_bu_men_de_pei_he_guan_xi_ru_he_she_ji) <sub>[\[36kr.com\]](https://36kr.com/p/5148187)</sub>
 + [SaaS创业路线图（11）：全国营销布局策略](1808-saas_chuang_ye_lu_xian_tu_11_quan_guo_ying_xiao_bu_ju_ce_lve) <sub>[\[36kr.com\]](https://36kr.com/p/5146917)</sub>
 
