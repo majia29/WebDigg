@@ -7,9 +7,13 @@
 
 ![image](images/1910-bhorovodncclk8bbklywrlhfbzygputxk-0.jpeg)
 
-作者 | Guanhua Wang, Shivaram Venkataraman, Amar Phanishayee 等
+作者: Guanhua Wang, Shivaram Venkataraman, Amar Phanishayee 等
 
-编辑 | Natalie  **AI 前线导读：** 当下大规模分布式机器学习模型训练中，数据并行是最广为使用的方法。随着 GPU 的算力不断提升，GPU 间的数据聚合（即模型同步）成为了大规模分布式模型训练的瓶颈。当下流行的数据聚合库函数（Nvidia 的 NCCL，百度的 Ring-AllReduce）或分布式模型训练平台（例如 Uber 的 Horovod）并没有很好的解决 GPU 间数据通信的问题。例如文献【1】指出，利用现有的 Horovord 或 NCCL，GPU 间数据聚合可能会占到模型训练总耗时的 50% 到 90%。这些现有 GPU 间数据聚合解决方案的最大问题在于：无法充分利用所有的，同构 / 异构的数据通信通道。因此，UC Berkeley，Microsoft Research 和 University of Wisconsin-Madison 联合发布，利用 GPU 间所有异构数据传输通道，实现数据聚合的最优解决方案 Blink。相比 NCCL/Horovod，Blink 提高 GPU 间数据聚合的通信效率高达 8 倍，最多可以缩短分布式机器学习模型总训练时间的 40%。
+编辑: Natalie  
+
+**AI 前线导读：** 
+
+当下大规模分布式机器学习模型训练中，数据并行是最广为使用的方法。随着 GPU 的算力不断提升，GPU 间的数据聚合（即模型同步）成为了大规模分布式模型训练的瓶颈。当下流行的数据聚合库函数（Nvidia 的 NCCL，百度的 Ring-AllReduce）或分布式模型训练平台（例如 Uber 的 Horovod）并没有很好的解决 GPU 间数据通信的问题。例如文献【1】指出，利用现有的 Horovord 或 NCCL，GPU 间数据聚合可能会占到模型训练总耗时的 50% 到 90%。这些现有 GPU 间数据聚合解决方案的最大问题在于：无法充分利用所有的，同构 / 异构的数据通信通道。因此，UC Berkeley，Microsoft Research 和 University of Wisconsin-Madison 联合发布，利用 GPU 间所有异构数据传输通道，实现数据聚合的最优解决方案 Blink。相比 NCCL/Horovod，Blink 提高 GPU 间数据聚合的通信效率高达 8 倍，最多可以缩短分布式机器学习模型总训练时间的 40%。
 
 **更多优质内容请关注微信公众号“AI 前线”（ID：ai-front）**
 
@@ -99,9 +103,3 @@ https://arxiv.org/abs/1910.04940
 6. NVIDIA NVLINK. http://www.nvidia.com/ object/nvlink.html, 2017.
 
 7. NVIDIA NVSWITCH. http:// images.nvidia.com/content/pdf/ nvswitch-technical-overview.pdf, 2018.
-
-* * *
-
-![image](images/1910-bhorovodncclk8bbklywrlhfbzygputxk-12.gif)
-
-**你也「在看」吗？** ****👇

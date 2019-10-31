@@ -24,6 +24,7 @@
 
 **[2019-09]**
 
++ [复杂问题该用理性决策还是感性决策？ 思考方式的革命（1）](1909-fu_za_wen_ti_gai_yong_li_xing_jue_ce_huan_shi_gan_xing_jue_ce_si_kao_fang_shi_de_ge_ming_1) <sub>[\[36kr.com\]](https://36kr.com/p/5246907)</sub>
 + [是时候考虑让Spark运行在K8s上了-InfoQ](1909-shi_shi_hou_kao_lv_rang_spark_yun_xing_zai_k8s_shang_le) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/BTDV0pODQBgMLmPfRu8M)</sub>
 + [下一代HTTPS：蚂蚁金服推出新型可信中间件SOFAEnclave](1909-xia_yi_dai_https_ma_yi_jin_fu_tui_chu_xin_xing_ke_xin_zhong_jian_jian) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/yPEDNdWALeDXdi2AY4DWoA)</sub>
 + [Anthos深度分析，看懂谷歌云的三级火箭-InfoQ](1909-anthos_shen_du_fen_xi_kan_dong_gu_ge_yun_de_san_ji_huo_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/mQEDIb2eTtkRPXtsUJdm)</sub>
