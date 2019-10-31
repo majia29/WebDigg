@@ -152,9 +152,13 @@
 
 + [滴滴Elasticsearch多集群架构实践](1812-di_di_elasticsearch_duo_ji_qun_jia_gou_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/SbfS6uOcF_gW6FEpQlLK)</sub>
 
+**[2018-08]**
+
++ [SaaS创业路线图（11）：全国营销布局策略](1808-saas_chuang_ye_lu_xian_tu_11_quan_guo_ying_xiao_bu_ju_ce_lve) <sub>[\[36kr.com\]](https://36kr.com/p/5146917)</sub>
+
 **[2018-07]**
 
-+ [纷享销客前执行总裁：如何培养骨干营销团队？](1807-fen_xiang_xiao_ke_qian_zhi_xing_zong_cai_ru_he_pei_yang_gu_gan_ying_xiao_tuan_dui) <sub>[\[36kr.com\]](https://36kr.com/p/5145853)</sub>
++ [SaaS创业路线图（10）：如何培养骨干营销团队？](1807-fen_xiang_xiao_ke_qian_zhi_xing_zong_cai_ru_he_pei_yang_gu_gan_ying_xiao_tuan_dui) <sub>[\[36kr.com\]](https://36kr.com/p/5145853)</sub>
 + [SaaS创业路线图（九）：面对同行无底线竞争，怎样的竞争策略最聪明？](1807-saas_chuang_ye_lu_xian_tu_jiu_mian_dui_tong_xing_wu_di_xian_jing_zheng_zen_yang_de_jing_zheng_ce_lve_zui_cong_ming) <sub>[\[36kr.com\]](https://36kr.com/p/5144630)</sub>
 + [SaaS创业路线图（八）：创业初期是否应该做BD？](1807-saas_chuang_ye_lu_xian_tu_ba_chuang_ye_chu_qi_shi_fou_ying_gai_zuo_bd) <sub>[\[36kr.com\]](https://36kr.com/p/5143651)</sub>
 + [SaaS创业路线图（七）：目标客户想要更多，是否可以做点定制开发？](1807-saas_chuang_ye_lu_xian_tu_qi_mu_biao_ke_hu_xiang_yao_geng_duo_shi_fou_ke_yi_zuo_dian_ding_zhi_kai_fa) <sub>[\[36kr.com\]](https://36kr.com/p/5141992)</sub>
