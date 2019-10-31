@@ -162,6 +162,10 @@
 + [Dubbo 整合 Pinpoint 做分布式服务请求跟踪](1807-dubbo_zheng_he_pinpoint_zuo_fen_bu_shi_fu_wu_qing_qiu_gen_zong) <sub>[\[segmentfault.com\]](https://segmentfault.com/a/1190000015773953)</sub>
 + [老司机都开火箭了！Cython 助力 Python NLP 实现百倍加速](1807-lao_si_ji_du_kai_huo_jian_le_cython_zhu_li_python_nlp_shi_xian_bai_bei_jia_su) <sub>[\[cloud.tencent.com\]](https://cloud.tencent.com/developer/article/1166699)</sub>
 
+**[2018-05]**
+
++ [SaaS创业路线图（一）：SaaS创业路线全貌](1805-saas_chuang_ye_lu_xian_tu_yi_saas_chuang_ye_lu_xian_quan_mao) <sub>[\[36kr.com\]](https://36kr.com/p/5136068)</sub>
+
 **[2017-12]**
 
 + [用 TensorFlow 追踪千年隼号](1712-yong_tensorflow_zhui_zong_qian_nian_zhun_hao) <sub>[\[segmentfault.com\]](https://segmentfault.com/a/1190000012302908)</sub>
