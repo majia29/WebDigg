@@ -159,6 +159,7 @@
 
 **[2018-06]**
 
++ [SaaS创业路线图（三）：创业公司核心营销团队招募](1806-saas_chuang_ye_lu_xian_tu_san_chuang_ye_gong_si_he_xin_ying_xiao_tuan_dui_zhao_mu) <sub>[\[36kr.com\]](https://36kr.com/p/5138329)</sub>
 + [SaaS创业路线图（二）：一文读懂SaaS创业路线全貌](1806-saas_chuang_ye_lu_xian_tu_er_yi_wen_du_dong_saas_chuang_ye_lu_xian_quan_mao) <sub>[\[36kr.com\]](https://36kr.com/p/5137220)</sub>
 
 **[2018-05]**
