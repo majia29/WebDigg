@@ -154,6 +154,7 @@
 
 **[2018-09]**
 
++ [SaaS产品的定价、折扣及背后的商业模式  SaaS创业路线图](1809-saas_chan_pin_de_ding_jia_zhe_kou_ji_bei_hou_de_shang_ye_mo_shi_saas_chuang_ye_lu_xian_tu) <sub>[\[36kr.com\]](https://36kr.com/p/5152626)</sub>
 + [纷享销客联合创始人刘晨：为什么说SaaS公司一定要做客户成功](1809-fen_xiang_xiao_ke_lian_he_chuang_shi_ren_liu_chen_wei_shi_me_shuo_saas_gong_si_yi_ding_yao_zuo_ke_hu_cheng_gong) <sub>[\[36kr.com\]](https://36kr.com/p/5151571)</sub>
 
 **[2018-08]**
