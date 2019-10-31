@@ -1,6 +1,7 @@
 
 **[2019-10]**
 
++ [比Horovod/NCCL快8倍！伯克利与微软联合发布最优GPU通信库Blink](1910-bi_horovod_nccl_kuai_8_bei_bo_ke_li_yu_wei_ruan_lian_he_fa_bu_zui_you_gpu_tong_xin_ku) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/93jJOLEaMII10-ToNCjWIQ)</sub>
 + [惨烈的国运对决](1910-can_lie_de_guo_yun_dui_jue) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/dNTt0FoulmMVZ7Rc9mvsHw)</sub>
 + [作为豆瓣头部网红，为什么我在微博上接不到广告？](1910-zuo_wei_dou_ban_tou_bu_wang_hong_wei_shi_me_wo_zai_wei_bo_shang_jie_bu_dao_guang_gao) <sub>[\[36kr.com\]](https://36kr.com/p/5259439)</sub>
 + [Facebook为什么要在澳洲市场隐藏点赞数？](1910-facebook_wei_shi_me_yao_zai_ao_zhou_shi_chang_yin_cang_dian_zan_shu) <sub>[\[36kr.com\]](https://36kr.com/p/5258981)</sub>
@@ -142,7 +143,7 @@
 
 **[2019-02]**
 
-+ [云原生应用程序的架构应该怎么设计？-InfoQ](1902-yun_yuan_sheng_ying_yong_cheng_xu_de_jia_gou_ying_gai_zen_me_she_ji) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/WR3YLpZ-X64AeWicO920)</sub>
++ [云原生应用程序的架构应该怎么设计？](1902-yun_yuan_sheng_ying_yong_cheng_xu_de_jia_gou_ying_gai_zen_me_she_ji) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/WR3YLpZ-X64AeWicO920)</sub>
 + [谈谈我的“三观”](1902-tan_tan_wo_de_san_guan) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/19085.html)</sub>
 + [GAN模式崩溃的理论解释](1902-gan_mo_shi_beng_kui_de_li_lun_jie_shi) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/ecqPzcSa75U9n4BcvnNJ_Q)</sub>
 
