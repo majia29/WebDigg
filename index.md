@@ -154,6 +154,7 @@
 
 **[2018-07]**
 
++ [SaaS创业路线图（九）：面对同行无底线竞争，怎样的竞争策略最聪明？](1807-saas_chuang_ye_lu_xian_tu_jiu_mian_dui_tong_xing_wu_di_xian_jing_zheng_zen_yang_de_jing_zheng_ce_lve_zui_cong_ming) <sub>[\[36kr.com\]](https://36kr.com/p/5144630)</sub>
 + [SaaS创业路线图（八）：创业初期是否应该做BD？](1807-saas_chuang_ye_lu_xian_tu_ba_chuang_ye_chu_qi_shi_fou_ying_gai_zuo_bd) <sub>[\[36kr.com\]](https://36kr.com/p/5143651)</sub>
 + [SaaS创业路线图（七）：目标客户想要更多，是否可以做点定制开发？](1807-saas_chuang_ye_lu_xian_tu_qi_mu_biao_ke_hu_xiang_yao_geng_duo_shi_fou_ke_yi_zuo_dian_ding_zhi_kai_fa) <sub>[\[36kr.com\]](https://36kr.com/p/5141992)</sub>
 + [SaaS创业路线图（六）：如何高效扩张团队？](1807-saas_chuang_ye_lu_xian_tu_liu_ru_he_gao_xiao_kuo_zhang_tuan_dui) <sub>[\[36kr.com\]](https://36kr.com/p/5141259)</sub>
