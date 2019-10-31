@@ -142,6 +142,7 @@
 
 **[2019-02]**
 
++ [云原生应用程序的架构应该怎么设计？-InfoQ](1902-yun_yuan_sheng_ying_yong_cheng_xu_de_jia_gou_ying_gai_zen_me_she_ji) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/WR3YLpZ-X64AeWicO920)</sub>
 + [谈谈我的“三观”](1902-tan_tan_wo_de_san_guan) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/19085.html)</sub>
 + [GAN模式崩溃的理论解释](1902-gan_mo_shi_beng_kui_de_li_lun_jie_shi) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/ecqPzcSa75U9n4BcvnNJ_Q)</sub>
 
