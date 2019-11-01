@@ -1,4 +1,4 @@
-### SaaS创业路线图 专栏 ###
+### SaaS创业路线图 专栏
 
 + [SaaS创业路线图（62）：线索客户流转及SDR管理](1909-xian_suo_ke_hu_liu_zhuan_ji_sdr_guan_li_saas_chuang_ye_lu_xian_tu_62) <sub>[\[36kr.com\]](https://36kr.com/p/5244852)</sub>
 + [SaaS创业路线图（61）：客户成功管理框架](1909-ke_hu_cheng_gong_guan_li_kuang_jia_saas_chuang_ye_lu_xian_tu_61) <sub>[\[36kr.com\]](https://36kr.com/p/5242334)</sub>
@@ -64,7 +64,7 @@
 + [SaaS创业路线图（二）：一文读懂SaaS创业路线全貌](1806-saas_chuang_ye_lu_xian_tu_er_yi_wen_du_dong_saas_chuang_ye_lu_xian_quan_mao) <sub>[\[36kr.com\]](https://36kr.com/p/5137220)</sub>
 + [SaaS创业路线图（一）：SaaS创业路线全貌](1805-saas_chuang_ye_lu_xian_tu_yi_saas_chuang_ye_lu_xian_quan_mao) <sub>[\[36kr.com\]](https://36kr.com/p/5136068)</sub>
 
-### 补充阅读 ###
+### 补充阅读
 
 + [用财务模型说明：没有优异续费率的SaaS只是个传统生意](1910-yong_cai_wu_mo_xing_shuo_ming_mei_you_you_yi_xu_fei_lv_de_saas_zhi_shi_ge_chuan_tong_sheng_yi) <sub>[\[36kr.com\]](https://36kr.com/p/5255546)</sub>
 + [SaaS避坑指南](1908-saas_bi_keng_zhi_nan) <sub>[\[36kr.com\]](https://36kr.com/p/5235757)</sub>
