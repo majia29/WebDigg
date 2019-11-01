@@ -37,8 +37,9 @@
 
 **[2019-08]**
 
-+ [数据在企业演进中的价值  SaaS创业路线图（57）](1908-shu_ju_zai_qi_ye_yan_jin_zhong_de_jia_zhi_saas_chuang_ye_lu_xian_tu_57) <sub>[\[36kr.com\]](https://36kr.com/p/5234918)</sub>
-+ [SaaS公司典型组织架构及职责划分  SaaS创业路线图（56）](1908-saas_gong_si_dian_xing_zu_zhi_jia_gou_ji_zhi_ze_hua_fen_saas_chuang_ye_lu_xian_tu_56) <sub>[\[36kr.com\]](https://36kr.com/p/5232527)</sub>
++ [企业市场的大数据营销  SaaS创业路线图（59）](1908-qi_ye_shi_chang_de_da_shu_ju_ying_xiao_saas_chuang_ye_lu_xian_tu_59) <sub>[\[36kr.com\]](https://36kr.com/p/5237468)</sub>
++ [SaaS创业路线图（57）：数据在企业演进中的价值](1908-shu_ju_zai_qi_ye_yan_jin_zhong_de_jia_zhi_saas_chuang_ye_lu_xian_tu_57) <sub>[\[36kr.com\]](https://36kr.com/p/5234918)</sub>
++ [SaaS创业路线图（56b）：SaaS公司典型组织架构及职责划分](1908-saas_gong_si_dian_xing_zu_zhi_jia_gou_ji_zhi_ze_hua_fen_saas_chuang_ye_lu_xian_tu_56) <sub>[\[36kr.com\]](https://36kr.com/p/5232527)</sub>
 + [SaaS创业是做功能，还是做服务？_36氪](1908-saas_chuang_ye_shi_zuo_gong_neng_huan_shi_zuo_fu_wu_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5239891)</sub>
 + [1.99亿“头部消费者”：中国白领网民生活&消费报告_36氪](1908-1_99_yi_tou_bu_xiao_fei_zhe_zhong_guo_bai_ling_wang_min_sheng_huo_xiao_fei_bao_gao_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5239735)</sub>
 + [潮起潮落，看SaaS如何理性突围？_36氪](1908-chao_qi_chao_luo_kan_saas_ru_he_li_xing_tu_wei_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5239797)</sub>
@@ -46,11 +47,11 @@
 
 **[2019-07]**
 
-+ [通过一个指标提高销售管理效率  SaaS创业路线图（56）](1907-tong_guo_yi_ge_zhi_biao_ti_gao_xiao_shou_guan_li_xiao_lv_saas_chuang_ye_lu_xian_tu_56) <sub>[\[36kr.com\]](https://36kr.com/p/5230528)</sub>
-+ [SaaS产品分类及其发展方向  SaaS创业路线图（55）](1907-saas_chan_pin_fen_lei_ji_qi_fa_zhan_fang_xiang_saas_chuang_ye_lu_xian_tu_55) <sub>[\[36kr.com\]](https://36kr.com/p/5228226)</sub>
-+ [SaaS公司渠道价值探讨  SaaS创业路线图（54）](1907-saas_gong_si_qu_dao_jia_zhi_tan_tao_saas_chuang_ye_lu_xian_tu_54) <sub>[\[36kr.com\]](https://36kr.com/p/5226210)</sub>
-+ [如何制定销售目标？ SaaS创业路线图（53）](1907-ru_he_zhi_ding_xiao_shou_mu_biao_saas_chuang_ye_lu_xian_tu_53) <sub>[\[36kr.com\]](https://36kr.com/p/5223671)</sub>
-+ [如何做好新员工培训？ SaaS创业路线图（52）](1907-ru_he_zuo_hao_xin_yuan_gong_pei_xun_saas_chuang_ye_lu_xian_tu_52) <sub>[\[36kr.com\]](https://36kr.com/p/5221396)</sub>
++ [SaaS创业路线图（56）：通过一个指标提高销售管理效率](1907-tong_guo_yi_ge_zhi_biao_ti_gao_xiao_shou_guan_li_xiao_lv_saas_chuang_ye_lu_xian_tu_56) <sub>[\[36kr.com\]](https://36kr.com/p/5230528)</sub>
++ [SaaS创业路线图（55）：SaaS产品分类及其发展方向](1907-saas_chan_pin_fen_lei_ji_qi_fa_zhan_fang_xiang_saas_chuang_ye_lu_xian_tu_55) <sub>[\[36kr.com\]](https://36kr.com/p/5228226)</sub>
++ [SaaS创业路线图（54）：SaaS公司渠道价值探讨](1907-saas_gong_si_qu_dao_jia_zhi_tan_tao_saas_chuang_ye_lu_xian_tu_54) <sub>[\[36kr.com\]](https://36kr.com/p/5226210)</sub>
++ [SaaS创业路线图（53）：如何制定销售目标？](1907-ru_he_zhi_ding_xiao_shou_mu_biao_saas_chuang_ye_lu_xian_tu_53) <sub>[\[36kr.com\]](https://36kr.com/p/5223671)</sub>
++ [SaaS创业路线图（52）：如何做好新员工培训？](1907-ru_he_zuo_hao_xin_yuan_gong_pei_xun_saas_chuang_ye_lu_xian_tu_52) <sub>[\[36kr.com\]](https://36kr.com/p/5221396)</sub>
 + [干货！这是一份通俗易懂的知识图谱技术与应用指南](1907-gan_huo_zhe_shi_yi_fen_tong_su_yi_dong_de_zhi_shi_tu_pu_ji_zhu_yu_ying_yong_zhi_nan) <sub>[\[cloud.tencent.com\]](https://cloud.tencent.com/developer/article/1458681)</sub>
 + [提升60%基础资源利用率！中国联通的容器化大数据平台实践](1907-ti_sheng_60_ji_chu_zi_yuan_li_yong_lv_zhong_guo_lian_tong_de_rong_qi_hua_da_shu_ju_ping_tai_shi_jian) <sub>[\[segmentfault.com\]](https://segmentfault.com/a/1190000019662812)</sub>
 + [基于深度学习的推荐系统效果遭质疑，它真的有带来实质性进展吗？](1907-ji_yu_shen_du_xue_xi_de_tui_jian_xi_tong_xiao_guo_zao_zhi_yi_ta_zhen_de_you_dai_lai_shi_zhi_xing_jin_zhan_ma) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/Rjkevi51uCd-9fsIyJoC0Q)</sub>
@@ -60,10 +61,10 @@
 
 **[2019-06]**
 
-+ [为什么说“无标准，不复制” SaaS创业路线图（51）](1906-wei_shi_me_shuo_wu_biao_zhun_bu_fu_zhi_saas_chuang_ye_lu_xian_tu_51) <sub>[\[36kr.com\]](https://36kr.com/p/5218936)</sub>
-+ [SaaS公司各部门经营状况自评 SaaS创业路线图（50）](1906-saas_gong_si_ge_bu_men_jing_ying_zhuang_kuang_zi_ping_saas_chuang_ye_lu_xian_tu_50) <sub>[\[36kr.com\]](https://36kr.com/p/5216647)</sub>
-+ [如何评估SaaS公司的经营状况？ SaaS创业路线图（49）](1906-ru_he_ping_gu_saas_gong_si_de_jing_ying_zhuang_kuang_saas_chuang_ye_lu_xian_tu_49) <sub>[\[36kr.com\]](https://36kr.com/p/5214188)</sub>
-+ [从管理会计看SaaS企业经营的真相（下）SaaS创业路线图（48）](1906-cong_guan_li_hui_ji_kan_saas_qi_ye_jing_ying_de_zhen_xiang_xia_saas_chuang_ye_lu_xian_tu_48) <sub>[\[36kr.com\]](https://36kr.com/p/5212109)</sub>
++ [SaaS创业路线图（51）：为什么说“无标准，不复制”](1906-wei_shi_me_shuo_wu_biao_zhun_bu_fu_zhi_saas_chuang_ye_lu_xian_tu_51) <sub>[\[36kr.com\]](https://36kr.com/p/5218936)</sub>
++ [SaaS创业路线图（50）：SaaS公司各部门经营状况自评](1906-saas_gong_si_ge_bu_men_jing_ying_zhuang_kuang_zi_ping_saas_chuang_ye_lu_xian_tu_50) <sub>[\[36kr.com\]](https://36kr.com/p/5216647)</sub>
++ [SaaS创业路线图（49）：如何评估SaaS公司的经营状况？](1906-ru_he_ping_gu_saas_gong_si_de_jing_ying_zhuang_kuang_saas_chuang_ye_lu_xian_tu_49) <sub>[\[36kr.com\]](https://36kr.com/p/5214188)</sub>
++ [SaaS创业路线图（48）：从管理会计看SaaS企业经营的真相（下）](1906-cong_guan_li_hui_ji_kan_saas_qi_ye_jing_ying_de_zhen_xiang_xia_saas_chuang_ye_lu_xian_tu_48) <sub>[\[36kr.com\]](https://36kr.com/p/5212109)</sub>
 + [如何超过大多数人](1906-ru_he_chao_guo_da_duo_shu_ren) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/19464.html)</sub>
 + [加缪：艺术家和他的时代](1906-jia_mou_yi_zhu_jia_he_ta_de_shi_dai) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzIzOTA3NjExMw==&mid=2649850971&idx=1&sn=b9affdc3841a83884a032f83313ec987&chksm=f12ab225c65d3b332cb3b70e974b3958f2ca382d321cf4a6d121e708545df53093f299900a4e&mpshare=1&scene=2&srcid=0614hn4Q7p3CPu2ER1QO4hUe&from=timeline&ascene=2&devicetype=android-28&version=2700043c&nettype=WIFI&abtest_cookie=BQABAAoACwASABMAFQAGACOXHgBWmR4AvZkeANyZHgD3mR4ACZoeAAAA&lang=zh_CN&pass_ticket=W0Hr54MRflhNwBsZZIQted9oDB9WNRDSAWqXX4IK6a5nPalnrvcLW11ET6qAkC7Q&wx_header=1)</sub>
 + [系统架构系列（一）：如何用公式定义该概念？](1906-xi_tong_jia_gou_xi_lie_yi_ru_he_yong_gong_shi_ding_yi_gai_gai_nian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/fwhQ-dIN2xTUH6zNLYZp)</sub>
@@ -82,10 +83,10 @@
 
 **[2019-05]**
 
-+ [从管理会计看SaaS企业经营的真相（中） SaaS创业路线图（47）](1905-cong_guan_li_hui_ji_kan_saas_qi_ye_jing_ying_de_zhen_xiang_zhong_saas_chuang_ye_lu_xian_tu_47) <sub>[\[36kr.com\]](https://36kr.com/p/5209472)</sub>
-+ [从管理会计看SaaS企业经营的真相（上） SaaS创业路线图（46）](1905-cong_guan_li_hui_ji_kan_saas_qi_ye_jing_ying_de_zhen_xiang_shang_saas_chuang_ye_lu_xian_tu_46) <sub>[\[36kr.com\]](https://36kr.com/p/5206498)</sub>
-+ [“正心诚意”的顶层设计  SaaS创业路线图（45）](1905-zheng_xin_cheng_yi_de_ding_ceng_she_ji_saas_chuang_ye_lu_xian_tu_45) <sub>[\[36kr.com\]](https://36kr.com/p/5203883)</sub>
-+ [管理标准化—销售费用能否换为提成？ SaaS创业路线图（44）](1905-guan_li_biao_zhun_hua_xiao_shou_fei_yong_neng_fou_huan_wei_ti_cheng_saas_chuang_ye_lu_xian_tu_44) <sub>[\[36kr.com\]](https://36kr.com/p/5201129)</sub>
++ [SaaS创业路线图（47）：从管理会计看SaaS企业经营的真相（中）](1905-cong_guan_li_hui_ji_kan_saas_qi_ye_jing_ying_de_zhen_xiang_zhong_saas_chuang_ye_lu_xian_tu_47) <sub>[\[36kr.com\]](https://36kr.com/p/5209472)</sub>
++ [SaaS创业路线图（46）：从管理会计看SaaS企业经营的真相（上）](1905-cong_guan_li_hui_ji_kan_saas_qi_ye_jing_ying_de_zhen_xiang_shang_saas_chuang_ye_lu_xian_tu_46) <sub>[\[36kr.com\]](https://36kr.com/p/5206498)</sub>
++ [SaaS创业路线图（45）：“正心诚意”的顶层设计](1905-zheng_xin_cheng_yi_de_ding_ceng_she_ji_saas_chuang_ye_lu_xian_tu_45) <sub>[\[36kr.com\]](https://36kr.com/p/5203883)</sub>
++ [SaaS创业路线图（44）：管理标准化—销售费用能否换为提成？](1905-guan_li_biao_zhun_hua_xiao_shou_fei_yong_neng_fou_huan_wei_ti_cheng_saas_chuang_ye_lu_xian_tu_44) <sub>[\[36kr.com\]](https://36kr.com/p/5201129)</sub>
 + [Segment放弃了微服务](1905-segment_fang_qi_le_wei_fu_wu) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/v3VjP*BYtY3qhD3438ay)</sub>
 + [推荐系统工程师必看：Embedding技术在深度学习CTR模型中的应用](1905-tui_jian_xi_tong_gong_cheng_shi_bi_kan_embedding_ji_zhu_zai_shen_du_xue_xi_ctr_mo_xing_zhong_de_ying_yong) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/IzHTPNQ5zB-DFuPwTPBM)</sub>
 + [是时候放弃Spark Streaming，转向Structured Streaming了](1905-shi_shi_hou_fang_qi_spark_streaming_zhuan_xiang_structured_streaming_le) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/UEOq-ezu4ImwHxGiDFc8)</sub>

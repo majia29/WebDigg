@@ -1,6 +1,24 @@
 SaaS创业路线图
 =================
 
++ [SaaS创业路线图（57）：数据在企业演进中的价值](1908-shu_ju_zai_qi_ye_yan_jin_zhong_de_jia_zhi_saas_chuang_ye_lu_xian_tu_57) <sub>[\[36kr.com\]](https://36kr.com/p/5234918)</sub>
++ [SaaS创业路线图（56b）：SaaS公司典型组织架构及职责划分](1908-saas_gong_si_dian_xing_zu_zhi_jia_gou_ji_zhi_ze_hua_fen_saas_chuang_ye_lu_xian_tu_56) <sub>[\[36kr.com\]](https://36kr.com/p/5232527)</sub>
++ [SaaS创业路线图（56）：通过一个指标提高销售管理效率](1907-tong_guo_yi_ge_zhi_biao_ti_gao_xiao_shou_guan_li_xiao_lv_saas_chuang_ye_lu_xian_tu_56) <sub>[\[36kr.com\]](https://36kr.com/p/5230528)</sub>
++ [SaaS创业路线图（55）：SaaS产品分类及其发展方向](1907-saas_chan_pin_fen_lei_ji_qi_fa_zhan_fang_xiang_saas_chuang_ye_lu_xian_tu_55) <sub>[\[36kr.com\]](https://36kr.com/p/5228226)</sub>
++ [SaaS创业路线图（54）：SaaS公司渠道价值探讨](1907-saas_gong_si_qu_dao_jia_zhi_tan_tao_saas_chuang_ye_lu_xian_tu_54) <sub>[\[36kr.com\]](https://36kr.com/p/5226210)</sub>
++ [SaaS创业路线图（53）：如何制定销售目标？](1907-ru_he_zhi_ding_xiao_shou_mu_biao_saas_chuang_ye_lu_xian_tu_53) <sub>[\[36kr.com\]](https://36kr.com/p/5223671)</sub>
++ [SaaS创业路线图（52）：如何做好新员工培训？](1907-ru_he_zuo_hao_xin_yuan_gong_pei_xun_saas_chuang_ye_lu_xian_tu_52) <sub>[\[36kr.com\]](https://36kr.com/p/5221396)</sub>
++ [SaaS创业路线图（51）：为什么说“无标准，不复制”](1906-wei_shi_me_shuo_wu_biao_zhun_bu_fu_zhi_saas_chuang_ye_lu_xian_tu_51) <sub>[\[36kr.com\]](https://36kr.com/p/5218936)</sub>
++ [SaaS创业路线图（50）：SaaS公司各部门经营状况自评](1906-saas_gong_si_ge_bu_men_jing_ying_zhuang_kuang_zi_ping_saas_chuang_ye_lu_xian_tu_50) <sub>[\[36kr.com\]](https://36kr.com/p/5216647)</sub>
++ [SaaS创业路线图（49）：如何评估SaaS公司的经营状况？](1906-ru_he_ping_gu_saas_gong_si_de_jing_ying_zhuang_kuang_saas_chuang_ye_lu_xian_tu_49) <sub>[\[36kr.com\]](https://36kr.com/p/5214188)</sub>
++ [SaaS创业路线图（48）：从管理会计看SaaS企业经营的真相（下）](1906-cong_guan_li_hui_ji_kan_saas_qi_ye_jing_ying_de_zhen_xiang_xia_saas_chuang_ye_lu_xian_tu_48) <sub>[\[36kr.com\]](https://36kr.com/p/5212109)</sub>
++ [SaaS创业路线图（47）：从管理会计看SaaS企业经营的真相（中）](1905-cong_guan_li_hui_ji_kan_saas_qi_ye_jing_ying_de_zhen_xiang_zhong_saas_chuang_ye_lu_xian_tu_47) <sub>[\[36kr.com\]](https://36kr.com/p/5209472)</sub>
++ [SaaS创业路线图（46）：从管理会计看SaaS企业经营的真相（上）](1905-cong_guan_li_hui_ji_kan_saas_qi_ye_jing_ying_de_zhen_xiang_shang_saas_chuang_ye_lu_xian_tu_46) <sub>[\[36kr.com\]](https://36kr.com/p/5206498)</sub>
++ [SaaS创业路线图（45）：“正心诚意”的顶层设计](1905-zheng_xin_cheng_yi_de_ding_ceng_she_ji_saas_chuang_ye_lu_xian_tu_45) <sub>[\[36kr.com\]](https://36kr.com/p/5203883)</sub>
++ [SaaS创业路线图（44）：管理标准化—销售费用能否换为提成？](1905-guan_li_biao_zhun_hua_xiao_shou_fei_yong_neng_fou_huan_wei_ti_cheng_saas_chuang_ye_lu_xian_tu_44) <sub>[\[36kr.com\]](https://36kr.com/p/5201129)</sub>
++ [SaaS创业路线图（43）：合伙人掉队了，怎么办？](1904-he_huo_ren_diao_dui_le_zen_me_ban) <sub>[\[36kr.com\]](https://36kr.com/p/5195591)</sub>
++ [SaaS创业路线图（42）：销售提成设计的误区](1904-xiao_shou_ti_cheng_she_ji_de_wu_qu_saas_chuang_ye_lu_xian_tu_42) <sub>[\[36kr.com\]](https://36kr.com/p/5193017)</sub>
++ [SaaS创业路线图（41）：客户信任度曲线与转介绍漏斗模型](1904-ke_hu_xin_ren_du_qu_xian_yu_zhuan_jie_shao_lou_dou_mo_xing_saas_chuang_ye_lu_xian_tu_41) <sub>[\[36kr.com\]](https://36kr.com/p/5190770)</sub>
 + [SaaS创业路线图（40）：创业者如何打造领导力？](1903-chuang_ye_zhe_ru_he_da_zao_ling_dao_li) <sub>[\[36kr.com\]](https://36kr.com/p/5188571)</sub>
 + [SaaS创业路线图（39）：可复制的市场成功](1903-ke_fu_zhi_de_shi_chang_cheng_gong_saas_chuang_ye_lu_xian_tu_39) <sub>[\[36kr.com\]](https://36kr.com/p/5188412)</sub>
 + [SaaS创业路线图（38）：拜访杭州SaaS圈的一些共识](1903-bai_fang_hang_zhou_saas_quan_de_yi_xie_gong_shi) <sub>[\[36kr.com\]](https://36kr.com/p/5184217)</sub>
