@@ -44,6 +44,7 @@
 
 **[2019-07]**
 
++ [SaaS公司渠道价值探讨  SaaS创业路线图（54）](1907-saas_gong_si_qu_dao_jia_zhi_tan_tao_saas_chuang_ye_lu_xian_tu_54) <sub>[\[36kr.com\]](https://36kr.com/p/5226210)</sub>
 + [如何制定销售目标？ SaaS创业路线图（53）](1907-ru_he_zhi_ding_xiao_shou_mu_biao_saas_chuang_ye_lu_xian_tu_53) <sub>[\[36kr.com\]](https://36kr.com/p/5223671)</sub>
 + [如何做好新员工培训？ SaaS创业路线图（52）](1907-ru_he_zuo_hao_xin_yuan_gong_pei_xun_saas_chuang_ye_lu_xian_tu_52) <sub>[\[36kr.com\]](https://36kr.com/p/5221396)</sub>
 + [干货！这是一份通俗易懂的知识图谱技术与应用指南](1907-gan_huo_zhe_shi_yi_fen_tong_su_yi_dong_de_zhi_shi_tu_pu_ji_zhu_yu_ying_yong_zhi_nan) <sub>[\[cloud.tencent.com\]](https://cloud.tencent.com/developer/article/1458681)</sub>
