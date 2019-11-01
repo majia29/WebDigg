@@ -1,6 +1,7 @@
 
 **[2019-10]**
 
++ [用财务模型说明：没有优异续费率的SaaS只是个传统生意](1910-yong_cai_wu_mo_xing_shuo_ming_mei_you_you_yi_xu_fei_lv_de_saas_zhi_shi_ge_chuan_tong_sheng_yi) <sub>[\[36kr.com\]](https://36kr.com/p/5255546)</sub>
 + [比Horovod/NCCL快8倍！伯克利与微软联合发布最优GPU通信库Blink](1910-bi_horovod_nccl_kuai_8_bei_bo_ke_li_yu_wei_ruan_lian_he_fa_bu_zui_you_gpu_tong_xin_ku) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/93jJOLEaMII10-ToNCjWIQ)</sub>
 + [惨烈的国运对决](1910-can_lie_de_guo_yun_dui_jue) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/dNTt0FoulmMVZ7Rc9mvsHw)</sub>
 + [作为豆瓣头部网红，为什么我在微博上接不到广告？](1910-zuo_wei_dou_ban_tou_bu_wang_hong_wei_shi_me_wo_zai_wei_bo_shang_jie_bu_dao_guang_gao) <sub>[\[36kr.com\]](https://36kr.com/p/5259439)</sub>
