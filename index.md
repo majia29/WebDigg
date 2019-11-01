@@ -107,6 +107,7 @@
 
 **[2019-04]**
 
++ [客户信任度曲线与转介绍漏斗模型  SaaS创业路线图（41）](1904-ke_hu_xin_ren_du_qu_xian_yu_zhuan_jie_shao_lou_dou_mo_xing_saas_chuang_ye_lu_xian_tu_41) <sub>[\[36kr.com\]](https://36kr.com/p/5190770)</sub>
 + [“努力就会成功”](1904-nu_li_jiu_hui_cheng_gong) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/19271.html)</sub>
 + [盘点前深度学习时代阿里、谷歌、Facebook的CTR预估模型](1904-pan_dian_qian_shen_du_xue_xi_shi_dai_a_li_gu_ge_facebook_de_ctr_yu_gu_mo_xing) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/Q8Cv-4vq6jD8974w9MxJ)</sub>
 + [写给机器学习从业者的12条宝贵建议](1904-xie_gei_ji_qi_xue_xi_cong_ye_zhe_de_12_tiao_bao_gui_jian_yi) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/NLTXhVkMTSlsGK_dkXgh)</sub>
