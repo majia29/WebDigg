@@ -40,6 +40,7 @@
 
 **[2019-08]**
 
++ [SaaS避坑指南](1908-saas_bi_keng_zhi_nan) <sub>[\[36kr.com\]](https://36kr.com/p/5235757)</sub>
 + [SaaS创业路线图（60）：做商业SaaS的还算SaaS公司吗？](1908-zuo_shang_ye_saas_de_huan_suan_saas_gong_si_ma_saas_chuang_ye_lu_xian_tu_60) <sub>[\[36kr.com\]](https://36kr.com/p/5239725)</sub>
 + [SaaS创业路线图（59）：企业市场的大数据营销](1908-qi_ye_shi_chang_de_da_shu_ju_ying_xiao_saas_chuang_ye_lu_xian_tu_59) <sub>[\[36kr.com\]](https://36kr.com/p/5237468)</sub>
 + [SaaS创业路线图（57）：数据在企业演进中的价值](1908-shu_ju_zai_qi_ye_yan_jin_zhong_de_jia_zhi_saas_chuang_ye_lu_xian_tu_57) <sub>[\[36kr.com\]](https://36kr.com/p/5234918)</sub>
