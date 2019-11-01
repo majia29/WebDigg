@@ -1,7 +1,6 @@
 
 **[2019-10]**
 
-+ [用财务模型说明：没有优异续费率的SaaS只是个传统生意](1910-yong_cai_wu_mo_xing_shuo_ming_mei_you_you_yi_xu_fei_lv_de_saas_zhi_shi_ge_chuan_tong_sheng_yi) <sub>[\[36kr.com\]](https://36kr.com/p/5255546)</sub>
 + [比Horovod/NCCL快8倍！伯克利与微软联合发布最优GPU通信库Blink](1910-bi_horovod_nccl_kuai_8_bei_bo_ke_li_yu_wei_ruan_lian_he_fa_bu_zui_you_gpu_tong_xin_ku) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/93jJOLEaMII10-ToNCjWIQ)</sub>
 + [惨烈的国运对决](1910-can_lie_de_guo_yun_dui_jue) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/dNTt0FoulmMVZ7Rc9mvsHw)</sub>
 + [作为豆瓣头部网红，为什么我在微博上接不到广告？](1910-zuo_wei_dou_ban_tou_bu_wang_hong_wei_shi_me_wo_zai_wei_bo_shang_jie_bu_dao_guang_gao) <sub>[\[36kr.com\]](https://36kr.com/p/5259439)</sub>
@@ -10,7 +9,7 @@
 + [如何定义 SaaS 内容运营](1910-ru_he_ding_yi_saas_nei_rong_yun_ying) <sub>[\[36kr.com\]](https://36kr.com/p/5255946)</sub>
 + [最前线   24小时便利店慰藉都市人？日本7-11却说要实行短时营业](1910-zui_qian_xian_24_xiao_shi_bian_li_dian_wei_jie_du_shi_ren_ri_ben_7_11_que_shuo_yao_shi_xing_duan_shi_ying_ye) <sub>[\[36kr.com\]](https://36kr.com/p/5258315)</sub>
 + [台积电市值超过英特尔，昔日霸主英特尔走到三岔口_36氪](1910-tai_ji_dian_shi_zhi_chao_guo_ying_te_er_xi_ri_ba_zhu_ying_te_er_zou_dao_san_cha_kou_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5258557)</sub>
-+ [用财务模型说明：没有优异续费率的SaaS只是个传统生意_36氪](1910-yong_cai_wu_mo_xing_shuo_ming_mei_you_you_yi_xu_fei_lv_de_saas_zhi_shi_ge_chuan_tong_sheng_yi_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5255546)</sub>
++ [用财务模型说明：没有优异续费率的SaaS只是个传统生意](1910-yong_cai_wu_mo_xing_shuo_ming_mei_you_you_yi_xu_fei_lv_de_saas_zhi_shi_ge_chuan_tong_sheng_yi) <sub>[\[36kr.com\]](https://36kr.com/p/5255546)</sub>
 + [Uber重磅开源Go语言编程规范！内部已使用多年](1910-uber_zhong_bang_kai_yuan_go_yu_yan_bian_cheng_gui_fan_nei_bu_yi_shi_yong_duo_nian) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/J4nYCrnZ0ApdUA4RohZZ7g)</sub>
 + [AI自动生成新闻评论：微软联合北航提出全新深层模型DeepCom-InfoQ](1910-ai_zi_dong_sheng_cheng_xin_wen_ping_lun_wei_ruan_lian_he_bei_hang_ti_chu_quan_xin_shen_ceng_mo_xing_deepcom) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/CY5ZbVTrlHLPLU83yW4B)</sub>
 + [腾讯成本优化黑科技：整机CPU利用率最高提升至90%](1910-teng_xun_cheng_ben_you_hua_hei_ke_ji_zheng_ji_cpu_li_yong_lv_zui_gao_ti_sheng_zhi_90) <sub>[\[cloud.tencent.com\]](https://cloud.tencent.com/developer/article/1518060)</sub>
@@ -261,3 +260,7 @@
 **[2015-09]**
 
 + [“神策数据”面向中小企业提供私人定制方案，算是条蹊径么？](1509-shen_ce_shu_ju_mian_xiang_zhong_xiao_qi_ye_ti_gong_si_ren_ding_zhi_fang_an_suan_shi_tiao_xi_jing_me) <sub>[\[36kr.com\]](https://36kr.com/p/5037763)</sub>
+
+**[2011-04]**
+
++ [程序员的谎谬之言还是至理名言？](1104-cheng_xu_yuan_de_huang_miu_zhi_yan_huan_shi_zhi_li_ming_yan) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/4235.html)</sub>
