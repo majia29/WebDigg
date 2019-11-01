@@ -152,6 +152,10 @@
 
 + [滴滴Elasticsearch多集群架构实践](1812-di_di_elasticsearch_duo_ji_qun_jia_gou_shi_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/SbfS6uOcF_gW6FEpQlLK)</sub>
 
+**[2018-11]**
+
++ [SaaS创业路线图（24）：商业模式决定了你的天花板](1811-saas_chuang_ye_lu_xian_tu_24_shang_ye_mo_shi_jue_ding_le_ni_de_tian_hua_ban) <sub>[\[36kr.com\]](https://36kr.com/p/5160903)</sub>
+
 **[2018-10]**
 
 + [SaaS创业路线图（23）：to B创业中的5个行动原则](1810-saas_chuang_ye_lu_xian_tu_23_to_b_chuang_ye_zhong_de_5_ge_xing_dong_yuan_ze) <sub>[\[36kr.com\]](https://36kr.com/p/5159648)</sub>
