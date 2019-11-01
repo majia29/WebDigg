@@ -145,6 +145,7 @@
 
 **[2019-01]**
 
++ [销售十级  SaaS创业路线图（35）](1901-xiao_shou_shi_ji_saas_chuang_ye_lu_xian_tu_35) <sub>[\[36kr.com\]](https://36kr.com/p/5173298)</sub>
 + [SaaS公司的数据价值  SaaS创业路线图（34）](1901-saas_gong_si_de_shu_ju_jia_zhi_saas_chuang_ye_lu_xian_tu_34) <sub>[\[36kr.com\]](https://36kr.com/p/5172070)</sub>
 + [创业公司就是一个足球队  SaaS创业路线图（33）](1901-chuang_ye_gong_si_jiu_shi_yi_ge_zu_qiu_dui_saas_chuang_ye_lu_xian_tu_33) <sub>[\[36kr.com\]](https://36kr.com/p/5171170)</sub>
 + [如何找对合伙人？ SaaS创业路线图（32）](1901-ru_he_zhao_dui_he_huo_ren_saas_chuang_ye_lu_xian_tu_32) <sub>[\[36kr.com\]](https://36kr.com/p/5170191)</sub>
