@@ -150,6 +150,7 @@
 
 **[2018-12]**
 
++ [以“开会”为例谈谈创业公司不同阶段的管理方式  SaaS创业路线图（31）](1812-yi_kai_hui_wei_li_tan_tan_chuang_ye_gong_si_bu_tong_jie_duan_de_guan_li_fang_shi_saas_chuang_ye_lu_xian_tu_31) <sub>[\[36kr.com\]](https://36kr.com/p/5169630)</sub>
 + [再谈商业模式：SaaS公司应该做IT工具还是业务运营？ SaaS创业路线图（30）](1812-zai_tan_shang_ye_mo_shi_saas_gong_si_ying_gai_zuo_it_gong_ju_huan_shi_ye_wu_yun_ying_saas_chuang_ye_lu_xian_tu_30) <sub>[\[36kr.com\]](https://36kr.com/p/5167460)</sub>
 + [以“如何开会”为例，创业公司不同阶段该如何管理？  SaaS创业路线图（29）](1812-yi_ru_he_kai_hui_wei_li_chuang_ye_gong_si_bu_tong_jie_duan_gai_ru_he_guan_li_saas_chuang_ye_lu_xian_tu_29) <sub>[\[36kr.com\]](https://36kr.com/p/5166698)</sub>
 + [如何把握好SaaS创业的节奏？ SaaS创业路线图（28）](1812-ru_he_ba_wo_hao_saas_chuang_ye_de_jie_zou_saas_chuang_ye_lu_xian_tu_28) <sub>[\[36kr.com\]](https://36kr.com/p/5165557)</sub>
