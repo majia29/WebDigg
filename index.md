@@ -37,6 +37,7 @@
 
 **[2019-08]**
 
++ [SaaS公司典型组织架构及职责划分  SaaS创业路线图（56）](1908-saas_gong_si_dian_xing_zu_zhi_jia_gou_ji_zhi_ze_hua_fen_saas_chuang_ye_lu_xian_tu_56) <sub>[\[36kr.com\]](https://36kr.com/p/5232527)</sub>
 + [SaaS创业是做功能，还是做服务？_36氪](1908-saas_chuang_ye_shi_zuo_gong_neng_huan_shi_zuo_fu_wu_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5239891)</sub>
 + [1.99亿“头部消费者”：中国白领网民生活&消费报告_36氪](1908-1_99_yi_tou_bu_xiao_fei_zhe_zhong_guo_bai_ling_wang_min_sheng_huo_xiao_fei_bao_gao_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5239735)</sub>
 + [潮起潮落，看SaaS如何理性突围？_36氪](1908-chao_qi_chao_luo_kan_saas_ru_he_li_xing_tu_wei_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5239797)</sub>
