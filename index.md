@@ -71,6 +71,7 @@
 
 **[2019-05]**
 
++ [从管理会计看SaaS企业经营的真相（中） SaaS创业路线图（47）](1905-cong_guan_li_hui_ji_kan_saas_qi_ye_jing_ying_de_zhen_xiang_zhong_saas_chuang_ye_lu_xian_tu_47) <sub>[\[36kr.com\]](https://36kr.com/p/5209472)</sub>
 + [从管理会计看SaaS企业经营的真相（上） SaaS创业路线图（46）](1905-cong_guan_li_hui_ji_kan_saas_qi_ye_jing_ying_de_zhen_xiang_shang_saas_chuang_ye_lu_xian_tu_46) <sub>[\[36kr.com\]](https://36kr.com/p/5206498)</sub>
 + [“正心诚意”的顶层设计  SaaS创业路线图（45）](1905-zheng_xin_cheng_yi_de_ding_ceng_she_ji_saas_chuang_ye_lu_xian_tu_45) <sub>[\[36kr.com\]](https://36kr.com/p/5203883)</sub>
 + [管理标准化—销售费用能否换为提成？ SaaS创业路线图（44）](1905-guan_li_biao_zhun_hua_xiao_shou_fei_yong_neng_fou_huan_wei_ti_cheng_saas_chuang_ye_lu_xian_tu_44) <sub>[\[36kr.com\]](https://36kr.com/p/5201129)</sub>
