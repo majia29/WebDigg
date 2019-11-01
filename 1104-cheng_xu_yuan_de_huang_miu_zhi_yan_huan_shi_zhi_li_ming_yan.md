@@ -56,32 +56,3 @@ Image by [SamueleGhilardi](http://www.flickr.com/photos/samueleghilardi/29716579
 7. 最后echo一下作者的话——“很多时候，你缺少的不是知识而是热情”！
 
 谢谢大家又花了一点看我的唠叨。呵呵。
-
-![image](images/1104-cxydhmzyhszlmy-2.jpeg) 
-![image](images/1104-cxydhmzyhszlmy-3.jpeg)
-关注CoolShell微信公众账号和微信小程序
-
-**（转载本站文章请注明作者和出处[酷 壳 – CoolShell](https://coolshell.cn/) ，请勿用于任何商业用途）**
-
-——=== **访问[酷壳404页面](http://coolshell.cn/404/) 寻找遗失儿童。** ===——
-
-### 相关文章
-
-* [
-![image](https://coolshell.cn/articles/17497.html)
-* [
-![image](https://coolshell.cn/articles/17583.html)
-* [
-![image](https://coolshell.cn/articles/12052.html)
-* [
-![image](https://coolshell.cn/articles/11629.html)
-* [
-![image](https://coolshell.cn/articles/11928.html)
-* [
-![image](https://coolshell.cn/articles/17459.html)
-
-![好烂啊](images/1104-cxydhmzyhszlmy-10.gif)![有点差](images/1104-cxydhmzyhszlmy-10.gif)![凑合看看](images/1104-cxydhmzyhszlmy-10.gif)![还不错](images/1104-cxydhmzyhszlmy-10.gif)
-![image](images/1104-cxydhmzyhszlmy-11.gif) \( **74** 人打了分，平均分： **4.80** \)
-
-![image](images/1104-cxydhmzyhszlmy-12.gif)
- Loading...
