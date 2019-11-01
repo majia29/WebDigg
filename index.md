@@ -107,6 +107,7 @@
 
 **[2019-04]**
 
++ [合伙人掉队了，怎么办？](1904-he_huo_ren_diao_dui_le_zen_me_ban) <sub>[\[36kr.com\]](https://36kr.com/p/5195591)</sub>
 + [销售提成设计的误区  SaaS创业路线图（42）](1904-xiao_shou_ti_cheng_she_ji_de_wu_qu_saas_chuang_ye_lu_xian_tu_42) <sub>[\[36kr.com\]](https://36kr.com/p/5193017)</sub>
 + [客户信任度曲线与转介绍漏斗模型  SaaS创业路线图（41）](1904-ke_hu_xin_ren_du_qu_xian_yu_zhuan_jie_shao_lou_dou_mo_xing_saas_chuang_ye_lu_xian_tu_41) <sub>[\[36kr.com\]](https://36kr.com/p/5190770)</sub>
 + [“努力就会成功”](1904-nu_li_jiu_hui_cheng_gong) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/19271.html)</sub>
