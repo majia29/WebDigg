@@ -131,6 +131,7 @@
 
 **[2019-03]**
 
++ [拜访杭州SaaS圈的一些共识](1903-bai_fang_hang_zhou_saas_quan_de_yi_xie_gong_shi) <sub>[\[36kr.com\]](https://36kr.com/p/5184217)</sub>
 + [如何培养基层干部及管理者的能力模型？ SaaS创业路线图（37）](1903-ru_he_pei_yang_ji_ceng_gan_bu_ji_guan_li_zhe_de_neng_li_mo_xing_saas_chuang_ye_lu_xian_tu_37) <sub>[\[36kr.com\]](https://36kr.com/p/5182374)</sub>
 + [前深度学习时代CTR预估模型的演化之路：从LR到FFM](1903-qian_shen_du_xue_xi_shi_dai_ctr_yu_gu_mo_xing_de_yan_hua_zhi_lu_cong_lr_dao) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/wEdZsdQZ2pIKjs_x3JGJ)</sub>
 + [历史上的三次从美国涌入加拿大的难民潮](1903-li_shi_shang_de_san_ci_cong_mei_guo_yong_ru_jia_na_da_de_nan_min_chao) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/wIhRiTcfFwUByYkrn9PjKg)</sub>
