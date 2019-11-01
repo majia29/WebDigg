@@ -19,8 +19,8 @@
 
 **[2019-09]**
 
-+ [线索客户流转及SDR管理  SaaS创业路线图（62）](1909-xian_suo_ke_hu_liu_zhuan_ji_sdr_guan_li_saas_chuang_ye_lu_xian_tu_62) <sub>[\[36kr.com\]](https://36kr.com/p/5244852)</sub>
-+ [客户成功管理框架  SaaS创业路线图（61）](1909-ke_hu_cheng_gong_guan_li_kuang_jia_saas_chuang_ye_lu_xian_tu_61) <sub>[\[36kr.com\]](https://36kr.com/p/5242334)</sub>
++ [SaaS创业路线图（62）：线索客户流转及SDR管理](1909-xian_suo_ke_hu_liu_zhuan_ji_sdr_guan_li_saas_chuang_ye_lu_xian_tu_62) <sub>[\[36kr.com\]](https://36kr.com/p/5244852)</sub>
++ [SaaS创业路线图（61）：客户成功管理框架](1909-ke_hu_cheng_gong_guan_li_kuang_jia_saas_chuang_ye_lu_xian_tu_61) <sub>[\[36kr.com\]](https://36kr.com/p/5242334)</sub>
 + [复杂问题该用理性决策还是感性决策？ 思考方式的革命（1）](1909-fu_za_wen_ti_gai_yong_li_xing_jue_ce_huan_shi_gan_xing_jue_ce_si_kao_fang_shi_de_ge_ming_1) <sub>[\[36kr.com\]](https://36kr.com/p/5246907)</sub>
 + [是时候考虑让Spark运行在K8s上了-InfoQ](1909-shi_shi_hou_kao_lv_rang_spark_yun_xing_zai_k8s_shang_le) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/BTDV0pODQBgMLmPfRu8M)</sub>
 + [下一代HTTPS：蚂蚁金服推出新型可信中间件SOFAEnclave](1909-xia_yi_dai_https_ma_yi_jin_fu_tui_chu_xin_xing_ke_xin_zhong_jian_jian) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/yPEDNdWALeDXdi2AY4DWoA)</sub>
@@ -39,8 +39,8 @@
 
 **[2019-08]**
 
-+ [做商业SaaS的还算SaaS公司吗？ SaaS创业路线图（60）](1908-zuo_shang_ye_saas_de_huan_suan_saas_gong_si_ma_saas_chuang_ye_lu_xian_tu_60) <sub>[\[36kr.com\]](https://36kr.com/p/5239725)</sub>
-+ [企业市场的大数据营销  SaaS创业路线图（59）](1908-qi_ye_shi_chang_de_da_shu_ju_ying_xiao_saas_chuang_ye_lu_xian_tu_59) <sub>[\[36kr.com\]](https://36kr.com/p/5237468)</sub>
++ [SaaS创业路线图（60）：做商业SaaS的还算SaaS公司吗？](1908-zuo_shang_ye_saas_de_huan_suan_saas_gong_si_ma_saas_chuang_ye_lu_xian_tu_60) <sub>[\[36kr.com\]](https://36kr.com/p/5239725)</sub>
++ [SaaS创业路线图（59）：企业市场的大数据营销](1908-qi_ye_shi_chang_de_da_shu_ju_ying_xiao_saas_chuang_ye_lu_xian_tu_59) <sub>[\[36kr.com\]](https://36kr.com/p/5237468)</sub>
 + [SaaS创业路线图（57）：数据在企业演进中的价值](1908-shu_ju_zai_qi_ye_yan_jin_zhong_de_jia_zhi_saas_chuang_ye_lu_xian_tu_57) <sub>[\[36kr.com\]](https://36kr.com/p/5234918)</sub>
 + [SaaS创业路线图（56b）：SaaS公司典型组织架构及职责划分](1908-saas_gong_si_dian_xing_zu_zhi_jia_gou_ji_zhi_ze_hua_fen_saas_chuang_ye_lu_xian_tu_56) <sub>[\[36kr.com\]](https://36kr.com/p/5232527)</sub>
 + [SaaS创业是做功能，还是做服务？_36氪](1908-saas_chuang_ye_shi_zuo_gong_neng_huan_shi_zuo_fu_wu_36_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5239891)</sub>

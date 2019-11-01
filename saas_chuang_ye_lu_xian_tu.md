@@ -1,6 +1,10 @@
 SaaS创业路线图
 =================
 
++ [SaaS创业路线图（62）：线索客户流转及SDR管理](1909-xian_suo_ke_hu_liu_zhuan_ji_sdr_guan_li_saas_chuang_ye_lu_xian_tu_62) <sub>[\[36kr.com\]](https://36kr.com/p/5244852)</sub>
++ [SaaS创业路线图（61）：客户成功管理框架](1909-ke_hu_cheng_gong_guan_li_kuang_jia_saas_chuang_ye_lu_xian_tu_61) <sub>[\[36kr.com\]](https://36kr.com/p/5242334)</sub>
++ [SaaS创业路线图（60）：做商业SaaS的还算SaaS公司吗？](1908-zuo_shang_ye_saas_de_huan_suan_saas_gong_si_ma_saas_chuang_ye_lu_xian_tu_60) <sub>[\[36kr.com\]](https://36kr.com/p/5239725)</sub>
++ [SaaS创业路线图（59）：企业市场的大数据营销](1908-qi_ye_shi_chang_de_da_shu_ju_ying_xiao_saas_chuang_ye_lu_xian_tu_59) <sub>[\[36kr.com\]](https://36kr.com/p/5237468)</sub>
 + [SaaS创业路线图（57）：数据在企业演进中的价值](1908-shu_ju_zai_qi_ye_yan_jin_zhong_de_jia_zhi_saas_chuang_ye_lu_xian_tu_57) <sub>[\[36kr.com\]](https://36kr.com/p/5234918)</sub>
 + [SaaS创业路线图（56b）：SaaS公司典型组织架构及职责划分](1908-saas_gong_si_dian_xing_zu_zhi_jia_gou_ji_zhi_ze_hua_fen_saas_chuang_ye_lu_xian_tu_56) <sub>[\[36kr.com\]](https://36kr.com/p/5232527)</sub>
 + [SaaS创业路线图（56）：通过一个指标提高销售管理效率](1907-tong_guo_yi_ge_zhi_biao_ti_gao_xiao_shou_guan_li_xiao_lv_saas_chuang_ye_lu_xian_tu_56) <sub>[\[36kr.com\]](https://36kr.com/p/5230528)</sub>
