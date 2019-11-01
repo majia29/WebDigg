@@ -131,6 +131,7 @@
 
 **[2019-03]**
 
++ [可复制的市场成功  SaaS创业路线图（39）](1903-ke_fu_zhi_de_shi_chang_cheng_gong_saas_chuang_ye_lu_xian_tu_39) <sub>[\[36kr.com\]](https://36kr.com/p/5188412)</sub>
 + [拜访杭州SaaS圈的一些共识](1903-bai_fang_hang_zhou_saas_quan_de_yi_xie_gong_shi) <sub>[\[36kr.com\]](https://36kr.com/p/5184217)</sub>
 + [如何培养基层干部及管理者的能力模型？ SaaS创业路线图（37）](1903-ru_he_pei_yang_ji_ceng_gan_bu_ji_guan_li_zhe_de_neng_li_mo_xing_saas_chuang_ye_lu_xian_tu_37) <sub>[\[36kr.com\]](https://36kr.com/p/5182374)</sub>
 + [前深度学习时代CTR预估模型的演化之路：从LR到FFM](1903-qian_shen_du_xue_xi_shi_dai_ctr_yu_gu_mo_xing_de_yan_hua_zhi_lu_cong_lr_dao) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/wEdZsdQZ2pIKjs_x3JGJ)</sub>
