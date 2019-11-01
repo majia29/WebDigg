@@ -154,6 +154,7 @@
 
 **[2018-10]**
 
++ [如何开一次to B培训公开课？](1810-ru_he_kai_yi_ci_to_b_pei_xun_gong_kai_ke) <sub>[\[36kr.com\]](https://36kr.com/p/5158471)</sub>
 + [SaaS创业路线图（21）：SaaS企业营销获客到底路在何方？](1810-saas_chuang_ye_lu_xian_tu_21_saas_qi_ye_ying_xiao_huo_ke_dao_di_lu_zai_he_fang) <sub>[\[36kr.com\]](https://36kr.com/p/5157348)</sub>
 + [SaaS创业路线图（19）：做好团队培训的关键是什么？](1810-saas_chuang_ye_lu_xian_tu_19_zuo_hao_tuan_dui_pei_xun_de_guan_jian_shi_shi_me) <sub>[\[36kr.com\]](https://36kr.com/p/5156732)</sub>
 + [SaaS售前及实施的实战举例（3） SaaS创业路线图](1810-saas_shou_qian_ji_shi_shi_de_shi_zhan_ju_li_3_saas_chuang_ye_lu_xian_tu) <sub>[\[36kr.com\]](https://36kr.com/p/5156348)</sub>
