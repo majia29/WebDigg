@@ -154,8 +154,9 @@
 
 **[2018-11]**
 
++ [哲学思维与底层商业逻辑  SaaS创业路线图（27）](1811-zhe_xue_si_wei_yu_di_ceng_shang_ye_luo_ji_saas_chuang_ye_lu_xian_tu_27) <sub>[\[36kr.com\]](https://36kr.com/p/5164569)</sub>
 + [SaaS创业路线图（26）：是否要在合同中加上退费条款？](1811-saas_chuang_ye_lu_xian_tu_26_shi_fou_yao_zai_he_tong_zhong_jia_shang_tui_fei_tiao_kuan) <sub>[\[36kr.com\]](https://36kr.com/p/5163019)</sub>
-+ [你的护城河在哪里？ SaaS创业路线图（25）](1811-ni_de_hu_cheng_he_zai_na_li_saas_chuang_ye_lu_xian_tu_25) <sub>[\[36kr.com\]](https://36kr.com/p/5161745)</sub>
++ [SaaS创业路线图（25）：你的护城河在哪里？](1811-ni_de_hu_cheng_he_zai_na_li_saas_chuang_ye_lu_xian_tu_25) <sub>[\[36kr.com\]](https://36kr.com/p/5161745)</sub>
 + [SaaS创业路线图（24）：商业模式决定了你的天花板](1811-saas_chuang_ye_lu_xian_tu_24_shang_ye_mo_shi_jue_ding_le_ni_de_tian_hua_ban) <sub>[\[36kr.com\]](https://36kr.com/p/5160903)</sub>
 
 **[2018-10]**
