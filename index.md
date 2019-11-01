@@ -53,6 +53,7 @@
 
 **[2019-06]**
 
++ [为什么说“无标准，不复制” SaaS创业路线图（51）](1906-wei_shi_me_shuo_wu_biao_zhun_bu_fu_zhi_saas_chuang_ye_lu_xian_tu_51) <sub>[\[36kr.com\]](https://36kr.com/p/5218936)</sub>
 + [SaaS公司各部门经营状况自评 SaaS创业路线图（50）](1906-saas_gong_si_ge_bu_men_jing_ying_zhuang_kuang_zi_ping_saas_chuang_ye_lu_xian_tu_50) <sub>[\[36kr.com\]](https://36kr.com/p/5216647)</sub>
 + [如何评估SaaS公司的经营状况？ SaaS创业路线图（49）](1906-ru_he_ping_gu_saas_gong_si_de_jing_ying_zhuang_kuang_saas_chuang_ye_lu_xian_tu_49) <sub>[\[36kr.com\]](https://36kr.com/p/5214188)</sub>
 + [从管理会计看SaaS企业经营的真相（下）SaaS创业路线图（48）](1906-cong_guan_li_hui_ji_kan_saas_qi_ye_jing_ying_de_zhen_xiang_xia_saas_chuang_ye_lu_xian_tu_48) <sub>[\[36kr.com\]](https://36kr.com/p/5212109)</sub>
