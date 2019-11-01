@@ -19,6 +19,7 @@
 
 **[2019-09]**
 
++ [线索客户流转及SDR管理  SaaS创业路线图（62）](1909-xian_suo_ke_hu_liu_zhuan_ji_sdr_guan_li_saas_chuang_ye_lu_xian_tu_62) <sub>[\[36kr.com\]](https://36kr.com/p/5244852)</sub>
 + [客户成功管理框架  SaaS创业路线图（61）](1909-ke_hu_cheng_gong_guan_li_kuang_jia_saas_chuang_ye_lu_xian_tu_61) <sub>[\[36kr.com\]](https://36kr.com/p/5242334)</sub>
 + [复杂问题该用理性决策还是感性决策？ 思考方式的革命（1）](1909-fu_za_wen_ti_gai_yong_li_xing_jue_ce_huan_shi_gan_xing_jue_ce_si_kao_fang_shi_de_ge_ming_1) <sub>[\[36kr.com\]](https://36kr.com/p/5246907)</sub>
 + [是时候考虑让Spark运行在K8s上了-InfoQ](1909-shi_shi_hou_kao_lv_rang_spark_yun_xing_zai_k8s_shang_le) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/BTDV0pODQBgMLmPfRu8M)</sub>
