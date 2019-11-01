@@ -44,6 +44,7 @@
 
 **[2019-07]**
 
++ [如何制定销售目标？ SaaS创业路线图（53）](1907-ru_he_zhi_ding_xiao_shou_mu_biao_saas_chuang_ye_lu_xian_tu_53) <sub>[\[36kr.com\]](https://36kr.com/p/5223671)</sub>
 + [如何做好新员工培训？ SaaS创业路线图（52）](1907-ru_he_zuo_hao_xin_yuan_gong_pei_xun_saas_chuang_ye_lu_xian_tu_52) <sub>[\[36kr.com\]](https://36kr.com/p/5221396)</sub>
 + [干货！这是一份通俗易懂的知识图谱技术与应用指南](1907-gan_huo_zhe_shi_yi_fen_tong_su_yi_dong_de_zhi_shi_tu_pu_ji_zhu_yu_ying_yong_zhi_nan) <sub>[\[cloud.tencent.com\]](https://cloud.tencent.com/developer/article/1458681)</sub>
 + [提升60%基础资源利用率！中国联通的容器化大数据平台实践](1907-ti_sheng_60_ji_chu_zi_yuan_li_yong_lv_zhong_guo_lian_tong_de_rong_qi_hua_da_shu_ju_ping_tai_shi_jian) <sub>[\[segmentfault.com\]](https://segmentfault.com/a/1190000019662812)</sub>
