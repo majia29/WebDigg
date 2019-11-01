@@ -145,6 +145,7 @@
 
 **[2019-01]**
 
++ [创业公司就是一个足球队  SaaS创业路线图（33）](1901-chuang_ye_gong_si_jiu_shi_yi_ge_zu_qiu_dui_saas_chuang_ye_lu_xian_tu_33) <sub>[\[36kr.com\]](https://36kr.com/p/5171170)</sub>
 + [如何找对合伙人？ SaaS创业路线图（32）](1901-ru_he_zhao_dui_he_huo_ren_saas_chuang_ye_lu_xian_tu_32) <sub>[\[36kr.com\]](https://36kr.com/p/5170191)</sub>
 + [再谈商业模式：SaaS公司应该做IT工具还是业务运营？](1901-zai_tan_shang_ye_mo_shi_saas_gong_si_ying_gai_zuo_it_gong_ju_huan_shi_ye_wu_yun_ying) <sub>[\[36kr.com\]](https://36kr.com/p/5170174)</sub>
 + [YouTube深度学习推荐系统的十大工程问题](1901-youtube_shen_du_xue_xi_tui_jian_xi_tong_de_shi_da_gong_cheng_wen_ti) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/mcf3Aoub6VbNwtA-Izsdbg)</sub>
