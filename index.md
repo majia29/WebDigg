@@ -71,6 +71,7 @@
 
 **[2019-05]**
 
++ [“正心诚意”的顶层设计  SaaS创业路线图（45）](1905-zheng_xin_cheng_yi_de_ding_ceng_she_ji_saas_chuang_ye_lu_xian_tu_45) <sub>[\[36kr.com\]](https://36kr.com/p/5203883)</sub>
 + [管理标准化—销售费用能否换为提成？ SaaS创业路线图（44）](1905-guan_li_biao_zhun_hua_xiao_shou_fei_yong_neng_fou_huan_wei_ti_cheng_saas_chuang_ye_lu_xian_tu_44) <sub>[\[36kr.com\]](https://36kr.com/p/5201129)</sub>
 + [Segment放弃了微服务](1905-segment_fang_qi_le_wei_fu_wu) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/v3VjP*BYtY3qhD3438ay)</sub>
 + [推荐系统工程师必看：Embedding技术在深度学习CTR模型中的应用](1905-tui_jian_xi_tong_gong_cheng_shi_bi_kan_embedding_ji_zhu_zai_shen_du_xue_xi_ctr_mo_xing_zhong_de_ying_yong) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/IzHTPNQ5zB-DFuPwTPBM)</sub>
