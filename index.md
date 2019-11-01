@@ -154,6 +154,7 @@
 
 **[2018-11]**
 
++ [你的护城河在哪里？ SaaS创业路线图（25）](1811-ni_de_hu_cheng_he_zai_na_li_saas_chuang_ye_lu_xian_tu_25) <sub>[\[36kr.com\]](https://36kr.com/p/5161745)</sub>
 + [SaaS创业路线图（24）：商业模式决定了你的天花板](1811-saas_chuang_ye_lu_xian_tu_24_shang_ye_mo_shi_jue_ding_le_ni_de_tian_hua_ban) <sub>[\[36kr.com\]](https://36kr.com/p/5160903)</sub>
 
 **[2018-10]**
