@@ -71,6 +71,7 @@
 
 **[2019-05]**
 
++ [管理标准化—销售费用能否换为提成？ SaaS创业路线图（44）](1905-guan_li_biao_zhun_hua_xiao_shou_fei_yong_neng_fou_huan_wei_ti_cheng_saas_chuang_ye_lu_xian_tu_44) <sub>[\[36kr.com\]](https://36kr.com/p/5201129)</sub>
 + [Segment放弃了微服务](1905-segment_fang_qi_le_wei_fu_wu) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/v3VjP*BYtY3qhD3438ay)</sub>
 + [推荐系统工程师必看：Embedding技术在深度学习CTR模型中的应用](1905-tui_jian_xi_tong_gong_cheng_shi_bi_kan_embedding_ji_zhu_zai_shen_du_xue_xi_ctr_mo_xing_zhong_de_ying_yong) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/IzHTPNQ5zB-DFuPwTPBM)</sub>
 + [是时候放弃Spark Streaming，转向Structured Streaming了](1905-shi_shi_hou_fang_qi_spark_streaming_zhuan_xiang_structured_streaming_le) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/UEOq-ezu4ImwHxGiDFc8)</sub>
@@ -107,9 +108,9 @@
 
 **[2019-04]**
 
-+ [合伙人掉队了，怎么办？](1904-he_huo_ren_diao_dui_le_zen_me_ban) <sub>[\[36kr.com\]](https://36kr.com/p/5195591)</sub>
-+ [销售提成设计的误区  SaaS创业路线图（42）](1904-xiao_shou_ti_cheng_she_ji_de_wu_qu_saas_chuang_ye_lu_xian_tu_42) <sub>[\[36kr.com\]](https://36kr.com/p/5193017)</sub>
-+ [客户信任度曲线与转介绍漏斗模型  SaaS创业路线图（41）](1904-ke_hu_xin_ren_du_qu_xian_yu_zhuan_jie_shao_lou_dou_mo_xing_saas_chuang_ye_lu_xian_tu_41) <sub>[\[36kr.com\]](https://36kr.com/p/5190770)</sub>
++ [SaaS创业路线图（43）：合伙人掉队了，怎么办？](1904-he_huo_ren_diao_dui_le_zen_me_ban) <sub>[\[36kr.com\]](https://36kr.com/p/5195591)</sub>
++ [SaaS创业路线图（42）：销售提成设计的误区](1904-xiao_shou_ti_cheng_she_ji_de_wu_qu_saas_chuang_ye_lu_xian_tu_42) <sub>[\[36kr.com\]](https://36kr.com/p/5193017)</sub>
++ [SaaS创业路线图（41）：客户信任度曲线与转介绍漏斗模型](1904-ke_hu_xin_ren_du_qu_xian_yu_zhuan_jie_shao_lou_dou_mo_xing_saas_chuang_ye_lu_xian_tu_41) <sub>[\[36kr.com\]](https://36kr.com/p/5190770)</sub>
 + [“努力就会成功”](1904-nu_li_jiu_hui_cheng_gong) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/19271.html)</sub>
 + [盘点前深度学习时代阿里、谷歌、Facebook的CTR预估模型](1904-pan_dian_qian_shen_du_xue_xi_shi_dai_a_li_gu_ge_facebook_de_ctr_yu_gu_mo_xing) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/Q8Cv-4vq6jD8974w9MxJ)</sub>
 + [写给机器学习从业者的12条宝贵建议](1904-xie_gei_ji_qi_xue_xi_cong_ye_zhe_de_12_tiao_bao_gui_jian_yi) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/NLTXhVkMTSlsGK_dkXgh)</sub>
@@ -134,10 +135,10 @@
 
 **[2019-03]**
 
-+ [创业者如何打造领导力？](1903-chuang_ye_zhe_ru_he_da_zao_ling_dao_li) <sub>[\[36kr.com\]](https://36kr.com/p/5188571)</sub>
-+ [可复制的市场成功  SaaS创业路线图（39）](1903-ke_fu_zhi_de_shi_chang_cheng_gong_saas_chuang_ye_lu_xian_tu_39) <sub>[\[36kr.com\]](https://36kr.com/p/5188412)</sub>
-+ [拜访杭州SaaS圈的一些共识](1903-bai_fang_hang_zhou_saas_quan_de_yi_xie_gong_shi) <sub>[\[36kr.com\]](https://36kr.com/p/5184217)</sub>
-+ [如何培养基层干部及管理者的能力模型？ SaaS创业路线图（37）](1903-ru_he_pei_yang_ji_ceng_gan_bu_ji_guan_li_zhe_de_neng_li_mo_xing_saas_chuang_ye_lu_xian_tu_37) <sub>[\[36kr.com\]](https://36kr.com/p/5182374)</sub>
++ [SaaS创业路线图（40）：创业者如何打造领导力？](1903-chuang_ye_zhe_ru_he_da_zao_ling_dao_li) <sub>[\[36kr.com\]](https://36kr.com/p/5188571)</sub>
++ [SaaS创业路线图（39）：可复制的市场成功](1903-ke_fu_zhi_de_shi_chang_cheng_gong_saas_chuang_ye_lu_xian_tu_39) <sub>[\[36kr.com\]](https://36kr.com/p/5188412)</sub>
++ [SaaS创业路线图（38）：拜访杭州SaaS圈的一些共识](1903-bai_fang_hang_zhou_saas_quan_de_yi_xie_gong_shi) <sub>[\[36kr.com\]](https://36kr.com/p/5184217)</sub>
++ [SaaS创业路线图（37）：如何培养基层干部及管理者的能力模型？](1903-ru_he_pei_yang_ji_ceng_gan_bu_ji_guan_li_zhe_de_neng_li_mo_xing_saas_chuang_ye_lu_xian_tu_37) <sub>[\[36kr.com\]](https://36kr.com/p/5182374)</sub>
 + [前深度学习时代CTR预估模型的演化之路：从LR到FFM](1903-qian_shen_du_xue_xi_shi_dai_ctr_yu_gu_mo_xing_de_yan_hua_zhi_lu_cong_lr_dao) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/wEdZsdQZ2pIKjs_x3JGJ)</sub>
 + [历史上的三次从美国涌入加拿大的难民潮](1903-li_shi_shang_de_san_ci_cong_mei_guo_yong_ru_jia_na_da_de_nan_min_chao) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/wIhRiTcfFwUByYkrn9PjKg)</sub>
 + [深度学习CTR预估模型凭什么成为互联网增长的关键？](1903-shen_du_xue_xi_ctr_yu_gu_mo_xing_ping_shi_me_cheng_wei_hu_lian_wang_zeng_chang_de_guan_jian) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/3WK8*7x0avuuh3CJK6Pw)</sub>
