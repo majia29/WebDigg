@@ -154,6 +154,7 @@
 
 **[2018-10]**
 
++ [SaaS创业路线图（19）：做好团队培训的关键是什么？](1810-saas_chuang_ye_lu_xian_tu_19_zuo_hao_tuan_dui_pei_xun_de_guan_jian_shi_shi_me) <sub>[\[36kr.com\]](https://36kr.com/p/5156732)</sub>
 + [SaaS售前及实施的实战举例（3） SaaS创业路线图](1810-saas_shou_qian_ji_shi_shi_de_shi_zhan_ju_li_3_saas_chuang_ye_lu_xian_tu) <sub>[\[36kr.com\]](https://36kr.com/p/5156348)</sub>
 
 **[2018-09]**
