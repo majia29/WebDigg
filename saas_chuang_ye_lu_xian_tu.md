@@ -67,3 +67,4 @@
 ###补充阅读###
 
 + [用财务模型说明：没有优异续费率的SaaS只是个传统生意](1910-yong_cai_wu_mo_xing_shuo_ming_mei_you_you_yi_xu_fei_lv_de_saas_zhi_shi_ge_chuan_tong_sheng_yi) <sub>[\[36kr.com\]](https://36kr.com/p/5255546)</sub>
++ [SaaS避坑指南](1908-saas_bi_keng_zhi_nan) <sub>[\[36kr.com\]](https://36kr.com/p/5235757)</sub>
