@@ -262,6 +262,10 @@
 
 + [“神策数据”面向中小企业提供私人定制方案，算是条蹊径么？](1509-shen_ce_shu_ju_mian_xiang_zhong_xiao_qi_ye_ti_gong_si_ren_ding_zhi_fang_an_suan_shi_tiao_xi_jing_me) <sub>[\[36kr.com\]](https://36kr.com/p/5037763)</sub>
 
+**[2013-07]**
+
++ [IoC/DIP其实是一种管理思想](1307-ioc_dip_qi_shi_shi_yi_zhong_guan_li_si_xiang) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/9949.html)</sub>
+
 **[2011-09]**
 
 + [简明 Vim 练级攻略](1109-jian_ming_vim_lian_ji_gong_lve) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/5426.html)</sub>

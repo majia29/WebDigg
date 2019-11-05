@@ -317,31 +317,3 @@ vim的学习曲线相当的大（参看[各种文本编辑器的学习曲线](ht
 
 \(全文完\)
 
-![image](images/1109-jmvimljgl-9.jpeg) 
-![image](images/1109-jmvimljgl-10.jpeg)
-关注CoolShell微信公众账号和微信小程序
-
-**（转载本站文章请注明作者和出处[酷 壳 – CoolShell](https://coolshell.cn/) ，请勿用于任何商业用途）**
-
-——=== **访问[酷壳404页面](http://coolshell.cn/404/) 寻找遗失儿童。** ===——
-
-### 相关文章
-
-* [
-![image](https://coolshell.cn/articles/11312.html)
-* [
-![image](https://coolshell.cn/articles/5479.html)
-* [
-![image](https://coolshell.cn/articles/1432.html)
-* [
-![image](https://coolshell.cn/articles/1679.html)
-* [
-![image](https://coolshell.cn/articles/956.html)
-* [
-![image](https://coolshell.cn/articles/150.html)
-
-![好烂啊](images/1109-jmvimljgl-17.gif)![有点差](images/1109-jmvimljgl-17.gif)![凑合看看](images/1109-jmvimljgl-17.gif)![还不错](images/1109-jmvimljgl-17.gif)
-![image](images/1109-jmvimljgl-18.gif) \( **138** 人打了分，平均分： **4.84** \)
-
-![image](images/1109-jmvimljgl-19.gif)
- Loading...
