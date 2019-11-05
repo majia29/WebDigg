@@ -53,32 +53,3 @@
 * 反转控制和依赖倒置是一种智慧。
 
 （全文完）
-
-![image](images/1307-iocdipqssyzglsx-4.jpeg) 
-![image](images/1307-iocdipqssyzglsx-5.jpeg)
-关注CoolShell微信公众账号和微信小程序
-
-**（转载本站文章请注明作者和出处[酷 壳 – CoolShell](https://coolshell.cn/) ，请勿用于任何商业用途）**
-
-——=== **访问[酷壳404页面](http://coolshell.cn/404/) 寻找遗失儿童。** ===——
-
-### 相关文章
-
-* [
-![image](https://coolshell.cn/articles/17459.html)
-* [
-![image](https://coolshell.cn/articles/17680.html)
-* [
-![image](https://coolshell.cn/articles/17416.html)
-* [
-![image](https://coolshell.cn/articles/6950.html)
-* [
-![image](https://coolshell.cn/articles/8961.html)
-* [
-![image](https://coolshell.cn/articles/11432.html)
-
-![好烂啊](images/1307-iocdipqssyzglsx-12.gif)![有点差](images/1307-iocdipqssyzglsx-12.gif)![凑合看看](images/1307-iocdipqssyzglsx-12.gif)![还不错](images/1307-iocdipqssyzglsx-12.gif)
-![image](images/1307-iocdipqssyzglsx-13.gif) \( **27** 人打了分，平均分： **4.52** \)
-
-![image](images/1307-iocdipqssyzglsx-14.gif)
- Loading...

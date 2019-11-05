@@ -266,6 +266,10 @@
 
 + [IoC/DIP其实是一种管理思想](1307-ioc_dip_qi_shi_shi_yi_zhong_guan_li_si_xiang) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/9949.html)</sub>
 
+**[2013-02]**
+
++ [从面向对象的设计模式看软件设计](1302-cong_mian_xiang_dui_xiang_de_she_ji_mo_shi_kan_ruan_jian_she_ji) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/8961.html)</sub>
+
 **[2011-09]**
 
 + [简明 Vim 练级攻略](1109-jian_ming_vim_lian_ji_gong_lve) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/5426.html)</sub>
