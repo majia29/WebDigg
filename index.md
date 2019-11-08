@@ -280,6 +280,7 @@
 
 **[2011-09]**
 
++ [给程序员的VIM速查卡](1109-gei_cheng_xu_yuan_de_vim_su_cha_qia) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/5479.html)</sub>
 + [简明 Vim 练级攻略](1109-jian_ming_vim_lian_ji_gong_lve) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/5426.html)</sub>
 
 **[2011-04]**

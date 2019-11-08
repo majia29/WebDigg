@@ -29,32 +29,3 @@ Vim Adventures 第三关
 **哪位会做游戏又熟Vim的朋友也能做一个？**
 
 （全文完）
-
-![image](images/1204-yxvimdmx-1.jpeg) 
-![image](images/1204-yxvimdmx-2.jpeg)
-关注CoolShell微信公众账号和微信小程序
-
-**（转载本站文章请注明作者和出处[酷 壳 – CoolShell](https://coolshell.cn/) ，请勿用于任何商业用途）**
-
-——=== **访问[酷壳404页面](http://coolshell.cn/404/) 寻找遗失儿童。** ===——
-
-### 相关文章
-
-* [
-![image](https://coolshell.cn/articles/11312.html)
-* [
-![image](https://coolshell.cn/articles/3125.html)
-* [
-![image](https://coolshell.cn/articles/3013.html)
-* [
-![image](https://coolshell.cn/articles/894.html)
-* [
-![image](https://coolshell.cn/articles/3083.html)
-* [
-![image](https://coolshell.cn/articles/5479.html)
-
-![好烂啊](images/1204-yxvimdmx-9.gif)![有点差](images/1204-yxvimdmx-9.gif)![凑合看看](images/1204-yxvimdmx-9.gif)![还不错](images/1204-yxvimdmx-9.gif)
-![image](images/1204-yxvimdmx-10.gif) \( **32** 人打了分，平均分： **4.72** \)
-
-![image](images/1204-yxvimdmx-11.gif)
- Loading...
