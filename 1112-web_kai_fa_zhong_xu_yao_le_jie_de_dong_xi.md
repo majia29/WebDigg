@@ -164,32 +164,3 @@
 这里有多的东西被省略了，并不是因为那些可能不是有帮助的答案，而是因为那些东西都太细节了，超出了这个问题的范围，因为这本来就是一个Web开发需要了解东西的Overview。我想你可以去看一下其它人的答案，我有时间，我也会补充别人的答案进来。请随意编辑这个答案，因为可能有些东西忘了，也有可能有些东西不对。
 
 （全文完）
-
-![image](images/1112-webkfzxyljddx-0.jpeg) 
-![image](images/1112-webkfzxyljddx-1.jpeg)
-关注CoolShell微信公众账号和微信小程序
-
-**（转载本站文章请注明作者和出处[酷 壳 – CoolShell](https://coolshell.cn/) ，请勿用于任何商业用途）**
-
-——=== **访问[酷壳404页面](http://coolshell.cn/404/) 寻找遗失儿童。** ===——
-
-### 相关文章
-
-* [
-![image](https://coolshell.cn/articles/11021.html)
-* [
-![image](https://coolshell.cn/articles/17634.html)
-* [
-![image](https://coolshell.cn/articles/3684.html)
-* [
-![image](https://coolshell.cn/articles/9666.html)
-* [
-![image](https://coolshell.cn/articles/17066.html)
-* [
-![image](https://coolshell.cn/articles/12136.html)
-
-![好烂啊](images/1112-webkfzxyljddx-8.gif)![有点差](images/1112-webkfzxyljddx-8.gif)![凑合看看](images/1112-webkfzxyljddx-8.gif)![还不错](images/1112-webkfzxyljddx-8.gif)
-![image](images/1112-webkfzxyljddx-9.gif) \( **44** 人打了分，平均分： **4.70** \)
-
-![image](images/1112-webkfzxyljddx-10.gif)
- Loading...

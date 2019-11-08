@@ -270,6 +270,10 @@
 
 + [从面向对象的设计模式看软件设计](1302-cong_mian_xiang_dui_xiang_de_she_ji_mo_shi_kan_ruan_jian_she_ji) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/8961.html)</sub>
 
+**[2012-04]**
+
++ [游戏：VIM大冒险](1204-you_xi_vim_da_mao_xian) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/7166.html)</sub>
+
 **[2011-12]**
 
 + [Web开发中需要了解的东西](1112-web_kai_fa_zhong_xu_yao_le_jie_de_dong_xi) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/6043.html)</sub>
