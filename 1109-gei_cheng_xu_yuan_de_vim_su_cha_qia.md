@@ -22,32 +22,3 @@
 * <http://tnerual.eriogerg.free.fr/vim.html>
 * <http://www.lagmonster.org/docs/vi.html>
 * <http://jrmiii.com/2009/03/06/learning-vim-the-pragmatic-way.html>
-
-![image](images/1109-gcxydvimscq-1.jpeg) 
-![image](images/1109-gcxydvimscq-2.jpeg)
-关注CoolShell微信公众账号和微信小程序
-
-**（转载本站文章请注明作者和出处[酷 壳 – CoolShell](https://coolshell.cn/) ，请勿用于任何商业用途）**
-
-——=== **访问[酷壳404页面](http://coolshell.cn/404/) 寻找遗失儿童。** ===——
-
-### 相关文章
-
-* [
-![image](https://coolshell.cn/articles/11312.html)
-* [
-![image](https://coolshell.cn/articles/1566.html)
-* [
-![image](https://coolshell.cn/articles/2964.html)
-* [
-![image](https://coolshell.cn/articles/5426.html)
-* [
-![image](https://coolshell.cn/articles/1679.html)
-* [
-![image](https://coolshell.cn/articles/1432.html)
-
-![好烂啊](images/1109-gcxydvimscq-9.gif)![有点差](images/1109-gcxydvimscq-9.gif)![凑合看看](images/1109-gcxydvimscq-9.gif)![还不错](images/1109-gcxydvimscq-9.gif)
-![image](images/1109-gcxydvimscq-10.gif) \( **28** 人打了分，平均分： **4.57** \)
-
-![image](images/1109-gcxydvimscq-11.gif)
- Loading...
