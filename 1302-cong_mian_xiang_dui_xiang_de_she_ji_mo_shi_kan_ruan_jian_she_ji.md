@@ -93,31 +93,3 @@
 
 （瞎扯一句：这本来是我想在2012年杭州QCon上的分享的一个主题，无奈当时被大会组织者给拒了，所以只好讲了一个《建一支小团队》，今天有多人还是不能明白甚至反感我的那个《小团队》的演讲，但是我相信那是必然的趋势，就像十年前大家在说“程序员只能干到30岁”时，当时的我我却毫不犹豫地相信十年后，30岁以上的有经验的老程序员一定会成为各个公司角逐和竟争的红人）
 
-![image](images/1302-cmxdxdsjmskrjsj-1.jpeg) 
-![image](images/1302-cmxdxdsjmskrjsj-2.jpeg)
-关注CoolShell微信公众账号和微信小程序
-
-**（转载本站文章请注明作者和出处[酷 壳 – CoolShell](https://coolshell.cn/) ，请勿用于任何商业用途）**
-
-——=== **访问[酷壳404页面](http://coolshell.cn/404/) 寻找遗失儿童。** ===——
-
-### 相关文章
-
-* [
-![image](https://coolshell.cn/articles/17416.html)
-* [
-![image](https://coolshell.cn/articles/7236.html)
-* [
-![image](https://coolshell.cn/articles/9949.html)
-* [
-![image](https://coolshell.cn/articles/4535.html)
-* [
-![image](https://coolshell.cn/articles/17459.html)
-* [
-![image](https://coolshell.cn/articles/17680.html)
-
-![好烂啊](images/1302-cmxdxdsjmskrjsj-9.gif)![有点差](images/1302-cmxdxdsjmskrjsj-9.gif)![凑合看看](images/1302-cmxdxdsjmskrjsj-9.gif)![还不错](images/1302-cmxdxdsjmskrjsj-9.gif)
-![image](images/1302-cmxdxdsjmskrjsj-10.gif) \( **40** 人打了分，平均分： **4.60** \)
-
-![image](images/1302-cmxdxdsjmskrjsj-11.gif)
- Loading...
