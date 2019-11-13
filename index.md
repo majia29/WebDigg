@@ -1,4 +1,8 @@
 
+**[2019-11]**
+
++ [一个秒杀系统的设计思考](1911-yi_ge_miao_sha_xi_tong_de_she_ji_si_kao) <sub>[\[segmentfault.com\]](https://segmentfault.com/a/1190000020970562)</sub>
+
 **[2019-10]**
 
 + [比Horovod/NCCL快8倍！伯克利与微软联合发布最优GPU通信库Blink](1910-bi_horovod_nccl_kuai_8_bei_bo_ke_li_yu_wei_ruan_lian_he_fa_bu_zui_you_gpu_tong_xin_ku) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/93jJOLEaMII10-ToNCjWIQ)</sub>

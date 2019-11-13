@@ -299,32 +299,3 @@ Ubuntu下：apt-get remove emacs
 对了，以前本站也有一篇小短文《[如何在vim中得到你最喜爱的IDE特性](https://coolshell.cn/articles/894.html)》你也可以看看。
 
 （:wq）
-
-![image](images/1403-wcjvimbcjq-10.jpeg) 
-![image](images/1403-wcjvimbcjq-11.jpeg)
-关注CoolShell微信公众账号和微信小程序
-
-**（转载本站文章请注明作者和出处[酷 壳 – CoolShell](https://coolshell.cn/) ，请勿用于任何商业用途）**
-
-——=== **访问[酷壳404页面](http://coolshell.cn/404/) 寻找遗失儿童。** ===——
-
-### 相关文章
-
-* [
-![image](http://coolshell.cn/articles/5426.html)
-* [
-![image](http://coolshell.cn/articles/7166.html)
-* [
-![image](http://coolshell.cn/articles/5479.html)
-* [
-![image](http://coolshell.cn/articles/1679.html)
-* [
-![image](http://coolshell.cn/articles/894.html)
-* [
-![image](http://coolshell.cn/articles/1651.html)
-
-![好烂啊](images/1403-wcjvimbcjq-18.gif)![有点差](images/1403-wcjvimbcjq-18.gif)![凑合看看](images/1403-wcjvimbcjq-18.gif)![还不错](images/1403-wcjvimbcjq-18.gif)
-![image](images/1403-wcjvimbcjq-19.gif) \( **38** 人打了分，平均分： **4.50** \)
-
-![image](images/1403-wcjvimbcjq-20.gif)
- Loading...
