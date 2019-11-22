@@ -306,7 +306,3 @@ UPDATE item SET inventory = CASE WHEN inventory >= xxx THEN inventory-xxx ELSE i
 ### 个人总结
 
 一个秒杀系统的设计，可以根据不同级别的流量，由简单到复杂打造出不同的架构，本质是各方面的取舍和权衡。当然，你可能注意到，本文并没有涉及具体的选型方案，因为这些对于架构来说并不重要，作为架构师，应该时刻提醒自己主线是什么。
-
-同时也在这里抽象、提炼一下，主要是个人对于秒杀设计的提纲式整理，方便各位同学进行参考——
-![image](https://cdn.segmentfault.com/v-5db16590/global/img/squares.svg)
- _\*_ \*
