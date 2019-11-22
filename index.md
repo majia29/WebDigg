@@ -1,6 +1,7 @@
 
 **[2019-11]**
 
++ [揭秘日本食品界的“大人味”，我们找到了消费分级的新灵感](1911-jie_mi_ri_ben_shi_pin_jie_de_da_ren_wei_wo_men_zhao_dao_le_xiao_fei_fen_ji_de_xin_ling_gan) <sub>[\[36kr.com\]](https://36kr.com/p/5268487)</sub>
 + [互联网大厂激战下沉市场：看不见的厮杀与肉搏](1911-hu_lian_wang_da_chang_ji_zhan_xia_chen_shi_chang_kan_bu_jian_de_si_sha_yu_rou_bo) <sub>[\[36kr.com\]](https://36kr.com/p/5268384)</sub>
 + [一个秒杀系统的设计思考](1911-yi_ge_miao_sha_xi_tong_de_she_ji_si_kao) <sub>[\[segmentfault.com\]](https://segmentfault.com/a/1190000020970562)</sub>
 
