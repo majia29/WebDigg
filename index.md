@@ -223,6 +223,7 @@
 
 **[2018-08]**
 
++ [《都柏林人》：分解原子](1808-du_bai_lin_ren_fen_jie_yuan_zi) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/7b7TBkr-MeIwa9j5dKmEFg)</sub>
 + [SaaS创业路线图（14）：如何开拓行业走的弯路最少？](1808-saas_ling_yu_chuang_ye_ru_he_kai_tuo_xing_ye_zou_de_wan_lu_zui_shao) <sub>[\[36kr.com\]](https://36kr.com/p/5150400)</sub>
 + [SaaS创业路线图（13）：营销服务部门绩效和提成该如何设计？](1808-nian_qing_ceo_bi_bei_ying_xiao_fu_wu_bu_men_ji_xiao_he_ti_cheng_gai_ru_he_she_ji) <sub>[\[36kr.com\]](https://36kr.com/p/5149324)</sub>
 + [SaaS创业路线图（12）：市场、销售、售后各部门的配合关系如何设计？](1808-saas_chuang_ye_lu_xian_tu_12_shi_chang_xiao_shou_shou_hou_ge_bu_men_de_pei_he_guan_xi_ru_he_she_ji) <sub>[\[36kr.com\]](https://36kr.com/p/5148187)</sub>
