@@ -1,6 +1,7 @@
 
 **[2019-11]**
 
++ [用人不疑，更多是管理“低能”的借口](1911-yong_ren_bu_yi_geng_duo_shi_guan_li_di_neng_de_jie_kou) <sub>[\[36kr.com\]](https://36kr.com/p/5270303)</sub>
 + [万达版好莱坞往事](1911-wan_da_ban_hao_lai_wu_wang_shi) <sub>[\[36kr.com\]](https://36kr.com/p/5268302)</sub>
 + [穿过阿迪耐克，你却不知道背后的代工之王](1911-chuan_guo_a_di_nai_ke_ni_que_bu_zhi_dao_bei_hou_de_dai_gong_zhi_wang) <sub>[\[36kr.com\]](https://36kr.com/p/5268434)</sub>
 + [揭秘日本食品界的“大人味”，我们找到了消费分级的新灵感](1911-jie_mi_ri_ben_shi_pin_jie_de_da_ren_wei_wo_men_zhao_dao_le_xiao_fei_fen_ji_de_xin_ling_gan) <sub>[\[36kr.com\]](https://36kr.com/p/5268487)</sub>
