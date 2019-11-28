@@ -1,6 +1,7 @@
 
 **[2019-11]**
 
++ [“我离职半年了，都没有找到新工作”](1911-wo_li_zhi_ban_nian_le_du_mei_you_zhao_dao_xin_gong_zuo) <sub>[\[36kr.com\]](https://36kr.com/p/5268072)</sub>
 + [用人不疑，更多是管理“低能”的借口](1911-yong_ren_bu_yi_geng_duo_shi_guan_li_di_neng_de_jie_kou) <sub>[\[36kr.com\]](https://36kr.com/p/5270303)</sub>
 + [万达版好莱坞往事](1911-wan_da_ban_hao_lai_wu_wang_shi) <sub>[\[36kr.com\]](https://36kr.com/p/5268302)</sub>
 + [穿过阿迪耐克，你却不知道背后的代工之王](1911-chuan_guo_a_di_nai_ke_ni_que_bu_zhi_dao_bei_hou_de_dai_gong_zhi_wang) <sub>[\[36kr.com\]](https://36kr.com/p/5268434)</sub>
