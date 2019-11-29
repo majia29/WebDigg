@@ -1,6 +1,7 @@
 
 **[2019-11]**
 
++ [LR+FTRL算法原理以及工程化实现](1911-lr_ftrl_suan_fa_yuan_li_yi_ji_gong_cheng_hua_shi_xian) <sub>[\[zhuanlan.zhihu.com\]](https://zhuanlan.zhihu.com/p/55135954)</sub>
 + [“我离职半年了，都没有找到新工作”](1911-wo_li_zhi_ban_nian_le_du_mei_you_zhao_dao_xin_gong_zuo) <sub>[\[36kr.com\]](https://36kr.com/p/5268072)</sub>
 + [用人不疑，更多是管理“低能”的借口](1911-yong_ren_bu_yi_geng_duo_shi_guan_li_di_neng_de_jie_kou) <sub>[\[36kr.com\]](https://36kr.com/p/5270303)</sub>
 + [万达版好莱坞往事](1911-wan_da_ban_hao_lai_wu_wang_shi) <sub>[\[36kr.com\]](https://36kr.com/p/5268302)</sub>
