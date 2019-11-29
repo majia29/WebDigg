@@ -10,7 +10,7 @@
 FTRL的代码实现非常简单，腾讯的开源PS angel上已经支持，摘抄一段：
 
 > FTRL是一种在线学习的常见优化算法，方便实用，而且效果很好，常用于更新在线的CTR预估模型。之前的传统实现多见于Storm。但是实际应用中，数据集的维度往往很大，且模型稀疏性，这种Case下，用Spark Streaming结合Angel，其实会有更好的效果，而且代码很少，性能稳健。
-> 具体见：[https://github.com/Tencent/angel/blob/master/docs/algo/ftrl\_lr\_spark.md](https://link.zhihu.com/?target=https%3A//github.com/Tencent/angel/blob/master/docs/algo/ftrl_lr_spark.md)
+> 具体见：[https://github.com/Tencent/angel/blob/master/docs/algo/ftrl\_lr\_spark.md](https://github.com/Tencent/angel/blob/master/docs/algo/ftrl_lr_spark.md)
 
 一直以来，只是知道FTRL怎么用，而不了解是怎么来的。最近抽了一段时间，翻阅了H.Brendan McMahan的三篇论文，并看了一些网上的资料，有了大致的认知，由于这方面好的资料不少，本文从初学者的角度去做一份导读，解释一些背景知识和概念，希望能帮助到大家。在线学习里有不少是最优化的知识，比如证明regret bounds，但我毕竟在工业界，更关心这些算法是怎么做迭代的，即权重W是怎么更新的。由于在线写公式太繁琐了，且参考文献里面的推导很详细，本文尽量少用公式。
 
@@ -72,7 +72,7 @@ online learning是基于stream的data，无法直接对目标优化，普遍会�
 
 ###  **从SGD到TG、FOBOS到FTRL的原理**
 
-首推这篇[在线算法最优解](https://link.zhihu.com/?target=https%3A//plushunter.github.io/2017/07/26/%25E6%259C%25BA%25E5%2599%25A8%25E5%25AD%25A6%25E4%25B9%25A0%25E7%25AE%2597%25E6%25B3%2595%25E7%25B3%25BB%25E5%2588%2597%25EF%25BC%258831%25EF%25BC%2589%25EF%25BC%259A%25E5%259C%25A8%25E7%25BA%25BF%25E6%259C%2580%25E4%25BC%2598%25E5%258C%2596%25E6%25B1%2582%25E8%25A7%25A3%25EF%25BC%2588online%2520Optimization%25EF%25BC%2589/)
+首推这篇[在线算法最优解](https://plushunter.github.io/2017/07/26/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%97%EF%BC%8831%EF%BC%89%EF%BC%9A%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%EF%BC%88online%20Optimization%EF%BC%89/)
 
 写的很详细，是不可多得的优质中文资料，介绍了TG、FOBOS、RDA以及FTRL的算法原理，并有详细的推导，里面有一些符号错误，但不影响理解， **以模型参数迭代更新的方式为主线，记住前文提到的两个核心问题** ，读起来事半功倍，强烈建议读下原文，本文不再赘述。
 
@@ -99,14 +99,14 @@ H.Brendan McMahan在论文Follow-the-regularized-leader and mirror descent: Equi
 5. 用计数去替换学习率的计算中的累计梯度，可以又快又省。
 6. 对负样本重采样。但会改变数据分布，所以可以给重采样的样本加上权重。
 
-具体细节可以看这篇文章：[各大公司广泛使用的在线学习算法FTRL详解](https://link.zhihu.com/?target=https%3A//www.cnblogs.com/EE-NovRain/p/3810737.html)
+具体细节可以看这篇文章：[各大公司广泛使用的在线学习算法FTRL详解](https://www.cnblogs.com/EE-NovRain/p/3810737.html)
 ，讲的很好，细节不再赘述。也可以直接看原论文：Ad Click Prediction:a View from the Trenches，这部分讲的通俗易懂。
 
 PS:里面关于Training Many Similar Models和A Single Value Structure两部分，不是很理解它的业务场景。还请有了解的小伙伴分享下。
 
 ###  **FTRL和SGD的关系**
 
-有一篇文章提到FTRL和上面公式是等价的，角度不一样，比较有意思，参考：[http://vividfree.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2015/12/05/understanding-FTRL-algorithm](https://link.zhihu.com/?target=http%3A//vividfree.github.io/%25E6%259C%25BA%25E5%2599%25A8%25E5%25AD%25A6%25E4%25B9%25A0/2015/12/05/understanding-FTRL-algorithm)
+有一篇文章提到FTRL和上面公式是等价的，角度不一样，比较有意思，参考：[http://vividfree.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2015/12/05/understanding-FTRL-algorithm](http://vividfree.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2015/12/05/understanding-FTRL-algorithm)
 可以加深对于FTRL公式的理解：
 
 ![image](images/1805-zxxxonlinelearningdd-10.jpeg)
@@ -121,7 +121,7 @@ PS:里面关于Training Many Similar Models和A Single Value Structure两部分�
 1. [Online方式点击率预估时学习率不断变小，是否可能追不上目标函数的变化？](https://www.zhihu.com/question/29973925)
 2. [在机器学习中有哪些典型的Online算法？](https://www.zhihu.com/question/28025036?sort=created)
 3. [FTRL算法在使用中需不需要通过Batch Model初始化？](https://www.zhihu.com/question/37866658/answer/73891786)
-4. [Why L1 norm for sparse models](https://link.zhihu.com/?target=https%3A//stats.stackexchange.com/questions/45643/why-l1-norm-for-sparse-models)
+4. [Why L1 norm for sparse models](https://stats.stackexchange.com/questions/45643/why-l1-norm-for-sparse-models)
 
 ###  **总结**
 
@@ -129,10 +129,10 @@ PS:里面关于Training Many Similar Models和A Single Value Structure两部分�
 
 ###  **参考文献：**
 
-\[1\] [https://plushunter.github.io/2017/07/26/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%97%EF%BC%8831%EF%BC%89%EF%BC%9A%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%EF%BC%88online%20Optimization%EF%BC%89/](https://link.zhihu.com/?target=https%3A//plushunter.github.io/2017/07/26/%25E6%259C%25BA%25E5%2599%25A8%25E5%25AD%25A6%25E4%25B9%25A0%25E7%25AE%2597%25E6%25B3%2595%25E7%25B3%25BB%25E5%2588%2597%25EF%25BC%258831%25EF%25BC%2589%25EF%25BC%259A%25E5%259C%25A8%25E7%25BA%25BF%25E6%259C%2580%25E4%25BC%2598%25E5%258C%2596%25E6%25B1%2582%25E8%25A7%25A3%25EF%25BC%2588online%2520Optimization%25EF%25BC%2589/)
-\[2\] [https://www.cnblogs.com/EE-NovRain/p/3810737.html](https://link.zhihu.com/?target=https%3A//www.cnblogs.com/EE-NovRain/p/3810737.html)
-\[3\] [http://vividfree.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2015/12/05/understanding-FTRL-algorithm](https://link.zhihu.com/?target=http%3A//vividfree.github.io/%25E6%259C%25BA%25E5%2599%25A8%25E5%25AD%25A6%25E4%25B9%25A0/2015/12/05/understanding-FTRL-algorithm)
-\[4\] Subgradient. [http://sv.wikipedia.org/wiki/Subgradient](https://link.zhihu.com/?target=http%3A//sv.wikipedia.org/wiki/Subgradient)
+\[1\] [https://plushunter.github.io/2017/07/26/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%97%EF%BC%8831%EF%BC%89%EF%BC%9A%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%EF%BC%88online%20Optimization%EF%BC%89/](https://plushunter.github.io/2017/07/26/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%97%EF%BC%8831%EF%BC%89%EF%BC%9A%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%EF%BC%88online%20Optimization%EF%BC%89/)
+\[2\] [https://www.cnblogs.com/EE-NovRain/p/3810737.html](https://www.cnblogs.com/EE-NovRain/p/3810737.html)
+\[3\] [http://vividfree.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2015/12/05/understanding-FTRL-algorithm](http://vividfree.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2015/12/05/understanding-FTRL-algorithm)
+\[4\] Subgradient. [http://sv.wikipedia.org/wiki/Subgradient](http://sv.wikipedia.org/wiki/Subgradient)
 \[5\] H. Brendan McMahan & M Streter. Adaptive Bound Optimization for Online Convex Optimization. In COLT,
 2010
 \[6\] H. Brendan McMahan. Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and L1
