@@ -1,6 +1,6 @@
 ## 在线学习（Online Learning）导读  
 
-> 作者: <img class="Avatar Avatar--round AuthorInfo-avatar" width="38" height="38" src="https://pic4.zhimg.com/v2-f16cb1c98eaf13a7fa7da57d1321fa81_xs.jpg" srcset="https://pic4.zhimg.com/v2-f16cb1c98eaf13a7fa7da57d1321fa81_l.jpg 2x" alt="吴海波">  
+> 作者: 吴海波  
 > 发布日期: 2018-05-04  
 
 ### **前言**
