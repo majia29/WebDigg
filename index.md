@@ -1,4 +1,8 @@
 
+**[2019-12]**
+
++ [阿里提出基于Transformer的个性化重排序模型PRM，首次用于大规模在线系统](1912-a_li_ti_chu_ji_yu_transformer_de_ge_xing_hua_zhong_pai_xu_mo_xing_prm_shou_ci_yong_yu_da_gui_mo_zai_xian_xi_tong) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247499184&idx=2&sn=eb5aac7c997f07b358a5285ccc807c6e)</sub>
+
 **[2019-11]**
 
 + [LR+FTRL算法原理以及工程化实现](1911-lr_ftrl_suan_fa_yuan_li_yi_ji_gong_cheng_hua_shi_xian) <sub>[\[zhuanlan.zhihu.com\]](https://zhuanlan.zhihu.com/p/55135954)</sub>
