@@ -267,8 +267,3 @@ https://arxiv.org/abs/1904.06813
 
 https://github.com/rank2rec/rerank
 
-* * *
-
-![image](images/1912-altcjytransformerdgxhzpxmxprmscyydgmzxxt-22.gif)
-
-**你也「在看」吗？** ****👇
