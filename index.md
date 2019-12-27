@@ -1,6 +1,7 @@
 
 **[2019-12]**
 
++ [冯提莫的直播时代](1912-feng_ti_mo_de_zhi_bo_shi_dai) <sub>[\[36kr.com\]](https://36kr.com/p/5279709)</sub>
 + [Z世代消费：年轻人还需要信用卡么?](1912-z_shi_dai_xiao_fei_nian_qing_ren_huan_xu_yao_xin_yong_qia_me) <sub>[\[36kr.com\]](https://36kr.com/p/5272852)</sub>
 + [搞了个机器学习交易系统，5000美元投资变成了20万](1912-gao_le_ge_ji_qi_xue_xi_jiao_yi_xi_tong_5000_mei_yuan_tou_zi_bian_cheng_le_20_wan) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/RJnrkbpEcJAV-ZwFnRqvSw)</sub>
 + [阿里提出基于Transformer的个性化重排序模型PRM，首次用于大规模在线系统](1912-a_li_ti_chu_ji_yu_transformer_de_ge_xing_hua_zhong_pai_xu_mo_xing_prm_shou_ci_yong_yu_da_gui_mo_zai_xian_xi_tong) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247499184&idx=2&sn=eb5aac7c997f07b358a5285ccc807c6e)</sub>
