@@ -4,16 +4,9 @@
 > 发布: 美团技术团队  
 > 发布日期: 2019-01-03  
 
-![image](images/1901-yazzspringbootncxlpcj-0.jpeg)
-
 **总第323篇**
 
 **2019年 第001篇**
-
-**
-**
-
-![image](images/1901-yazzspringbootncxlpcj-1.jpeg)
 
 在项目迁移到Spring Boot之后，发生内存使用量过高的问题。本文介绍了整个排查过程以及使用到的工具，也非常适用于其他堆外内存排查。
 
@@ -171,13 +164,3 @@ gperftools的使用方法可以参考[gperftools](https://github.com/gperftools/
 欢迎加入 **美团Java技术交流群** ，跟项目维护者零距离交流。进群方式：请加美美同学微信（ **微信号：MTDPtech02** ），回复： **Spring Boot** ，美美会自动拉你进群。
 
 \----------  END  \----------
-
-**也许你还想看**
-
-[ Spring MVC注解故障追踪记](http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651745427&idx=2&sn=03325a115e69de12966b6bda538e57ca&chksm=bd12b5de8a653cc8107f86b73f31f4351edfdf59a182f1ffe7c00affc185f5180d70f3d8a872&scene=21#wechat_redirect)
-
-[这个Spring高危漏洞，你修补了吗？](http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651746838&idx=2&sn=400648da53def8f5c942fe4934d2aaf8&chksm=bd12ab5b8a65224d6c4496cdcd98994938d58b775b3de28c420be72e87b4d259d2186b3e8588&scene=21#wechat_redirect)
-
-[ReactiveCocoa中潜在的内存泄漏及解决方案](http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651745371&idx=1&sn=19822c54a57f840393353b093a3dbede&scene=21#wechat_redirect)
-
-![image](images/1901-yazzspringbootncxlpcj-17.jpeg)
