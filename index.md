@@ -1,4 +1,8 @@
 
+**[2020-01]**
+
++ [开发部署时间从几个月到几分钟：eBay的大规模AI平台实践](2001-kai_fa_bu_shu_shi_jian_cong_ji_ge_yue_dao_ji_fen_zhong_ebay_de_da_gui_mo_ai_ping_tai_shi_jian) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/Qo1L_hZGSrIdkrn-5tt0ww)</sub>
+
 **[2019-12]**
 
 + [冯提莫的直播时代](1912-feng_ti_mo_de_zhi_bo_shi_dai) <sub>[\[36kr.com\]](https://36kr.com/p/5279709)</sub>

@@ -535,8 +535,3 @@ decrementPendingOutboundBytes(size, false, true);
 
 Email：neu\_lilinfeng@sina.com
 
-* * *
-
-![image](images/1903-nettyfzncxlcs-18.gif)
-
-点个好看少个 bug 👇
