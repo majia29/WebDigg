@@ -257,6 +257,7 @@
 
 **[2018-06]**
 
++ [用于软件架构的 C4 模型](1806-yong_yu_ruan_jian_jia_gou_de_c4_mo_xing) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/C4-architecture-model)</sub>
 + [SaaS创业路线图（五）：SaaS的销售模式和营销组织演进](1806-saas_chuang_ye_lu_xian_tu_wu_saas_de_xiao_shou_mo_shi_he_ying_xiao_zu_zhi_yan_jin) <sub>[\[36kr.com\]](https://36kr.com/p/5140391)</sub>
 + [SaaS创业路线图（四）：产品打磨阶段各个角色怎么配合？](1806-saas_chuang_ye_lu_xian_tu_si_chan_pin_da_mo_jie_duan_ge_ge_jiao_se_zen_me_pei_he) <sub>[\[36kr.com\]](https://36kr.com/p/5139286)</sub>
 + [SaaS创业路线图（三）：创业公司核心营销团队招募](1806-saas_chuang_ye_lu_xian_tu_san_chuang_ye_gong_si_he_xin_ying_xiao_tuan_dui_zhao_mu) <sub>[\[36kr.com\]](https://36kr.com/p/5138329)</sub>

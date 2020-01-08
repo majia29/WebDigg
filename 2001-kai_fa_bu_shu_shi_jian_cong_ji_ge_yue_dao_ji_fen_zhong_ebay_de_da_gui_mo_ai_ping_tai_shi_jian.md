@@ -7,9 +7,10 @@
 
 
 ![image](images/2001-kfbssjcjgydjfzebayddgmaiptsj-0.jpeg)
- 作者 | Sanjeev Katariya，Ashok Ramani  译者 | 小大非  编辑 | 蔡芳芳  **AI 前线导读：** 本文将介绍 eBay 的人工智能转型是如何通过一个统一开放的现代化人工智能平台实现的。
 
-**更多优质内容请关注微信公众号“AI 前线”（ID：ai-front）**
+作者 | Sanjeev Katariya，Ashok Ramani  译者 | 小大非  编辑 | 蔡芳芳  
+ 
+**AI 前线导读：** 本文将介绍 eBay 的人工智能转型是如何通过一个统一开放的现代化人工智能平台实现的。
 
 本文最初发布于 eBay 技术博客，由 InfoQ 中文站翻译并分享。
 
@@ -99,9 +100,3 @@ ICT 的第三个组成部分是 AI 领域团队，即平台的内部客户，例
 **原文链接：**
 
 https://tech.ebayinc.com/engineering/ebays-transformation-to-a-modern-ai-platform/
-
-* * *
-
-![image](images/2001-kfbssjcjgydjfzebayddgmaiptsj-7.gif)
-
-**你也「在看」吗？** ****👇
