@@ -282,6 +282,10 @@
 + [No.21 别人家的元数据系统是怎么设计的](1710-no_21_bie_ren_jia_de_yuan_shu_ju_xi_tong_shi_zen_me_she_ji_de) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/opgLE993iXVgk02Cvk9Kow)</sub>
 + [百度大规模时序数据存储（一） 监控场景的时序数据](1710-bai_du_da_gui_mo_shi_xu_shu_ju_cun_chu_yi_jian_kong_chang_jing_de_shi_xu_shu_ju) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MzUyMzA3MTY1NA==&mid=2247484010&idx=1&sn=89d0e9c957e86ff93c99688f11e0b819&chksm=f9c37ba3ceb4f2b549a0b59c67a74f0d6aebcf22ae8ca83451b6a25d0ec8073bd286d050ae39&scene=21#wechat_redirect)</sub>
 
+**[2017-08]**
+
++ [软件架构图的艺术](1708-ruan_jian_jia_gou_tu_de_yi_zhu) <sub>[\[www.infoq.cn\]](https://www.infoq.cn/article/crafting-architectural-diagrams)</sub>
+
 **[2016-07]**
 
 + [性能测试应该怎么做？](1607-xing_neng_ce_shi_ying_gai_zen_me_zuo) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/17381.html)</sub>
