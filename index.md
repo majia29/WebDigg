@@ -1,6 +1,7 @@
 
 **[2020-01]**
 
++ [为何我们用 Go 而非 Python 编写机器学习基础设施平台？](2001-wei_he_wo_men_yong_go_er_fei_python_bian_xie_ji_qi_xue_xi_ji_chu_she_shi_ping_tai) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/r8rx0Ufpj2R1vxRwHgb1Eg)</sub>
 + [Jeff Dean再执笔：一文看尽2019谷歌AI重大突破](2001-jeff_dean_zai_zhi_bi_yi_wen_kan_jin_2019_gu_ge_ai_zhong_da_tu_po) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/-fyZOvStwdUnotHUtz8xkg)</sub>
 + [最前线  今年张小龙又说了什么？反思公众号两大失误，微信新版本发力短内容](2001-zui_qian_xian_jin_nian_zhang_xiao_long_you_shuo_le_shi_me_fan_si_gong_zhong_hao_liang_da_shi_wu_wei_xin_xin_ban_ben_fa_li_duan_nei_rong) <sub>[\[36kr.com\]](https://36kr.com/p/5283613)</sub>
 + [开发部署时间从几个月到几分钟：eBay的大规模AI平台实践](2001-kai_fa_bu_shu_shi_jian_cong_ji_ge_yue_dao_ji_fen_zhong_ebay_de_da_gui_mo_ai_ping_tai_shi_jian) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/Qo1L_hZGSrIdkrn-5tt0ww)</sub>
