@@ -1,6 +1,7 @@
 
 **[2020-01]**
 
++ [「PlantData」研发认知智能中台，为行业提供知识图谱全生命周期解决方案](2001-plantdata_yan_fa_ren_zhi_zhi_neng_zhong_tai_wei_xing_ye_ti_gong_zhi_shi_tu_pu_quan_sheng_ming_zhou_qi_jie_jue_fang_an) <sub>[\[36kr.com\]](https://36kr.com/p/5285794)</sub>
 + [为何我们用 Go 而非 Python 编写机器学习基础设施平台？](2001-wei_he_wo_men_yong_go_er_fei_python_bian_xie_ji_qi_xue_xi_ji_chu_she_shi_ping_tai) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/r8rx0Ufpj2R1vxRwHgb1Eg)</sub>
 + [Jeff Dean再执笔：一文看尽2019谷歌AI重大突破](2001-jeff_dean_zai_zhi_bi_yi_wen_kan_jin_2019_gu_ge_ai_zhong_da_tu_po) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/-fyZOvStwdUnotHUtz8xkg)</sub>
 + [最前线  今年张小龙又说了什么？反思公众号两大失误，微信新版本发力短内容](2001-zui_qian_xian_jin_nian_zhang_xiao_long_you_shuo_le_shi_me_fan_si_gong_zhong_hao_liang_da_shi_wu_wei_xin_xin_ban_ben_fa_li_duan_nei_rong) <sub>[\[36kr.com\]](https://36kr.com/p/5283613)</sub>

@@ -7,7 +7,11 @@
 
 ![image](images/2001-whwmygoefpythonbxjqxxjcsspt-0.jpeg)
 
-作者 | Caleb Kaiser  译者 | 刘志勇  **AI 前线导读：** Go 又称 Golang，是 Google 开发的一种静态强类型、编译型、并发型且具有垃圾回收功能的编程语言。Go 语言于 2009 年 11 月正式宣布推出并开放源代码，开始在 Linux 及 Mac OS X 平台上进行了实现，后追加 Windows 系统下的实现。大部分用过 Go 语言的人都认可其是一种非常不错的生产力工具，有人总结其优点如下：部署简单、并发性好、语言设计良好、执行性能好。Cortex Labs 介绍了团队为何用 Go 而非 Python 编写机器学习基础设施。
+作者 | Caleb Kaiser  译者 | 刘志勇  
+
+**AI 前线导读：** 
+
+Go 又称 Golang，是 Google 开发的一种静态强类型、编译型、并发型且具有垃圾回收功能的编程语言。Go 语言于 2009 年 11 月正式宣布推出并开放源代码，开始在 Linux 及 Mac OS X 平台上进行了实现，后追加 Windows 系统下的实现。大部分用过 Go 语言的人都认可其是一种非常不错的生产力工具，有人总结其优点如下：部署简单、并发性好、语言设计良好、执行性能好。Cortex Labs 介绍了团队为何用 Go 而非 Python 编写机器学习基础设施。
 
 **更多优质内容请关注微信公众号“AI 前线”（ID：ai-front）**
 
@@ -98,23 +102,3 @@ Caleb Kaiser，Cortex Labs 创始团队成员。曾在 Cadillac、AngelList 供�
 
 https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76
 
-福利推荐
-
-更多人工智能与机器学习相关实践请持续关注 QCon 北京 2020，来跟业界大牛关注人工智能领域中正在兴起的技术和关键进展，探讨应用于机器学习问题的工程挑战及解决方案。目前大会 8 折报名中，点击【阅读原文】或识别二维码了解更多。有任何问题欢迎联系票务小姐姐 Ring：17310043226（微信同号）
-
-![image](images/2001-whwmygoefpythonbxjqxxjcsspt-3.jpeg)
-
-##### 今日荐文
-
-点击下方图片即可阅读
-
-[
-![image](http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247499902&idx=1&sn=4e54ef170e066937480e13df14d637b1&chksm=fbea79b1cc9df0a77050ea0ed9697551d77f5a1a8fb83bbc4bc0d73d19c8ebedcbd25b6dc131&scene=21#wechat_redirect)
-
-[](http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247499902&idx=1&sn=4e54ef170e066937480e13df14d637b1&chksm=fbea79b1cc9df0a77050ea0ed9697551d77f5a1a8fb83bbc4bc0d73d19c8ebedcbd25b6dc131&scene=21#wechat_redirect)AI 数据标注不是“脏活累活”
-
-* * *
-
-![image](images/2001-whwmygoefpythonbxjqxxjcsspt-5.gif)
-
-**** **你也「在看」吗？** ****👇
