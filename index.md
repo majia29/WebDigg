@@ -1,6 +1,7 @@
 
 **[2020-02]**
 
++ [铺天盖地的炒作下，我依然觉得深度强化学习是浪费时间](2002-pu_tian_gai_di_de_chao_zuo_xia_wo_yi_ran_jue_de_shen_du_qiang_hua_xue_xi_shi_lang_fei_shi_jian) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/wJARdiVi3FMb_lS1lNtZ7g)</sub>
 + [最终，我们放弃了GO，迁移至Rust，特性使然](2002-zui_zhong_wo_men_fang_qi_le_go_qian_yi_zhi_rust_te_xing_shi_ran) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/KlDZx5s6fhn37BZMQAUm1g)</sub>
 
 **[2020-01]**

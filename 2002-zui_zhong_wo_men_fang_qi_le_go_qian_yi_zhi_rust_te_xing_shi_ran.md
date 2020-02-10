@@ -1,7 +1,6 @@
 ## 最终，我们放弃了GO，迁移至Rust，特性使然  
 
-> 原创  
-> Jesse Howarth  
+> 原创: Jesse Howarth  
 > 发布: AI前线  
 > 发布日期: 2020-02-08  
 
@@ -121,22 +120,3 @@ _本文最初发表于 Discord 博客站点，经原作者 Jesse Howarth 许可�
 
 _原文链接：_ _https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f_
 
-活动推荐  在这场疫情防控阻击战中，极客邦科技作为一家初创公司，我们也希望能够践行我们的企业责任。所以，经过团队讨论，我们决定为企业用户免费开放2个月的极客时间「每日一课」会员权益。
-
-极客时间「每日一课」模块下共有848个课程，这些课程都是我们联合行业各领域内的一线专家精心打磨出来的，并且其中大部分内容来自QCon、ArchSummit、AICon、GMTC这样的精品会议，也有许多10分钟技术知识精讲。大家一起学习，共克时艰，希望能帮到你和你的团队。扫码立即领取👇
-![image](images/2002-zzwmfqlgoqyzrusttxsr-5.jpeg)
-
-##### 今日荐文
-
-点击下方图片即可阅读
-
-[
-![image](http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247500222&idx=1&sn=74b2b8c94dfd008dabf676332f3d4258&chksm=fbea7871cc9df167dfb0a5f0f3ce896a27dd0585162a623b3e30565f376011435c7d5607f36e&scene=21#wechat_redirect)
-
-[](http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247500222&idx=1&sn=74b2b8c94dfd008dabf676332f3d4258&chksm=fbea7871cc9df167dfb0a5f0f3ce896a27dd0585162a623b3e30565f376011435c7d5607f36e&scene=21#wechat_redirect)Facebook 硬件梦碎背后：雄心与失意交织
-
-* * *
-
-![image](images/2002-zzwmfqlgoqyzrusttxsr-7.gif)
-
-**你也「在看」吗？** ****👇
