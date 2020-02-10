@@ -6,6 +6,7 @@
 
 **[2020-01]**
 
++ [MegaEase的远程工作文化](2001-megaease_de_yuan_cheng_gong_zuo_wen_hua) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/20765.html)</sub>
 + [“书永远都有新的，我却只有一辈子”](2001-shu_yong_yuan_du_you_xin_de_wo_que_zhi_you_yi_bei_zi) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/ONxu_itpwCEO9j_VJ2ui9Q)</sub>
 + [「PlantData」研发认知智能中台，为行业提供知识图谱全生命周期解决方案](2001-plantdata_yan_fa_ren_zhi_zhi_neng_zhong_tai_wei_xing_ye_ti_gong_zhi_shi_tu_pu_quan_sheng_ming_zhou_qi_jie_jue_fang_an) <sub>[\[36kr.com\]](https://36kr.com/p/5285794)</sub>
 + [为何我们用 Go 而非 Python 编写机器学习基础设施平台？](2001-wei_he_wo_men_yong_go_er_fei_python_bian_xie_ji_qi_xue_xi_ji_chu_she_shi_ping_tai) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/r8rx0Ufpj2R1vxRwHgb1Eg)</sub>
