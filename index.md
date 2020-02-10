@@ -1,4 +1,8 @@
 
+**[2020-02]**
+
++ [最终，我们放弃了GO，迁移至Rust，特性使然](2002-zui_zhong_wo_men_fang_qi_le_go_qian_yi_zhi_rust_te_xing_shi_ran) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/KlDZx5s6fhn37BZMQAUm1g)</sub>
+
 **[2020-01]**
 
 + [“书永远都有新的，我却只有一辈子”](2001-shu_yong_yuan_du_you_xin_de_wo_que_zhi_you_yi_bei_zi) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/ONxu_itpwCEO9j_VJ2ui9Q)</sub>

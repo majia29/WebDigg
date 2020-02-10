@@ -5,9 +5,6 @@
 > 发布: 理想国imaginist  
 > 发布日期: 2020-01-16  
 
-
-![image](images/2001-syydyxdwqzyybz-0.gif)
-
 ![image](images/2001-syydyxdwqzyybz-1.jpeg)
 
 前段时间，理想国在线上发起“书之痛”（读书人的扎心时刻）话题活动，大家的参与出乎预料。微博1200万阅读，成了豆瓣热点话题，阅读130万。
