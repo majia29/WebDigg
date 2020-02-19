@@ -301,6 +301,7 @@
 
 **[2016-07]**
 
++ [100本中国书（必备书单）](1607-100_ben_zhong_guo_shu_bi_bei_shu_dan) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=2651023676&idx=1&sn=63a97d1b8713e535e13c4641dbf973b5)</sub>
 + [性能测试应该怎么做？](1607-xing_neng_ce_shi_ying_gai_zen_me_zuo) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/17381.html)</sub>
 
 **[2015-09]**
