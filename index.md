@@ -304,6 +304,10 @@
 + [100本中国书（必备书单）](1607-100_ben_zhong_guo_shu_bi_bei_shu_dan) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=2651023676&idx=1&sn=63a97d1b8713e535e13c4641dbf973b5)</sub>
 + [性能测试应该怎么做？](1607-xing_neng_ce_shi_ying_gai_zen_me_zuo) <sub>[\[coolshell.cn\]](https://coolshell.cn/articles/17381.html)</sub>
 
+**[2016-02]**
+
++ [史上最全“汉译名著”书目（必备书单）](1602-shi_shang_zui_quan_han_yi_ming_zhu_shu_mu_bi_bei_shu_dan) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=402596146&idx=1&sn=da3086194a40af2ea9d172dc23d7ad7e)</sub>
+
 **[2015-09]**
 
 + [“神策数据”面向中小企业提供私人定制方案，算是条蹊径么？](1509-shen_ce_shu_ju_mian_xiang_zhong_xiao_qi_ye_ti_gong_si_ren_ding_zhi_fang_an_suan_shi_tiao_xi_jing_me) <sub>[\[36kr.com\]](https://36kr.com/p/5037763)</sub>

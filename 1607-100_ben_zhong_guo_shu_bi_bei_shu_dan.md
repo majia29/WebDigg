@@ -1179,22 +1179,3 @@
 
 ![image](images/1607-100bzgsbbsd-101.jpeg)
 
-**猜你喜欢：**
-
-* [史上最全“汉译名著”书目](http://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=402596146&idx=1&sn=da3086194a40af2ea9d172dc23d7ad7e&scene=21#wechat_redirect)
-
-* [17本哲学社会](http://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=2651021766&idx=1&sn=e7d74827cd40914e906bac700f874d4d&scene=21#wechat_redirect)[科学经典 ](http://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=2651021766&idx=1&sn=e7d74827cd40914e906bac700f874d4d&scene=21#wechat_redirect)
-
-* [](http://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=2651021766&idx=1&sn=e7d74827cd40914e906bac700f874d4d&scene=21#wechat_redirect)[那些年，我们追过的100个书单](http://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=402884733&idx=1&sn=8f47d3af19f0ea5ef5cda2c6d89993ce&scene=21#wechat_redirect)
-
-* [](http://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=2651021766&idx=1&sn=e7d74827cd40914e906bac700f874d4d&scene=21#wechat_redirect)[那些年，我们追过的100篇暖文](http://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=402399111&idx=1&sn=7a665e85ec7467d889f453326532ae35&scene=21#wechat_redirect)
-
-* [100本好书（必备书单） ](http://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=2651020809&idx=1&sn=0b239403259d75da20afbdb1928274c6&scene=21#wechat_redirect)
-
-[](http://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=2651020809&idx=1&sn=0b239403259d75da20afbdb1928274c6&scene=21#wechat_redirect)
-
-![image](images/1607-100bzgsbbsd-102.jpeg)
-
-欢迎点击“阅读原文”
-
-选购您心仪的图书
