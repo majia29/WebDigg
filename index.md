@@ -1,6 +1,7 @@
 
 **[2020-02]**
 
++ [白皮手册与绿皮手册：新冠肺炎诊断标准之变](2002-bai_pi_shou_ce_yu_lv_pi_shou_ce_xin_guan_fei_yan_zhen_duan_biao_zhun_zhi_bian) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/vysNta8IU2wbRBv-c3aS4Q)</sub>
 + [方方：不止你一个人痛苦和艰难，人活着有很多方式](2002-fang_fang_bu_zhi_ni_yi_ge_ren_tong_ku_he_jian_nan_ren_huo_zhao_you_hen_duo_fang_shi) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/46l6xG_EtUmgSDapqELk2A)</sub>
 + [方方：岁月在灾难中没有静好，只有生者的向死而生](2002-fang_fang_sui_yue_zai_zai_nan_zhong_mei_you_jing_hao_zhi_you_sheng_zhe_de_xiang_si_er_sheng) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/tVhPVBBslFMJoq3AxX_64g)</sub>
 + [铺天盖地的炒作下，我依然觉得深度强化学习是浪费时间](2002-pu_tian_gai_di_de_chao_zuo_xia_wo_yi_ran_jue_de_shen_du_qiang_hua_xue_xi_shi_lang_fei_shi_jian) <sub>[\[mp.weixin.qq.com\]](https://mp.weixin.qq.com/s/wJARdiVi3FMb_lS1lNtZ7g)</sub>

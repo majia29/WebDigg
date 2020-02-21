@@ -1377,17 +1377,3 @@
 12、比较语音学概要 \[法\]保尔·巴西 著
 
 13、语言学概论 \[英\]L. R. 帕默尔 著
-
-推荐阅读：
-
-1.[新年，从读书开始](http://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=402361908&idx=1&sn=5beaa7df4ac9f89347df6e9cede4c2cf&scene=21#wechat_redirect)
-
-2.[那些年，我们追过的50个书单](http://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=402376887&idx=1&sn=7c04b128affbfedb8250a1ba80048371&scene=21#wechat_redirect)
-
-3.[那些年，我们追过的100篇暖文](http://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=402399111&idx=1&sn=7a665e85ec7467d889f453326532ae35&scene=21#wechat_redirect)
-
-![image](images/1602-sszqhymzsmbbsd-5.jpeg)
-
-欢迎点击“阅读原文”
-
-在商务印书馆官方微店选购您心仪的图书
